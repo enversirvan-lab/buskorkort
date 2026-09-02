@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Buss Teoriprov - Övningsprov och simulering</title>
     
-    <meta name="description" content="Förbered dig för bussens teoriprov med 120 aktuella frågor, verklig simulering och omedelbart resultat. Anpassad till 2026 års Trafikverket-läroplan." />
+    <meta name="description" content="Förbered dig för bussens teoriprov med 240 aktuella frågor, verklig simulering och omedelbart resultat. Anpassad till 2026 års Trafikverket-läroplan." />
     <meta name="robots" content="index, follow" />
     <link rel="canonical" href="https://teoripro.netlify.app" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -643,7 +643,7 @@
         <div id="loadingScreen">
             <i class="fa-solid fa-spinner fa-spin"></i>
             <h2>Laddar frågebank...</h2>
-            <p>120 frågor förbereds, vänligen vänta.</p>
+            <p>240 frågor förbereds, vänligen vänta.</p>
         </div>
 
         <!-- PROVYTA (dold från början) -->
@@ -772,7 +772,7 @@
             return { testId: t ? parseInt(t) : 1, mode: mode || 'normal' };
         }
 
-        // ★★★ TEST ID'YE GÖRE SORULARI GETİR ★★★
+        // ★★★ TEST 1, 2, 3, 4 ★★★
         function getQuestionsForExam(testId) {
             if (allQuestionsDatabase.length === 0) return [];
             
@@ -786,9 +786,19 @@
                 return allQuestionsDatabase.filter(q => q.id >= 61 && q.id <= 120);
             }
             
-            // Test 3: ID 121-180 (ileride)
+            // Test 3: ID 121-180
             if (testId === 3) {
                 return allQuestionsDatabase.filter(q => q.id >= 121 && q.id <= 180);
+            }
+            
+            // Test 4: ID 181-240
+            if (testId === 4) {
+                return allQuestionsDatabase.filter(q => q.id >= 181 && q.id <= 240);
+            }
+            
+            // Test 5: ID 241-300 (ileride)
+            if (testId === 5) {
+                return allQuestionsDatabase.filter(q => q.id >= 241 && q.id <= 300);
             }
             
             // Varsayılan: Test 1 (1-60)
