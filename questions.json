@@ -103,19 +103,19 @@
         "aciklama": ""
     },
     {
-        "id": 9,
-        "soru": "Vilken vikt anses?",
-        "gorsel_yolu": "../images/b9.webp",
-        "secenekler": [
-            "Bruttovikt",
-            "Totalvikt",
-            "Lastvikt",
-            "Tjänstevikt",
-            "Axeltryck"
-        ],
-        "dogru_index": 1,
-        "aciklama": ""
-    },
+    "id": 9,
+    "soru": "Vilken vikt anses?",
+    "gorsel_yolu": "../images/b9.webp",
+    "secenekler": [
+        "Bruttovikt",
+        "Totalvikt",
+        "Lastvikt",
+        "Tjänstevikt",
+        "Axeltryck"
+    ],
+    "dogru_index": 0,
+    "aciklama": "Bruttovikt är den vikt fordonet har vid ett visst tillfälle, inklusive last, passagerare, bränsle, verktyg och all annan utrustning som finns i fordonet just då. Bruttovikten varierar beroende på hur mycket last du har, hur mycket bränsle det finns i tanken, antal passagerare och så vidare. Högsta tillåtna bruttovikt bestäms av vad vägen tillåter och vad fordonet är godkänt för."
+},
     {
         "id": 10,
         "soru": "Hur påverkas vår syn normalt av ålder?",
