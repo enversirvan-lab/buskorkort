@@ -2300,8 +2300,8 @@
     "soru": "Båda bilarna har stannat för att släppa av passagerare.\nHar någon stannat på ett tillåtet sätt?",
     "gorsel_yolu": "../images/b179.webp",
     "secenekler": [
-        "Ja, den ljusa bilen.",
-        "Ja, den mörka bilen.",
+        "Ja, den röda bilen.",
+        "Ja, den grå bilen.",
         "Ja, båda bilarna.",
         "Nej, ingen av bilarna."
     ],
