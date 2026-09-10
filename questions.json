@@ -2092,7 +2092,7 @@
 {
         "id": 163,
         "soru": "Du ska köra rakt fram i korsningen. Hur ska du agera?",
-        "gorsel_yolu": "../images/r29.webp",
+        "gorsel_yolu": "../images/b163.webp",
         "secenekler": [
             "Jag väntar och låter cyklisten passera först, eftersom den signalerar att den ska svänga",
             "Jag kör först, men är beredd att bromsa eftersom cyklisten signalerar sväng",
