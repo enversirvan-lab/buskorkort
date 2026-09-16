@@ -3266,18 +3266,18 @@
         "aciklama": "Bild A : Väjningsplikt. Bild B : Varning för annan fara. Bild C :Varning för - vägkorsning där trafikanter på anslutande väg har väjningsplikt eller stopplikt. Bild D :Varning för vägkorsning, skymd sikt ,högerregler gäller."
     },
     {
-        "id": 255,
-        "soru": "Vilket vägmärke gäller tills slutmärke finns uppsatt?",
-        "gorsel_yolu": "../images/b255.webp",
-        "secenekler": [
-            "Vägmärke A",
-            "Vägmärke B",
-            "Vägmärke C",
-            "Vägmärke D"
-        ],
-        "dogru_index": 1,
-        "aciklama": "Det finns flera vägmärken som har ett tillhörande slutmärke. Ett par exempel på vägmärken som har slutmärken är märkena för gågata, rekommenderad lägre hastighet, motortrafikled och tätbebyggt område. Slutmärken används för att visa att området eller hänvisningarna som det föregående vägmärket angav upphör från och med platsen där slutmärket sitter."
-    },
+    "id": 255,
+    "soru": "Vilket vägmärke gäller tills slutmärke finns uppsatt?",
+    "gorsel_yolu": "../images/b255.webp",
+    "secenekler": [
+        "Vägmärke A",
+        "Vägmärke B",
+        "Vägmärke C",
+        "Vägmärke D"
+    ],
+    "dogru_index": 3,
+    "aciklama": "Vägmärke D (C29) gäller tills slutmärket C30 är uppsatt. C29 innebär förbud mot omkörning med tung lastbil."
+},
     {
         "id": 256,
         "soru": "Vad bör du i första hand ha beredskap för i denna situation?",
