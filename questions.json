@@ -5395,6 +5395,486 @@
     ],
     "dogru_index": 1,
     "aciklama": "Om en bussförare lämnar platsen utan att stanna för att lämna sina kontaktuppgifter, rubriceras händelsen som smitning, vilket är ett brott. Smitning kan leda till böter eller fängelse beroende på omständigheterna, exempelvis om det föreligger skador eller andra allvarliga konsekvenser. För att undvika påföljder är det viktigt att alltid stanna vid en olycksplats och samarbeta med myndigheterna."
-}
+},
+{
+        "id": 421,
+        "soru": "Efter vilket vägmärke gäller ständigt förbjud att parkera om inget annat anges?",
+        "gorsel_yolu": "../images/b421.webp",
+        "secenekler": ["Efter vägmärke A", "Efter vägmärke B", "Efter vägmärke C", "Efter vägmärke D"],
+        "dogru_index": 2,
+        "aciklama": "Vägmärke C (C39 – Förbud mot att stanna och parkera fordon) innebär att det är förbjudet att både stanna och parkera efter märket, om inget annat anges. Vägmärke A visar huvudled, där parkering också är förbjuden enligt de generella trafikreglerna. Skillnaden är att C39 dessutom förbjuder stannande. Därför är C rätt svar när frågan gäller ett vägmärke som förbjuder både stannande och parkering."
+    },
+    {
+        "id": 422,
+        "soru": "Du kör en buss med en totalvikt på 3400 kg. Hur fort får du högst köra på en motorväg där den högsta tillåtna hastigheten är 110 km/tim?",
+        "gorsel_yolu": "../images/b422.webp",
+        "secenekler": ["80 km/tim", "90 km/tim", "100 km/tim", "110 km/tim"],
+        "dogru_index": 3,
+        "aciklama": "Om din buss har en totalvikt på 3400 kg och du kör på en motorväg där den högsta tillåtna hastigheten är 110 km/h, så får du faktiskt köra i 110 km/h, eftersom den totala vikten är under 3 500 kg och du inte omfattas av restriktionerna för tunga lastbilar."
+    },
+    {
+        "id": 423,
+        "soru": "Vilken är det största risken med att beräkna när alkoholen lämnat kroppen helt och hållet?",
+        "gorsel_yolu": "../images/b423.webp",
+        "secenekler": ["Förbränningstiden kan variera vid olika tillfällen, trots att man förtärt samma mängd alkohol", "Det är svårt att komma ihåg hur mycket alkohol en människa förbränner i en timme", "Den genomsnittliga förbränningetid som brukar anges är ofta för kort", "Det är lätt att räkna fel på grund av trötthet dagen efter en fest"],
+        "dogru_index": 0,
+        "aciklama": "Förbränningstiden kan variera vid olika tillfällen, även om man har konsumerat samma mängd alkohol. Faktorer som trötthet, stress, kost, hälsotillstånd och andra omständigheter kan påverka hur snabbt kroppen förbränner alkoholen. Eftersom alkohol metaboliseras av levern och påverkas av individuella faktorer, kan förbränningstiden skilja sig från gång till gång, vilket gör att det är svårt att exakt förutsäga när alkoholen helt har lämnat kroppen."
+    },
+    {
+        "id": 424,
+        "soru": "Att människor gör misstag orsakar olyckor i trafiken. Vad kan du som förare göra för att minska den risken?",
+        "gorsel_yolu": "../images/b424.webp",
+        "secenekler": ["Prata i mobilen endast korta stunder", "Försöka att inte överskatta min egen förmåga", "Håll läger fart än vad som är tillåtet i varje situation", "Alltid följa trafikreglerna oavsett vad andra trafikanter gör"],
+        "dogru_index": 1,
+        "aciklama": "Att inte överskatta din egen förmåga är en viktig strategi för att minska risken för olyckor. Det handlar om att vara medveten om sina begränsningar och vara öppen för att anpassa sitt körsätt efter situationen."
+    },
+    {
+        "id": 425,
+        "soru": "Du kommer till en olycksplats med skadade personer i och runt fordonet. Vad ska du göra först av följande situationer?",
+        "gorsel_yolu": "../images/b425.webp",
+        "secenekler": ["Lägga alla personer i stabilt sidoläge", "Skapa fria luftvägar", "Ta hand om blödningar", "Flytta personer undan risk för brand och påkörning"],
+        "dogru_index": 3,
+        "aciklama": "Det är mycket viktigt att flytta personer undan risken för brand och påkörning om det är möjligt och säkert att göra det. Om du kommer till en olycksplats där personer är skadade, bör du först bedöma om det finns risk för brand från fordonet eller bränsleläckage."
+    },
+    {
+        "id": 426,
+        "soru": "Du ska köra beställningsresa med 50 passagerare. Vid säkerhetskontrollen saknas glashammare. Vad ska du göra?",
+        "gorsel_yolu": "../images/b426.webp",
+        "secenekler": ["Jag hämtar mina passagerare och sedan skaffar jag glashammare under resan", "Jag informerar mina passagerare om att det saknas glashammare", "Jag skaffar glashammare innan jag hämtar passagerare"],
+        "dogru_index": 2,
+        "aciklama": "Om glashammaren saknas vid säkerhetskontrollen innan en beställningsresa med 50 passagerare, ska du inte köra bussen förrän alla säkerhetskrav är uppfyllda. En glashammare är ett viktigt säkerhetsverktyg för att kunna krossa fönsterglaset vid en nödsituation, så det är ett krav enligt säkerhetsföreskrifterna. Se till att glashammaren placeras i bussen innan avfärd."
+    },
+    {
+        "id": 427,
+        "soru": "Hur visar en förare bäst omdöme dagen efter att han druckit en större mängd alkohol?",
+        "gorsel_yolu": "../images/b427.webp",
+        "secenekler": ["Då föraren håller noga koll på hur mycket han dricker och sedan räknar ut vid vilken tidpunkt han åter kan köra", "Då föraren låter bilen stå hela dagen för att vara säker på att alkoholen inte inverkar på körningen", "Då föraren börjar med att motionera och sedan badar bastu för att skynda på alkoholförbeningen"],
+        "dogru_index": 1,
+        "aciklama": "Att låta bilen stå hela dagen för att vara säker på att alkoholen inte inverkar på körningen är ett mycket bra och ansvarsfullt beslut. Alkoholens effekt kan kvarstå länge efter att du druckit, och även om du kanske känner dig okej, kan din reaktionsförmåga och koncentration fortfarande vara påverkade."
+    },
+    {
+        "id": 428,
+        "soru": "Du kör en buss med en lätt släpvagn. Vilken är det högsta tillåtna hastighet för fordonskombinationen?",
+        "gorsel_yolu": "../images/b428.webp",
+        "secenekler": ["70 km/tim", "80 km/tim", "90 km/tim", "100 km/tim", "110 km/tim"],
+        "dogru_index": 1,
+        "aciklama": "För en buss med en lätt släpvagn är den högsta tillåtna hastigheten 80 km/h om inte annat anges på vägskyltar eller i specifika regler för vägsträckan. En \"lätt släpvagn\" definieras som en släpvagn med en totalvikt som inte överstiger 750 kg."
+    },
+    {
+        "id": 429,
+        "soru": "Det finns bussar som är utrustade med Volvo Engine Brake(VEB). När har man nytta av VEB?",
+        "gorsel_yolu": "../images/b429.webp",
+        "secenekler": ["När det är för lågt tryck i tryckluftssystemet", "När man måste nödstanna motorn", "När man ska nödstoppa dörrarna", "När man kör i långa och branta nedförsbackar"],
+        "dogru_index": 3,
+        "aciklama": "Volvo Engine Brake (VEB) är ett system som hjälper till att bromsa fordonet genom att använda motorns kompression, vilket minskar behovet av traditionella bromsar. Man har nytta av VEB i situationer som vid långa och branta nedförsbackar för att hålla en jämn och kontrollerad hastighet och undvika överhettning av de vanliga bromsarna."
+    },
+    {
+        "id": 430,
+        "soru": "Det är sommar och du kör en tvåvåningsbuss på en motorväg efter 25 mil körning ska du svänga av motorvägen. Vad påverkar körstabiliteten mest i kurvan på avfarten?",
+        "gorsel_yolu": "../images/b430.webp",
+        "secenekler": ["Mönsterdjupet på däcken", "Hastigheten", "Hur skarp kurvan är", "Lufttrycket i däcken", "Vilken dosering kurvan har"],
+        "dogru_index": 1,
+        "aciklama": "Körstabiliteten i kurvan på avfarten påverkas mest av bussens hastighet och kurvans radie. För en tvåvåningsbuss finns även ett särskilt fokus på bussens högre tyngdpunkt, vilket gör den mer känslig för sidokrafter vid svängar. Ju högre hastighet och ju skarpare kurva det är, desto större risk finns det för att bussens stabilitet påverkas negativt."
+    },
+    {
+        "id": 431,
+        "soru": "Får du köra om fordonet som ligger i den vänstra körfältet?",
+        "gorsel_yolu": "../images/b431.webp",
+        "secenekler": ["Ja, men enbart om fordonet kör långsammare än gällande hastighetsbegränsning", "Ja, alltid", "Ja, men enbart om hastighetsbegränsningen är 70 km/tim eller lägre", "Nej, aldrig"],
+        "dogru_index": 2,
+        "aciklama": "Enligt trafikreglerna får du endast köra om fordon som ligger i det vänstra körfältet om hastighetsbegränsningen är 70 km/h eller lägre på en väg med flera körfält i samma riktning. Detta gäller i Sverige när det rör sig om vägar där det finns särskilda regler för körning i vänstra körfältet, ofta för att undvika onödiga omkörningar och upprätthålla trafikflödet."
+    },
+    {
+        "id": 432,
+        "soru": "Hur påverkas vår syn av normalt åldrande?",
+        "gorsel_yolu": "../images/b432.webp",
+        "secenekler": ["Vi får bättre färgseende", "Vi ser bättre på nära håll", "Vi får sämre mörkerseende", "Vi blir mindre känsliga för bländning"],
+        "dogru_index": 2,
+        "aciklama": "Att mörkerseendet försämras med åldern beror på flera faktorer som är kopplade till normalt åldrande av ögat, såsom försämrad funktion hos stavarna som ansvarar för syn i svagt ljus, förändrad pupillreaktion och eventuell gråstarr (katarakt)."
+    },
+    {
+        "id": 433,
+        "soru": "Du kör en 12m lång buss i 30 km/tim. Hur lång blir reaktionssträckan om det tar 1 sekund att reagera?",
+        "gorsel_yolu": "../images/b433.webp",
+        "secenekler": ["Ca 8 m", "Ca 19 m", "Ca 28 m", "Ca 41 m"],
+        "dogru_index": 0,
+        "aciklama": "Reaktionssträckan beräknas genom att multiplicera hastigheten med reaktionstiden. Eftersom du kör i 30 km/h och reaktionstiden är 1 sekund, omvandlas hastigheten till meter per sekund (30 km/h = 30 x 1000 / 3600 = 8,33 m/s), vilket ger en reaktionssträcka på cirka 8 meter."
+    },
+    {
+        "id": 434,
+        "soru": "Hur kan du med ditt körsätt minska avgasutsläppen från din buss?",
+        "gorsel_yolu": "../images/b434.webp",
+        "secenekler": ["Jag kör med låga varvtal med så låg växel som möjligt", "Jag kör med höga varvtal för att effektivt utnyttja motorns vridmoment", "Jag kör med låga varvtal med så hög växel som möjligt", "Jag kör så fort som möjligt för att minska körtiden"],
+        "dogru_index": 2,
+        "aciklama": "För att minska avgasutsläppen från din buss kan du anpassa ditt körsätt genom att köra med låga varvtal och så hög växel som möjligt, undvika onödiga accelerationer och bromsningar, planera din körning för att minska tomgångskörning samt hålla däcken korrekt uppblåsta för att undvika förhöjt rullmotstånd."
+    },
+    {
+        "id": 435,
+        "soru": "Med vilken av följande bussar får du köra förbi vägmärket?",
+        "gorsel_yolu": "../images/b435.webp",
+        "secenekler": ["En buss med tjänstevikt 8,5 ton lastad med 4 ton", "En buss med totalvikt 14 ton och bruttovikt 9 ton", "En buss med tjänstevikt 9 ton och bruttovikt 11 ton", "En buss med boggitryck på 10 ton"],
+        "dogru_index": 1,
+        "aciklama": "En buss med totalvikt på 14 ton och bruttovikt på 9 ton innebär att totalvikten är den maximala vikten bussen får väga, inklusive passagerare, last, och själva fordonet. Bruttovikten är den vikt bussen har vid ett givet tillfälle, vilket troligen är utan last eller passagerare, eller när endast en del av lasten är lastad om vi tänker på lastkapaciteten."
+    },
+    {
+        "id": 436,
+        "soru": "Du kör en buss med lätt släpvagn bussens längd är 11 meter och släpvagnen längd är 4 meter. Får du passera vägmärke?",
+        "gorsel_yolu": "../images/b436.webp",
+        "secenekler": ["Ja, eftersom märket enbart gäller lastbilar", "Ja, eftersom bussenslängd är 11 meter", "Nej, eftersom den sammanlagda längden är 15 meter"],
+        "dogru_index": 2,
+        "aciklama": "Om du kör en buss med en lätt släpvagn, och vägmärket visar 12 meter förbud, gäller det totala fordonets längd (buss + släpvagn). I ditt fall är bussens längd 11 meter och släpvagns längd är 4 meter, vilket ger en sammanlagd längd på 15 meter. Eftersom 15 meter är längre än 12 meter, får du inte passera vägmärke."
+    },
+    {
+        "id": 437,
+        "soru": "Motorvägen som du kör på övergår strax i motortrafikled vilken är den största risken du måste vara medveten om?",
+        "gorsel_yolu": "../images/b437.webp",
+        "secenekler": ["Att det kan finnas långsamtgående fordon på vägrenen", "Att det kan finnas cyklist på vägrenen", "Att det kan finnas korsande trafik i samma plats", "Att det kan finnas mötande trafik på samma körbana"],
+        "dogru_index": 3,
+        "aciklama": "Den största risken när en motorväg övergår till en motortrafikled är att trafikflödet kan förändras och att vägen inte alltid är fysiskt separerad för olika riktningar, vilket innebär att du kan möta trafik som rör sig i motsatt riktning på samma körbana."
+    },
+    {
+        "id": 438,
+        "soru": "Du gör en säkerhetskontroll på din buss. Vad kan hända om det är för låg vätskenivå i behållaren?",
+        "gorsel_yolu": "../images/b438.webp",
+        "secenekler": ["Motorn är överhettad", "Bromsarna fryser vid kall väderlek", "Motorn får ingen smörjning", "Bussen blir svår att styra"],
+        "dogru_index": 3,
+        "aciklama": "Om vätskenivån i servostyrningssystemet är för låg kan det leda till att bussen blir svår att styra. Servostyrningen hjälper till att minska den kraft som krävs för att vrida på ratten, och om vätskenivån är för låg kan styrningen bli tung och mindre responsiv."
+    },
+    {
+        "id": 439,
+        "soru": "Vilket fordon ska baktill ha två stycken triangel reflexer?",
+        "gorsel_yolu": "../images/b439.webp",
+        "secenekler": ["Lastbil", "Buss", "Traktor", "Släpvagn"],
+        "dogru_index": 3,
+        "aciklama": "Ett lastbilstransportfordon eller ett trailer som har en totalvikt på mer än 3,5 ton och är längre än 6 meter ska ha två stycken triangelreflexer bak. En släpvagn som har en totalvikt på över 3,5 ton eller en längd som överstiger 6 meter ska också ha två triangelreflexer bak för att göra fordonet synligt vid dåliga ljusförhållanden eller i mörker."
+    },
+    {
+        "id": 440,
+        "soru": "Din buss har skivbromsar på framaxeln. Vad är viktigaste att kontrollera?",
+        "gorsel_yolu": "../images/b440.webp",
+        "secenekler": ["Bromstummorna förslitning", "Bromsbandens förslitning", "Bromsokens rörlighet", "Bromsklossarnas förslitning", "Slaglängder"],
+        "dogru_index": 3,
+        "aciklama": "När din buss har skivbromsar på framaxeln är det viktigaste att kontrollera bromsbeläggens (bromsklossarnas) tjocklek för att säkerställa att beläggen inte är slitna och att det finns tillräcklig tjocklek för effektiv bromsning."
+    },
+    {
+        "id": 441,
+        "soru": "Du ska med din ledbuss lämna en hållplats och måste styra kraftigt åt vänster. Bussen är utrustad med styrbar bakaxel. Vilken är det största riske i den här situationen?",
+        "gorsel_yolu": "../images/b441.webp",
+        "secenekler": ["Att det uppstår stora brytningar i leden på bussen", "Att bakändan på bussen kan gå upp på trottoaren", "Att styrservon överhettas", "Att bakdäcken går emot trottoarkanten"],
+        "dogru_index": 1,
+        "aciklama": "När du lämnar en hållplats med en ledbuss som har en styrbar bakaxel och måste styra kraftigt åt vänster, är den största risken att bakaxeln kan följa en oväntad bana eller att bakändan på bussen kan svänga ut/gå upp på trottoaren på grund av axelns motriktade styrning."
+    },
+    {
+        "id": 442,
+        "soru": "Vad bör du först beredd på i denna situation?",
+        "gorsel_yolu": "../images/b442.webp",
+        "secenekler": ["Mötande fordon på fel sida", "Fordon från höger i korsningen efter den vita huset", "Barn från höger före den vita huset", "Parkerade bil direkt efter kurvan", "Fordon från vänster i korsning i kurvan"],
+        "dogru_index": 1,
+        "aciklama": "När du kör på en väg med kurvor och skymd sikt, till exempel nära hus vid vägkanten, bör du vara beredd på att det kan dyka upp fordon från höger i en anslutande korsning efter det vita huset."
+    },
+    {
+        "id": 443,
+        "soru": "Bussen du kör ser ut så här bakom motorluckan. Vad händer om den inringade komponenten slutar att fungera när du kör?",
+        "gorsel_yolu": "../images/b443.webp",
+        "secenekler": ["Dörrautomatk och hållplatsbroms slutar fungera", "Bränsleförbrukning ökar", "Avgaserna rensas inte från sotpartiklar", "Bromstrycket sjunker", "Diesel pumpas inte fram till motorn"],
+        "dogru_index": 3,
+        "aciklama": "Om den inringade komponenten (såsom en kompressor eller tryckregulator för bromssystemet) bakom motorluckan slutar fungera, kan bromstrycket på bussen sjunka, vilket innebär en allvarlig risk för bristande bromseffekt och påverkar luftbromsarnas funktionalitet."
+    },
+    {
+        "id": 444,
+        "soru": "Vad huvudsyftet när städer inför så kallad miljözoner?",
+        "gorsel_yolu": "../images/b444.webp",
+        "secenekler": ["Att minska användningen av vägsalt i staden", "Att minska utsläppen av avgaser i världen", "Att minska utsläppen av avgaser i staden", "Att minska bullernivå i staden"],
+        "dogru_index": 2,
+        "aciklama": "Huvudsyftet med att införa miljözoner i städer är att förbättra luftkvaliteten och minska de negativa miljöeffekterna från trafik genom att minska utsläppen av avgaser i staden."
+    },
+    {
+        "id": 445,
+        "soru": "Du kör en buss med de här fordonsuppgifterna. Vilken är det högsta tillåtna axeltrycket på drivaxel när du kör på BK1 väg?",
+        "gorsel_yolu": "../images/b445.webp",
+        "secenekler": ["7100kg", "12 000kg", "11 500kg", "10 000kg", "13 720kg"],
+        "dogru_index": 2,
+        "aciklama": "Maximalt axeltryck på BK1, BK2 och BK4 får inte överstiga 11 500 kg. Även om bussen klarar 12 000 kg enligt sina egna specifikationer, sätter vägens bärighet en begränsning på högst 11 500 kg på drivaxeln."
+    },
+    {
+        "id": 446,
+        "soru": "Du kör i 40 km/tim och ska följa gatan som svänger till höger hur ska du planera din körning?",
+        "gorsel_yolu": "../images/b446.webp",
+        "secenekler": ["Jag passerar barnen utan att köra över mittlinjen och har extra uppmärksamhet in i korsningen till vänster", "Jag sänker farten, tar ut avstånd i sidled och har kontroll i högerspegel när jag passerar barnen", "Jag behåller min hastighet så att jag hinner köra förbi barnen innan kurvan och har extra uppmärksamhet på mötande trafik"],
+        "dogru_index": 1,
+        "aciklama": "När du kör förbi barn nära en kurva ska du planera din körning genom att sänka farten för att ha god kontroll, ta ut ett säkert avstånd i sidled och kontrollera högerspegeln för att säkerställa full överblick över situationen."
+    },
+    {
+        "id": 447,
+        "soru": "Du närmar dig bron på bild D. Vilket vägmärke finns sannolikt uppsatt för mötande fordon på andra sidan bron?",
+        "gorsel_yolu": "../images/b447.webp",
+        "secenekler": ["Vägmärke A", "Vägmärke B", "Vägmärke C"],
+        "dogru_index": 0,
+        "aciklama": "Det finns två olika skyltar för varning för sidvind: från höger och från vänster. När du närmar dig en bro kan vinden påverka fordonet olika beroende på riktning; om vindbyarna kommer från ett visst håll för det ena körriktningen, kommer mötande fordon på andra sidan att möta vinden från motsatt håll (t.ex. vägmärke A)."
+    },
+    {
+        "id": 448,
+        "soru": "Du har möjlighet att välja tidpunkt för byte av däck på din buss. Har det någon betydelse när under året du byter däcken ur miljösynpunkt?",
+        "gorsel_yolu": "../images/b448.webp",
+        "secenekler": ["Ja, det är best under november-december", "Nej, det är best under maj-juni", "Nej"],
+        "dogru_index": 0,
+        "aciklama": "Du måste använda vinterdäck vid vinterväglag under tidsperioden 1 december – 31 mars, och du får använda dubbdäck under tidsperioden 1 oktober – 15 april. Därför har tidpunkten för däckbyte betydelse utifrån gällande regler och miljö-/säkerhetsaspekter."
+    },
+    {
+        "id": 449,
+        "soru": "Du kör en buss i vinterväglag. Vilken risk måste du räkna med när du ska svänga i korsningar och tvära kurvor?",
+        "gorsel_yolu": "../images/b449.webp",
+        "secenekler": ["Bussen kan börja sladda", "Bussen kan bli överstyrd", "Bussen kan fortsätta rakt fram när jag vrider på ratten", "Retarden kan sluta fungera"],
+        "dogru_index": 0,
+        "aciklama": "När du kör en buss i vinterväglag och svänger kan bussen börja sladda, antingen genom framhjulssladd (understyrning) eller bakhjulssladd (överstyrning), vilket är särskilt riskfyllt i tvära kurvor och vid för hög hastighet."
+    },
+    {
+        "id": 450,
+        "soru": "Du ska lämna en hållplats i ett område där hastigheten är begränsad till 50 km/tim. Vad av följande är viktigt?",
+        "gorsel_yolu": "../images/b450.webp",
+        "secenekler": ["All bakomvarande trafik måste stanna, när jag ger tecken med vänster blinker", "Jag måste vara särskild försiktig så att jag inte tränger fordon som håller på att passera bussen", "När jag har gett tecken med vänster blinkers"],
+        "dogru_index": 1,
+        "aciklama": "När du lämnar en hållplats i ett område med 50 km/tim eller lägre är det bussföraren som har företräde, men det är mycket viktigt att vara särskilt försiktig så att du inte tränger andra fordon som redan passerar bussen. Utfarten får endast ske utan fara eller onödigt hinder för övrig trafik."
+    },
+    {
+        "id": 451,
+        "soru": "Vilken av följande reflex ska finnas baktill på en tung lastbil?",
+        "gorsel_yolu": "../images/b451.webp",
+        "secenekler": ["A", "B", "C", "D"],
+        "dogru_index": 2,
+        "aciklama": "Bild A visar reflex för lätt släpvagn, bild B visar LGF-skylt för långsamtgående fordon, bild C visar reflexmarkering för tung lastbil (rektangulära skyltar med diagonala fält av växelvis rött fluorescerande eller reflekterande material och gult ljus), och bild D visar reflex för tungt släp."
+    },
+    {
+        "id": 452,
+        "soru": "Vad gäller för att utryckningsfordon ska få påkalla friväg?",
+        "gorsel_yolu": "../images/b452.webp",
+        "secenekler": ["Båda ljud och ljus anordningar måste vara påslagna samtidigt", "Det räcker att antingen ljud eller ljusanordningar är påslagna", "Om fordonet har hög fart behöver inte larmanordningar vara påslagna", "Blinkande blått och rött ljus framtill ska vara påslaget"],
+        "dogru_index": 1,
+        "aciklama": "För att utryckningsfordon ska få påkalla fri väg räcker det att antingen ljud- eller ljusanordningar är påslagna. Det är alltså inte ett krav att båda används samtidigt, även om det oftast görs för att uppmärksamma trafikanter bättre."
+    },
+    {
+        "id": 453,
+        "soru": "När ska den inringade knappen på bilden användas för?",
+        "gorsel_yolu": "../images/b453.webp",
+        "secenekler": ["Vid bromsningen i nedförsbacke (utförsbacke)", "Vid parkeringen", "Vid acceleration i uppförsbacke"],
+        "dogru_index": 1,
+        "aciklama": "Den inringade knappen (parkeringsbromsen/färdbromsreglaget för parkering) ska användas när du parkerar fordonet för att säkerställa att det står stilla, särskilt i lutande terräng."
+    },
+    {
+        "id": 454,
+        "soru": "Du har körkort klass BD och kör en buss med totalvikt 3600 kg. Vilket av följande släp får du koppla till bussen och köra med din behörighet?",
+        "gorsel_yolu": "../images/b454.webp",
+        "secenekler": ["Ett släp som har tjänstevikt på 750 kg", "Ett släp som har en maxlast på 750 kg", "Ett släp som är halvlastad och har en bruttovikt på 750 kg", "Ett släp som är totalvikt på 750 kg"],
+        "dogru_index": 3,
+        "aciklama": "Med ditt BD-körkort (D1/D1E) får du koppla ett lätt släp med en totalvikt på högst 750 kg till bussen, vilket gör att den sammanlagda totalvikten (3600 kg + 750 kg = 4350 kg) ligger inom ramen för behörigheten."
+    },
+    {
+        "id": 455,
+        "soru": "Du kör en buss som är utrustad med bilbälte på samtliga sittplatser. Vad gäller?",
+        "gorsel_yolu": "../images/b455.webp",
+        "secenekler": ["Enbart passagerare måste använda bilbälte", "Enbart passagerare under 15 år måste använda bilbälte", "Båda jag och passagerare måste använda bilbälte", "Enbart jag som förare måste använda bilbälte"],
+        "dogru_index": 2,
+        "aciklama": "När du kör en buss med bilbälte på samtliga sittplatser måste både du som förare och passagerarna använda bilbälte under färd."
+    },
+    {
+        "id": 456,
+        "soru": "I vilket alternativ får du köra samtliga fordon om du har behörighet BD?",
+        "gorsel_yolu": "../images/b456.webp",
+        "secenekler": ["Personbil med tillkopplad, tung släpvagn, terrängvagn, tung lastbil, buss", "Personbil, lätt lastbil, terrängvagn, buss", "Personbil med tillkopplad tung släpvagn, terrängvagn, lätt lastbil, buss", "Personbil med tillkopplad lätt släpvagn", "Personbil med tillkopplad lätt släpvagn, tung lastbil tillkopplad lätt släpvagn, buss"],
+        "dogru_index": 1,
+        "aciklama": "Med körkort klass BD (D1/D1E) får du köra buss, personbil och lätt lastbil. För terrängvagnar krävs i regel särskild behörighet om de inte ryms inom klasserna för bil."
+    },
+    {
+        "id": 457,
+        "soru": "I vilken av följande situationer räknas bussen som parkerad?",
+        "gorsel_yolu": "../images/b457.webp",
+        "secenekler": ["När jag har stanna för att ta upp passagerare", "När jag har stanna föra att ringa mobilsamtal", "När jag har stanna för att lasta av"],
+        "dogru_index": 1,
+        "aciklama": "Om du stannar för att ringa ett mobilsamtal räknas bussen som parkerad eftersom den står stilla och inte är i rörelse, till skillnad från att stanna för på-/avstigning eller lastning."
+    },
+    {
+        "id": 458,
+        "soru": "Vilken faktor förutom erfarenheten är viktig för att du som förare ska klara en kopterad trafiksituation?",
+        "gorsel_yolu": "../images/b458.webp",
+        "secenekler": ["Lite observatområde", "Förutseende", "Lång reaktionstid"],
+        "dogru_index": 1,
+        "aciklama": "Förutom erfarenhet och uppmärksamhet är förmågan till förutseende (att kunna förutse andra trafikanters beteende och anpassa körningen i förväg) avgörande för att klara en komplicerad trafiksituation."
+    },
+    {
+        "id": 459,
+        "soru": "Vad gäller när du ska svänga till höger i korsningen?",
+        "gorsel_yolu": "../images/b248.webp",
+        "secenekler": ["Jag har företräde framför annan trafik eftersom jag kör ett större fordon", "Jag får använda enbart den höger halvan av körbanan efter svängen", "Jag placerar bussen väl till höger före svängen för att visa att jag vill svänga", "Jag placerar svängen så att inte riskera andra trafik"],
+        "dogru_index": 3,
+        "aciklama": "När du svänger till höger med en buss är det viktigt att placera fordonet korrekt och planera svängen så att du inte riskerar andra trafikanter, gångbanor eller cykelvägar."
+    },
+    {
+        "id": 460,
+        "soru": "Du kör en buss på motorväg. Det är kraftig dimma och risk för underkylt regn. Får du köra långsammare än 40 km/tim på motorvägen?",
+        "gorsel_yolu": "../images/b460.webp",
+        "secenekler": ["Ja, om det krävs med hänsyn till trafiksäkerheten", "Nej", "Ja, men då jag måste använda varningsblinker"],
+        "dogru_index": 0,
+        "aciklama": "Normalt finns det en rekommendation eller lägsta hastighet på vissa vägar, men om det krävs med hänsyn till trafiksäkerheten (t.ex. vid kraftig dimma eller underkylt regn) får och ska du anpassa hastigheten och köra långsammare än 40 km/tim."
+    },
+    {
+        "id": 461,
+        "soru": "Hur påverkas körförmågan i allmänhet av stress?",
+        "gorsel_yolu": "../images/b461.webp",
+        "secenekler": ["Hög stress kan försämra körförmågan", "Stress påverkar inte körförmågan", "Alla grader av stress försämrar körförmågan"],
+        "dogru_index": 0,
+        "aciklama": "Hög stress försämrar koncentrationen, ökar reaktionstiden och försämrar bedömningsförmågan, vilket gör körningen betydligt farligare."
+    },
+    {
+        "id": 462,
+        "soru": "En bil kör om dig koliderar med en mötande bil. Måste du stanna på olycksplatsen?",
+        "gorsel_yolu": "../images/b462.webp",
+        "secenekler": ["Ja, alltid", "Ja, men enbart om jag avser att vittna om olyckan", "Nej, jag behöver enbart larma polisen", "Ja, men enbart om mitt fordon blivit skadad", "Nej"],
+        "dogru_index": 0,
+        "aciklama": "Enligt trafiklagen är du skyldig att stanna på olycksplatsen om du är inblandad i en olycka, även om du inte direkt orsakade den, för att hjälpa till och lämna dina uppgifter."
+    },
+    {
+        "id": 463,
+        "soru": "Var är det farligt att placera lasten inne i bussen?",
+        "gorsel_yolu": "../images/b463.webp",
+        "secenekler": ["Under de främre passagerare vid den främre utgången", "I mittgången", "På hatthyllan ovanför de krossbara fönsterrutorna", "På passagerarsätet bredvid den mittersta utgången"],
+        "dogru_index": 1,
+        "aciklama": "Det är farligt att placera last i mittgången eftersom det kan blockera gångarna, hindra fri rörlighet, förhindra en säker utrymning vid en nödsituation samt skapa en snubbelrisk."
+    },
+    {
+        "id": 464,
+        "soru": "Du har en buss som är utrustad med dubbdäck, Det råder vinter väglag. Får du dra en lätt släpvagn efter bussen?",
+        "gorsel_yolu": "../images/b464.webp",
+        "secenekler": ["Nej", "Ja, men endast om släpvagnen är utrustad med dubbdäck", "Ja, oavsett vilka däck som släpvagnen är utrustad med dubbdäck"],
+        "dogru_index": 1,
+        "aciklama": "Vid vinterväglag får du dra en lätt släpvagn efter bussen endast om även släpvagnen är utrustad med dubbdäck (eller motsvarande lämpliga vinterdäck), för att garantera trafiksäkerheten och väggreppet."
+    },
+    {
+        "id": 465,
+        "soru": "Vad är viktigaste att anpassa hastigheten efter?",
+        "gorsel_yolu": "../images/b465.webp",
+        "secenekler": ["Anpassad situationen", "Fordonets baskffenhet", "Hastighetbegränsningen", "Trafikrytmen", "Trafiksituationen"],
+        "dogru_index": 4,
+        "aciklama": "Du måste alltid anpassa hastigheten efter trafiksituationen, väglaget och väderförhållandena för att säkerställa en säker körning och undvika olyckor."
+    },
+    {
+        "id": 466,
+        "soru": "Vad ska du tänka på fram för allt om du har tvillingmonterad däck?",
+        "gorsel_yolu": "../images/b466.webp",
+        "secenekler": ["Att bussen är understyrd", "Att däcken inte ska vara dubbat", "Att jag ska montera det mest slitna däcket innerst", "Att föremål kan fastna mellan däcken"],
+        "dogru_index": 3,
+        "aciklama": "Vid tvillingmonterade däck är det viktigt att regelbundet inspektera däcken eftersom föremål som stenar och skräp lätt kan fastna mellan däcken och orsaka skador."
+    },
+    {
+        "id": 467,
+        "soru": "När du svänger med en tvåaxlad buss så skär bakhjulen i kurvan istället för att följar samma spår som framhjulen. Vad avgör hur mycket bakhjulen skär i kurvan?",
+        "gorsel_yolu": "../images/b467.webp",
+        "secenekler": ["Hur tvär kurvan är", "Hur fort jag kör kurvan", "Hur skilcklig jag är som förare", "Hur uppmärksam, jag är som förare"],
+        "dogru_index": 0,
+        "aciklama": "Hur mycket bakhjulen skär (släpar) in i kurvan (kurvskärning) beror främst på hur tvär eller skarp kurvan är samt avståndet mellan axlarna (hjulbasen)."
+    },
+    {
+        "id": 468,
+        "soru": "Din buss ska bogseras en kort sträcka, Måste bogseringsanording märkas ut?",
+        "gorsel_yolu": "../images/b468.webp",
+        "secenekler": ["Nej eftersom bussen ska bogseras en kort sträcka", "Ja, en bogseringstång måste alltid märkas ut", "ja, bara om avståndet mellan fordonen är längre än 2 meter", "Nej, kravet på utmärkning gäller bara bogserlina"],
+        "dogru_index": 2,
+        "aciklama": "Bogseringsanordningen (som stång eller lina) måste märkas ut (med till exempel en röd flagga eller varningstriangel) om avståndet mellan fordonen är längre än 2 meter."
+    },
+    {
+        "id": 469,
+        "soru": "Hur kan trafikbuller påverka människor?",
+        "gorsel_yolu": "../images/b469.webp",
+        "secenekler": ["Det kan ge bätter koncentrationförmåga", "Det kan minska trötthet", "Det kan ge sömn svårighet", "Det kan ge luftvägerbesvär"],
+        "dogru_index": 2,
+        "aciklama": "Trafikbuller kan definitivt ge sömnstörningar och sömnsvårigheter, särskilt under natten, vilket i sin tur kan leda till ökad stress och trötthet under dagen."
+    },
+    {
+        "id": 470,
+        "soru": "Vad är rätt om däcken på bussen, när du kör på vinter?",
+        "gorsel_yolu": "../images/b470.webp",
+        "secenekler": ["Endast ytterst däck i dubbelmontage får ha en mönsterdjup på minder än 5 mm", "Samtliga däck måste ha mönsterdjup som är minst 5mm", "Endast framdäck och drivdäck måste ha mönsterdjup som är minst 5mm", "Däcken måste vara vinterdäck eftersom tunga bussar måste ha vinterdäck när det råder vinterväglag"],
+        "dogru_index": 1,
+        "aciklama": "På vinterväglag måste samtliga däck på en tung buss (med totalvikt över 3,5 ton) ha ett mönsterdjup på minst 5 mm för att garantera tillräckligt väggrepp och säkerhet."
+    },
+    {
+        "id": 471,
+        "soru": "Vad innebär skylten på bilden?",
+        "gorsel_yolu": "../images/b471.webp",
+        "secenekler": ["En brant nedförsbacke", "En skarp feldoserad kurva", "En brant slänt med risk för ras", "Att vägen lutar i sidled", "En brant uppförsbacke"],
+        "dogru_index": 0,
+        "aciklama": "Varningsskylten med procentsats anger att det är en brant nedförsbacke framåt på vägen, vilket är särskilt viktigt att uppmärksamma med ett tungt fordon som en buss."
+    },
+    {
+        "id": 472,
+        "soru": "Kan bussens överhäng innebära risk för underkörning?",
+        "gorsel_yolu": "../images/b472.webp",
+        "secenekler": ["Ja, överhäng båda fram och bak", "Ja, men enbart överhäng framtill", "Ja, men enbart överhäng baktill", "Nej"],
+        "dogru_index": 0,
+        "aciklama": "Både bussens främre och bakre överhäng kan innebära risker; bakre överhäng kan träffa oskyddade trafikanter vid svängar, och främre överhäng kan göra att bussen lätt kan underköras av andra fordon."
+    },
+    {
+        "id": 473,
+        "soru": "Du kör i en mörk väg och kommer en mötande trafik därför bländar du av till halvljus. Hur ska du placera din bil?",
+        "gorsel_yolu": "../images/b473.webp",
+        "secenekler": ["Nära mittlinjen", "Mitt emellan kant linje och mittlinje", "Nära kantlinjen", "På vägrenen"],
+        "dogru_index": 1,
+        "aciklama": "Vid mörkerkörning när du möter annan trafik och bländar av till halvljus ska du placera fordonet mitt emellan kantlinjen och mittlinjen för att undvika att bli bländad av det mötande fordonets ljus och hålla säkert avstånd."
+    },
+    {
+        "id": 474,
+        "soru": "Du kör en buss. Får du passera detta vägmärke?",
+        "gorsel_yolu": "../images/b474.webp",
+        "secenekler": ["Ja, oavsett bussens vikt", "Ja, om bussens totalvikt överstiger 3,5 ton", "Nej"],
+        "dogru_index": 0,
+        "aciklama": "Vägmärket visar förbud mot trafik med lastbil (och i vissa fall tunga fordon beroende på märkets innebörd för lastbilar, men det gäller inte bussar), vilket innebär att du som bussförare får passera eftersom märket inte förbjuder bussar."
+    },
+    {
+        "id": 475,
+        "soru": "Vilken uppgift har förargrinden?",
+        "gorsel_yolu": "../images/b475.webp",
+        "secenekler": ["Den varnar om föraren försöka att köra i väg med öppna dörrar", "Den varnar om föraren lämnar förarplatsen utan att ha dragit åt parkeringsbromsen", "Den förhindrar att föraren blir utsatt för rån", "Den bromsar automatisk bussen om förargrinden öppnas"],
+        "dogru_index": 1,
+        "aciklama": "Förargrinden kan ha en varningsfunktion som informerar eller varnar föraren om att parkeringsbromsen inte är åtdragen när föraren lämnar sin plats, vilket förhindrar att bussen rullar iväg av misstag."
+    },
+    {
+        "id": 476,
+        "soru": "Vad innebär stolpen på vägkanten?",
+        "gorsel_yolu": "../images/b476.webp",
+        "secenekler": ["Den visar hur långt ut mot kanten och med viss försiktighet kan köra bussen", "Den visar hur långt ut mot kanten du garanterat kan köra bussen", "Den visar förhållande var vägen ska plogas", "Den visar lämplig plats för möte"],
+        "dogru_index": 0,
+        "aciklama": "Vägkantsstolpar markerar vägens gräns och ger vägledning under mörker eller dålig sikt. De visar hur långt ut mot kanten du med viss försiktighet kan köra bussen, utan att det garanterar att hela väggrenen bär för fordonets vikt."
+    },
+    {
+        "id": 477,
+        "soru": "Vilken påstående är riktigt om lufttrycket i däcken på en buss?",
+        "gorsel_yolu": "../images/b477.webp",
+        "secenekler": ["För lågt lufttryck innebär att bränsle förbrukning ökar", "Lufttryck har ingen betydelse för däckslitage", "För lågt lufttryck innebär att däckslitage minskar", "Lufttryck har ingen betydelse för bränsleförbrukning", "För hög lufttryck innebär att bränsle förbrukning ökar"],
+        "dogru_index": 0,
+        "aciklama": "För lågt lufttryck i däcken ökar rullmotståndet, vilket leder till högre bränsleförbrukning och snabbare däckslitage, medan ett korrekt lufttryck säkerställer optimal prestanda och säkerhet."
+    },
+    {
+        "id": 478,
+        "soru": "Hur många gånger under en vecka får du högst förlänga din dagliga körtid och till hur många timmar? Enligt (EG) regler.",
+        "gorsel_yolu": "../images/b478.webp",
+        "secenekler": ["Två gånger till 10 timmar", "Två gånger till 11 timmar", "Tre gånger till 10 timmar", "Tre gånger till 11 timmar"],
+        "dogru_index": 0,
+        "aciklama": "Enligt EU-regler (EG 561/2006) får du som förare förlänga din normala dagliga körtid på 9 timmar till högst 10 timmar som mest två gånger under en vecka."
+    },
+    {
+        "id": 479,
+        "soru": "Hur många gånger i veckan får du normalt minska din dygnsvila enligt EG:S om kör och vilotider?",
+        "gorsel_yolu": "../images/b479.webp",
+        "secenekler": ["1 gång", "2 gånger", "3 gånger", "4 gånger"],
+        "dogru_index": 2,
+        "aciklama": "Enligt EG 561/2006 får du normalt minska din dygnsvila högst tre gånger per vecka, förutsatt att du kompenserar den förlorade vilotiden inom fyra veckor."
+    },
+    {
+        "id": 480,
+        "soru": "Du kör en buss och har körkort D. Vilken släpvagn får du dra med bussen?",
+        "gorsel_yolu": "../images/b480.webp",
+        "secenekler": ["Släpvagn med totalvikt på högst 750 kg", "Släpvagn med bruttovikt på högst 750 kg", "Släpvagn med maxlast på högst 750 kg", "Släpvagn med tjänstevikt på högst 750 kg"],
+        "dogru_index": 0,
+        "aciklama": "Med körkort klass D (buss) får du dra en släpvagn med en totalvikt på högst 750 kg utan att behöva något tilläggskörkort (klass DE)."
+    }
 
 ]
