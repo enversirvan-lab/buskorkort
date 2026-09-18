@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Buss Teoriprov - Övningsprov och simulering</title>
     
-    <meta name="description" content="Förbered dig för bussens teoriprov med 480 aktuella frågor, verklig simulering och omedelbart resultat. Anpassad till 2026 års Trafikverket-läroplan." />
+    <meta name="description" content="Förbered dig för bussens teoriprov med 540 aktuella frågor, verklig simulering och omedelbart resultat. Anpassad till 2026 års Trafikverket-läroplan." />
     <meta name="robots" content="index, follow" />
     <link rel="canonical" href="https://teoripro.netlify.app" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -643,7 +643,7 @@
         <div id="loadingScreen">
             <i class="fa-solid fa-spinner fa-spin"></i>
             <h2>Laddar frågebank...</h2>
-            <p>480 frågor förbereds, vänligen vänta.</p>
+            <p>540 frågor förbereds, vänligen vänta.</p>
         </div>
 
         <!-- PROVYTA (dold från början) -->
@@ -772,7 +772,7 @@
             return { testId: t ? parseInt(t) : 1, mode: mode || 'normal' };
         }
 
-        // ★★★ TEST 1, 2, 3, 4, 5, 6, 7, 8 ★★★
+        // ★★★ TEST 1, 2, 3, 4, 5, 6, 7, 8, 9 ★★★
         function getQuestionsForExam(testId) {
             if (allQuestionsDatabase.length === 0) return [];
             
@@ -816,7 +816,7 @@
                 return allQuestionsDatabase.filter(q => q.id >= 421 && q.id <= 480);
             }
             
-            // Test 9: ID 481-540 (ileride)
+            // Test 9: ID 481-540
             if (testId === 9) {
                 return allQuestionsDatabase.filter(q => q.id >= 481 && q.id <= 540);
             }
