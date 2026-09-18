@@ -4094,8 +4094,8 @@
         "Vägmärke C",
         "Vägmärke D"
     ],
-    "dogru_index": 1,
-    "aciklama": "Vägmärke B (huvudled) innebär att det är förbud mot att parkera på allmän väg utanför tätort om inte särskilda parkeringsplatser är anvisade. Bild A visar datumparkering, Bild C visar enkelriktad väg och Bild D visar att rekommenderad högsta hastighet upphör."
+    "dogru_index": 0,
+    "aciklama": "Vägmärke A anger parkeringsförbud eller parkeringsrestriktioner. Bild B visar huvudled, Bild C visar enkelriktad väg och Bild D visar att rekommenderad högsta hastighet upphör."
 },
 {
     "id": 320,
@@ -4477,10 +4477,10 @@
         "70km/h",
         "80km/h",
         "90km/h",
-        "110km/h"
+        "100km/h"
     ],
-    "dogru_index": 2,
-    "aciklama": "För en buss utan släp på en väg som har vägmärket för huvudled och där den högsta tillåtna hastigheten är 110 km/h, gäller 90 km/h som högsta hastighet. Det är en specifik hastighetsbegränsning för bussar utan släp på vägar med huvudled, oavsett om vägskyltarna anger en högre hastighet."
+    "dogru_index": 3,
+    "aciklama": "För en tung buss utan släp är den absolut högsta tillåtna hastigheten 100 km/h på svenska vägar, förutsatt att alla sittplatser har bilbälte. Även om vägen har en högre hastighetsbegränsning som 110 km/h, begränsas bussen till maximalt 100 km/h."
 },
 {
     "id": 350,
