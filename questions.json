@@ -5471,7 +5471,7 @@
     {
         "id": 430,
         "soru": "Det är sommar och du kör en tvåvåningsbuss på en motorväg efter 25 mil körning ska du svänga av motorvägen. Vad påverkar körstabiliteten mest i kurvan på avfarten?",
-        "gorsel_yolu": "../images/b430.webp",
+        "gorsel_yolu": "../images/b431.webp",
         "secenekler": ["Mönsterdjupet på däcken", "Hastigheten", "Hur skarp kurvan är", "Lufttrycket i däcken", "Vilken dosering kurvan har"],
         "dogru_index": 1,
         "aciklama": "Körstabiliteten i kurvan på avfarten påverkas mest av bussens hastighet och kurvans radie. För en tvåvåningsbuss finns även ett särskilt fokus på bussens högre tyngdpunkt, vilket gör den mer känslig för sidokrafter vid svängar. Ju högre hastighet och ju skarpare kurva det är, desto större risk finns det för att bussens stabilitet påverkas negativt."
@@ -5479,7 +5479,7 @@
     {
         "id": 431,
         "soru": "Får du köra om fordonet som ligger i den vänstra körfältet?",
-        "gorsel_yolu": "../images/b431.webp",
+        "gorsel_yolu": "../images/b430.webp",
         "secenekler": ["Ja, men enbart om fordonet kör långsammare än gällande hastighetsbegränsning", "Ja, alltid", "Ja, men enbart om hastighetsbegränsningen är 70 km/tim eller lägre", "Nej, aldrig"],
         "dogru_index": 2,
         "aciklama": "Enligt trafikreglerna får du endast köra om fordon som ligger i det vänstra körfältet om hastighetsbegränsningen är 70 km/h eller lägre på en väg med flera körfält i samma riktning. Detta gäller i Sverige när det rör sig om vägar där det finns särskilda regler för körning i vänstra körfältet, ofta för att undvika onödiga omkörningar och upprätthålla trafikflödet."
@@ -6661,6 +6661,785 @@
     ],
     "dogru_index": 3,
     "aciklama": "I Sverige omfattas av BK1. på max 11,5 ton på en drivande axel och 10 ton på en löpande axel. och ett axeltryck på max 10 ton."
+},
+{
+    "id": 541,
+    "soru": "Vilket av följande är en hjälpbroms?",
+    "gorsel_yolu": "../images/b541.webp",
+    "secenekler": [
+        "Retardern",
+        "Färdbroms",
+        "Parkeringsbroms",
+        "ABS-bromsarna"
+    ],
+    "dogru_index": 0,
+    "aciklama": "Hjälpbromsar kan vara olika typer av bromssystem som stödjer huvudbromsarna. Några exempel på hjälpbromsar är:\n1. Retarder: En hydraulisk eller elektromagnetisk hjälpbroms som används för att minska fordonets hastighet utan att använda färdbromsarna. Den är vanlig på tunga fordon och fungerar genom att omvandla rörelseenergin till värme.\n2. Motorbroms (Engine brake): Den använder motorns kompression för att bromsa fordonet. Vanligtvis används den på tunga fordon för att minska hastigheten i nedförsbackar.\n3. Avgassystembroms (Exhaust brake): En typ av motorbroms som bromsar genom att begränsa flödet av avgaser från motorn, vilket skapar ett mottryck som bromsar fordonet."
+},
+{
+    "id": 542,
+    "soru": "Hur lång får den sammanlagda körtiden högst vara under 2 veckor i följd?",
+    "gorsel_yolu": "../images/b542.webp",
+    "secenekler": [
+        "80 timmar",
+        "90 timmar",
+        "100 timmar",
+        "110 timmar",
+        "120 timmar"
+    ],
+    "dogru_index": 1,
+    "aciklama": "Enligt EU:s regler för kör- och vilotider får den sammanlagda körtiden för en förare inte överstiga 90 timmar under en tvåveckorsperiod. Det innebär att du får köra i upp till 90 timmar under en 14-dagarsperiod, men det måste fördelas på ett sätt som gör att föraren får tillräcklig vila mellan körpassen."
+},
+{
+    "id": 543,
+    "soru": "Vilken fördel ger det elektroniska styrbromssystemet E.B.S.?",
+    "gorsel_yolu": "../images/b543.webp",
+    "secenekler": [
+        "Fordonet behöver inte vara utrustat med skyddsventil",
+        "Lufttrycket i bromssystemet är alltid konstant",
+        "Stabiliteten vid inbromsning ökar",
+        "Fordonet behöver inte vara utrustat med lufttorkare"
+    ],
+    "dogru_index": 2,
+    "aciklama": "Det elektroniska styrbromssystemet (E.B.S.) ger flera fördelar, bland annat:\n1. Bättre bromsprestanda: E.B.S. optimerar bromskraften för varje hjul individuellt, vilket ger en mer effektiv och jämn inbromsning.\n2. Ökad säkerhet: Systemet minskar risken för att hjulen låser sig genom att reglera bromskraften dynamiskt, vilket förhindrar sladd och förbättrar stabiliteten, särskilt vid hastiga inbromsningar eller på hala vägar.\n3. Förbättrad livslängd på bromsarna: Eftersom E.B.S. styr bromskraften mer precist minskas slitaget på bromsarna, vilket kan leda till längre hållbarhet och färre underhållsbehov."
+},
+{
+    "id": 544,
+    "soru": "När ska du ringa 112 för att kalla på hjälp?",
+    "gorsel_yolu": "../images/b544.webp",
+    "secenekler": [
+        "Alltid vid fara för allmän egendom",
+        "Bara i akuta nödsituationer, vid fara för liv, egendom, fara för miljön",
+        "Vid alla trafikolyckor",
+        "När tunga fordon är inblandade i trafikolyckor",
+        "Alltid vid akut sjukdom"
+    ],
+    "dogru_index": 1,
+    "aciklama": "Du ska ringa 112 och kalla på hjälp när det inträffar en allvarlig nödsituation, såsom:\n1. Olyckor där personer är skadade eller riskerar att skadas.\n2. Brand eller andra farliga situationer som kan leda till skador eller förlust av liv.\n3. Medicin- eller hälsoproblem som är akuta, till exempel hjärtinfarkt, andningsproblem eller allvarliga skador.\n4. Vid akut fara för liv eller egendom där hjälp behövs snabbt, till exempel vid pågående brott eller livshotande situationer.\n\nDet är viktigt att vara tydlig och ge all relevant information, som din plats och vad som har hänt, för att räddningstjänsten ska kunna agera snabbt."
+},
+{
+    "id": 545,
+    "soru": "Du befinner dig i Tyskland med svenskregistrerad buss och utför en resa med lokal idrottsförening inom Tyskland. Vilken typ av transport är detta?",
+    "gorsel_yolu": "../images/b545.webp",
+    "secenekler": [
+        "Transport för egen räkning",
+        "Cabotagetrafik",
+        "Linjetrafik",
+        "Special regulärtrafik"
+    ],
+    "dogru_index": 1,
+    "aciklama": "Cabotagetrafik innebär att ett fordon som är registrerat i ett annat land utför tillfälliga transporter (gods- eller persontransporter) internt i ett medlemsland, till exempel när en svenskregistrerad buss kör passagerare mellan olika platser internt i Tyskland."
+},
+{
+    "id": 546,
+    "soru": "Vilken av följande roller är viktigast för en professionell bussförare?",
+    "gorsel_yolu": "../images/b546.webp",
+    "secenekler": [
+        "Motortekniker",
+        "Sjukvårdskunnig",
+        "Trafiksäker förare",
+        "Datakunnig"
+    ],
+    "dogru_index": 2,
+    "aciklama": "För en professionell bussförare är flera roller viktiga, men de mest centrala är:\n1. Säkerhetsansvarig: En bussförare har ett stort ansvar för passagerarnas och andra trafikanters säkerhet. Detta inkluderar att följa trafikregler, köra defensivt och vara beredd på att hantera nödsituationer.\n2. Kommunikatör: Föraren ska kunna kommunicera effektivt med passagerare, kollegor och andra trafikanter. Det innebär att ge tydliga instruktioner, vara vänlig och professionell samt kunna hantera kundtjänstrelaterade frågor.\n3. Trafikansvarig: Föraren måste ha en god förståelse för trafikregler och vara förberedd på att anpassa körsättet efter trafikförhållanden och väder.\n4. Evakueringsansvarig: Vid nödsituationer måste föraren kunna evakuera passagerare effektivt och säkert, samt hantera stressiga och potentiellt farliga situationer på ett lugnt sätt."
+},
+{
+    "id": 547,
+    "soru": "Du kör buss innan en cirkulationsplats. Hur ska du köra för att motverka att bussens krängningar förstärks av fordonets fjädrar, så kallad rekylverkan?",
+    "gorsel_yolu": "../images/b547.webp",
+    "secenekler": [
+        "Jag kör med låg hastighet när jag kör i en cirkulationsplats",
+        "Jag kör långt till vänster ut från cirkulationsplatsen",
+        "Jag bromsar i en cirkulationsplats",
+        "Jag kör långt till vänster när jag kör i en cirkulationsplats"
+    ],
+    "dogru_index": 0,
+    "aciklama": "Att köra med låg hastighet när du kör i en cirkulationsplats. Detta gör att du kan ha bättre kontroll över fordonet och minska risken för att bussen ska kränga eller bli instabil. Genom att hålla en låg och jämn hastighet kan du också bättre anpassa dig till andra trafikanter och säkerställa att du har tillräcklig tid att reagera vid behov."
+},
+{
+    "id": 548,
+    "soru": "Du kan själv påverka bränsleförbrukningen. Vilken av följande har störst inverkan?",
+    "gorsel_yolu": "../images/b548.webp",
+    "secenekler": [
+        "Fordonets luftmotstånd",
+        "Valet av däck",
+        "Regelbunden service",
+        "Körsättet"
+    ],
+    "dogru_index": 3,
+    "aciklama": "Den största påverkan på bränsleförbrukningen har körsättet. Att köra ekonomiskt och effektivt kan minska bränsleförbrukningen avsevärt. Några faktorer som har störst inverkan är:\n1. Acceleration och inbromsning: Undvik snabb acceleration och hårda inbromsningar. Jämn körning med mjuka gaspådrag och tidig inbromsning är mer bränsleeffektivt.\n2. Hastighet: Kör med en konstant och låg hastighet. Att hålla en hastighet nära den optimala bränsleförbrukningen (vanligtvis 80-90 km/h på motorväg) minskar bränsleförbrukningen.\n3. Växling: Växla upp så tidigt som möjligt för att hålla motorn i ett effektivt varvtalsområde.\n\nDessa faktorer, tillsammans med att undvika tomgångskörning och hålla ett jämnt tempo, har störst inverkan på bränsleförbrukningen."
+},
+{
+    "id": 549,
+    "soru": "När du ger tecken att du vill starta från busshållplatsen, ska förare som närmar sig sakta ner och ge dig möjlighet att lämna hållplatsen. Upp till vilken högsta tillåtna hastighet gäller denna regel?",
+    "gorsel_yolu": "../images/b549.webp",
+    "secenekler": [
+        "30 km/tim",
+        "40 km/tim",
+        "50 km/tim",
+        "60 km/tim",
+        "70 km/tim"
+    ],
+    "dogru_index": 2,
+    "aciklama": "Regeln att förare som närmar sig en buss som ger tecken om att starta från en busshållplats och ska sakta ner gäller upp till en hastighet av 50 km/h. Om den närmaste vägen är en väg med en högre hastighetsbegränsning, måste bilister fortfarande anpassa hastigheten för att ge bussen möjlighet att lämna hållplatsen på ett säkert sätt."
+},
+{
+    "id": 550,
+    "soru": "Du har förlorat ditt förarkort till färdskrivaren och anmält förlusten till en myndighet som har utfärdat kortet. Hur länge får du normalt köra utan förarkort?",
+    "gorsel_yolu": "../images/b550.webp",
+    "secenekler": [
+        "Högst 7 dagar",
+        "Högst 10 dagar",
+        "Högst 15 dagar",
+        "Högst 21 dagar"
+    ],
+    "dogru_index": 2,
+    "aciklama": "Om du har förlorat ditt förarkort till färdskrivaren och anmält förlusten till den myndighet som har utfärdat kortet, får du normalt köra i upp till 15 dagar utan förarkort. Under denna period måste du kunna visa att du har anmält förlusten och att ett nytt kort är på väg att utfärdas."
+},
+{
+    "id": 551,
+    "soru": "Den som kastar bort diagrammet till färdskrivaren för att försvåra kontroll av kör- och vilotider kan dömas för detta. Vilket är det strängaste straff man kan dömas till?",
+    "gorsel_yolu": "../images/b551.webp",
+    "secenekler": [
+        "Penningböter",
+        "Dagsböter",
+        "Fängelse"
+    ],
+    "dogru_index": 2,
+    "aciklama": "Den som kastar bort diagrammet till färdskrivaren för att försvåra kontroll av kör- och vilotider kan dömas till fängelse i högst två år. Detta kan betraktas som brott mot reglerna för kör- och vilotider, vilket innebär att det är en allvarlig överträdelse av trafiksäkerheten och arbetsrätten. Straffet kan variera beroende på omständigheterna, men fängelsestraffet är det strängaste möjliga straffet."
+},
+{
+    "id": 552,
+    "soru": "En bussförare är på vissa villkor betraktad som trafiktjänsteman. Vilket är det viktigaste villkoret?",
+    "gorsel_yolu": "../images/b552.webp",
+    "secenekler": [
+        "Att föraren har de körkortsbehörigheter som krävs för att köra fordonet i yrkesmässig trafik",
+        "Att föraren har genomgått trafikhuvudmannens förarecertifiering",
+        "Att föraren har ett giltigt bevis om yrkesförarkompetens",
+        "Att föraren bär uniform eller märke på ett annat sätt tydligt visar att han eller hon är trafiktjänsteman"
+    ],
+    "dogru_index": 3,
+    "aciklama": "En bussförare betraktas som trafiktjänsteman när han eller hon bär uniform eller på annat tydligt sätt visar att han eller hon är trafiktjänsteman. Detta framgår av ordningslagen och är en förutsättning för att föraren ska ha de särskilda befogenheter som en trafiktjänsteman har, till exempel att avvisa störande passagerare eller att utfärda tilläggsavgift."
+},
+{
+    "id": 553,
+    "soru": "Färdskrivaren i ditt fordon måste genomgå periodiska besiktningar. Får du som ägare ett meddelande när det är dags för besiktningen?",
+    "gorsel_yolu": "../images/b553.webp",
+    "secenekler": [
+        "Ja, från länsstyrelsen",
+        "Ja, från Trafikverket",
+        "Ja, från besiktningsföretag",
+        "Nej, som ägare måste jag själv hålla reda på tidpunkten"
+    ],
+    "dogru_index": 3,
+    "aciklama": "Som ägare är det ditt ansvar att själv hålla reda på när den periodiska besiktningen av färdskrivaren ska göras. Myndigheten skickar inte automatiskt påminnelser om besiktningstidpunkten, så du måste följa besiktningsintervallet och boka tid för besiktningen i enlighet med gällande regler. Det är viktigt att hålla koll på detta för att undvika böter eller problem med trafikkontroller."
+},
+{
+    "id": 554,
+    "soru": "På vilket sätt manövreras bromsarna på en buss som är utrustad med ett E.B.S bromssystem?",
+    "gorsel_yolu": "../images/b554.webp",
+    "secenekler": [
+        "Med tryckluft",
+        "Med hjälp av vakuum",
+        "På mekanisk väg",
+        "Med elektronik"
+    ],
+    "dogru_index": 3,
+    "aciklama": "E.B.S. (Elektroniskt Styrt Bromssystem) på en buss manövreras helt med elektronik genom ett integrerat system som styr bromskraften automatiskt. Sammanfattningsvis styr elektroniken hur bromsarna på bussen aktiveras och justeras för att optimera bromskraften, vilket förbättrar säkerheten och komforten vid inbromsning."
+},
+{
+    "id": 555,
+    "soru": "Du kör en manuellt växlad buss som är utrustad med Volvo Engine Brake (VEB) i en lång brant nedförsbacke. Hur växlar du för att utnyttja växellådans bromsning på bästa effektiva sätt?",
+    "gorsel_yolu": "../images/b555.webp",
+    "secenekler": [
+        "Jag väljer en högre växel och högre varvtal",
+        "Jag väljer en lägre växel och lägre varvtal",
+        "Jag väljer en lägre växel och högre varvtal",
+        "Jag väljer en högre växel och lägre varvtal"
+    ],
+    "dogru_index": 2,
+    "aciklama": "För att utnyttja Volvo Engine Brake (VEB) på en manuellt växlad buss på en lång brant nedförsbacke, bör du följa dessa steg för att uppnå bästa effektiva bromsning:\n1. Växla ner till en lägre växel: Genom att växla ner till en lägre växel innan nedförsbacken kan du använda motorbromsningen effektivt. Detta gör att motorn får en större inverkan på att bromsa fordonet, vilket minskar belastningen på de vanliga bromsarna.\n2. Aktivera VEB."
+},
+{
+    "id": 556,
+    "soru": "Du kör buss utanför tätbebyggt område, men en passagerare som är 16 år sitter på ett säte där det finns ett bilbälte. Vem är skyldig att se till att passageraren använder bilbälte under färden?",
+    "gorsel_yolu": "../images/b556.webp",
+    "secenekler": [
+        "Föräldrarna, eftersom passageraren är under 18 år",
+        "Passageraren själv",
+        "Bussföretaget",
+        "Föraren eller annan anställd personal",
+        "Ledsagare eller ledare för grupp"
+    ],
+    "dogru_index": 1,
+    "aciklama": "Det är passageraren själv som är skyldig att använda bilbälte om hen är över 15 år. För yngre passagerare är det förarens ansvar att säkerställa att de använder bilbälte."
+},
+{
+    "id": 557,
+    "soru": "Den normala dygnsvilan kan tas ut som delad dygnsvila. Hur kan du dela upp dygnsvilan enligt EG-regler?",
+    "gorsel_yolu": "../images/b557.webp",
+    "secenekler": [
+        "4 timmar + 9 timmar",
+        "2 timmar + 2 timmar + 8 timmar",
+        "2 timmar + 10 timmar",
+        "3 timmar + 9 timmar",
+        "4 timmar + 5 timmar"
+    ],
+    "dogru_index": 3,
+    "aciklama": "Enligt EU:s kör- och vilotidregler kan den normala dygnsvilan delas upp i två perioder:\n1. Den första perioden måste vara minst 3 sammanhängande timmar.\n2. Den andra perioden måste vara minst 9 sammanhängande timmar.\nTillsammans ska dessa två perioder ge minst 12 timmar vila."
+},
+{
+    "id": 558,
+    "soru": "Du kör buss i linjetrafik och en påtagligt alkoholpåverkad person försöker stiga på din buss. Vad har du rätt att göra i den situationen enligt ordningslagen?",
+    "gorsel_yolu": "../images/b558.webp",
+    "secenekler": [
+        "Avvisa personen",
+        "Anvisa personen till en speciell plats i bussen",
+        "Handgripligen hindra personen att stiga på bussen",
+        "Ingenting så länge personen inte uppträder störande"
+    ],
+    "dogru_index": 0,
+    "aciklama": "Enligt ordningslagen har du rätt att vägra tillträde till bussen för en person som är påtagligt alkoholpåverkad, om det finns risk att personen utgör en fara eller stör ordningen ombord. Detta görs för att upprätthålla säkerheten och tryggheten för alla passagerare."
+},
+{
+    "id": 559,
+    "soru": "En person som är inblandad i en trafikolycka är uppenbart förvirrad och uppträder hotfullt mot dig. Vilket är det bästa sättet att hantera situationen?",
+    "gorsel_yolu": "../images/b559.webp",
+    "secenekler": [
+        "Jag uppträder mycket vänligt men samtidigt mycket bestämt mot personen",
+        "Jag hotar personen med något föremål för att inte ska bli något slagsmål",
+        "Jag ringer omedelbart 112 och polisanmäler personen",
+        "Jag inväntar att ytterligare en person kommer till olycksplatsen för att kunna få hjälp"
+    ],
+    "dogru_index": 0,
+    "aciklama": "Att uppträda vänligt men bestämt kan bidra till att lugna situationen samtidigt som du markerar gränser. Det visar att du vill hjälpa men inte accepterar hotfullt beteende. Komplettera gärna med:\n1. Klarspråk: Förklara kort och tydligt vad som behöver hända, exempelvis: \"Jag förstår att du är upprörd, men jag kan inte hjälpa dig om du inte lugnar ner dig.\"\n2. Avledning: Försök rikta personens fokus på något praktiskt, som att sätta sig ner eller prata med räddningstjänsten.\nFortsätt prioritera säkerheten genom att hålla avstånd och söka hjälp om situationen förvärras. Det är en utmärkt strategi."
+},
+{
+    "id": 560,
+    "soru": "Du kör en fullsatt turistbuss när du upptäcker att det brinner i bussen. Vad ska du göra och i vilken ordningsföljd när du har stannat?",
+    "gorsel_yolu": "../images/b560.webp",
+    "secenekler": [
+        "1. Stäng av motorn 2. Utrym bussen 3. Larma 112",
+        "1. Larma 112 2. Utrym bussen 3. Stäng av motor",
+        "1. Utrym bussen 2. Försök släcka branden 3. Slå av huvudströmbrytaren",
+        "1. Utrym bussen 2. Larma 112 3. Slå av huvudströmbrytaren"
+    ],
+    "dogru_index": 0,
+    "aciklama": "Om det brinner i en fullsatt turistbuss ska du agera snabbt och systematiskt för att säkerställa passagerarnas säkerhet:\n1. Stanna bussen omedelbart på ett säkert ställe och slå av motorn för att minska brandrisken.\n2. Evakuera passagerarna bort från bussen och till en säker plats, minst 50 meter från bussen och gärna i vindriktning bort från röken.\n3. Larma 112 och meddela branden samt din exakta position.\n4. Använd brandsläckaren om branden är liten och du kan göra det utan att riskera din egen säkerhet.\n5. Håll passagerarna samlade och invänta räddningstjänstens ankomst.\nPrioritera alltid att rädda liv framför att försöka släcka branden själv."
+},
+{
+    "id": 561,
+    "soru": "Hur många brandsläckare ska det finnas i en tvåvåningsbuss?",
+    "gorsel_yolu": "../images/b561.webp",
+    "secenekler": [
+        "Minst 1 i bussen",
+        "Minst en på varje våning",
+        "Minst 3, varav 2 på övre våningen",
+        "Minst 4, varav 2 på varje våning"
+    ],
+    "dogru_index": 1,
+    "aciklama": "En tvåvåningsbuss ska enligt lagkrav vara utrustad med minst två brandsläckare.\n1. En brandsläckare ska finnas i närheten av förarplatsen.\n2. Den andra brandsläckaren ska placeras på en lättillgänglig plats, exempelvis på det övre däcket eller nära bakdörren, för att snabbt kunna användas i nödsituationer.\nBrandsläckarna ska uppfylla kraven för fordon och vara i funktionsdugligt skick."
+},
+{
+    "id": 562,
+    "soru": "Påverkas miljön om du kör med överlast i din buss?",
+    "gorsel_yolu": "../images/b562.webp",
+    "secenekler": [
+        "Ja, lufttrycket i däcken ökar",
+        "Nej, transporten ska ändå genomföras",
+        "Ja, vikten på ekipaget ökar",
+        "Nej, längre last påverkar inte miljön"
+    ],
+    "dogru_index": 2,
+    "aciklama": "När vikten på ekipaget ökar, krävs mer energi för att driva fordonet framåt. Detta leder till:\n1. Ökad bränsleförbrukning, eftersom motorn måste arbeta hårdare.\n2. Högre utsläpp av växthusgaser, som koldioxid, samt partiklar och kväveoxider, vilket påverkar klimatet och miljön negativt.\nAtt undvika överlast är alltså inte bara en säkerhetsfråga, utan även en viktig miljöåtgärd."
+},
+{
+    "id": 563,
+    "soru": "Du anmäler till din arbetsgivare en arbetsplatsolycka med allvarliga personskador. Till vilken myndighet ska arbetsgivaren rapportera olyckan?",
+    "gorsel_yolu": "../images/b563.webp",
+    "secenekler": [
+        "Kommunen",
+        "Trafikverket",
+        "Transportstyrelsen",
+        "Arbetsmiljöverket",
+        "Länsstyrelsen"
+    ],
+    "dogru_index": 3,
+    "aciklama": "Arbetsgivaren ska rapportera arbetsplatsolyckan med allvarliga personskador till Arbetsmiljöverket. Detta ska göras utan dröjsmål, och rapporteringen kan ske via Arbetsmiljöverkets e-tjänst eller genom att skicka in en skriftlig anmälan."
+},
+{
+    "id": 564,
+    "soru": "Du kör i 90 km/tim med din buss och ska passera ett stort fordon som står parkerat. Hur ska du göra för att minska risken för sidledseffekten?",
+    "gorsel_yolu": "../images/b564.webp",
+    "secenekler": [
+        "Jag sänker hastigheten och passerar så nära det parkerade fordonet som möjligt",
+        "Jag ökar hastigheten och passerar med oförändrad passering i sidled",
+        "Jag sänker hastigheten och håller ut från det parkerade fordonet"
+    ],
+    "dogru_index": 2,
+    "aciklama": "För att minska risken för sidledseffekten när du kör förbi ett stort parkerat fordon i 90 km/h, bör du:\n1. Hålla ett tillräckligt avstånd från det parkerade fordonet för att undvika att påverkas av luftflödet eller en eventuell vindstöt.\n2. Minska hastigheten något om möjligt, för att öka stabiliteten och minska risken för att bussen påverkas av sidvind eller turbulens.\n3. Hålla ett stadigt grepp om ratten och vara beredd på att korrigera styrningen om det behövs, särskilt om vinden är stark.\nGenom att följa dessa åtgärder minskar du risken för att bussen ska påverkas av sidvind eller förlora stabilitet vid omkörning."
+},
+{
+    "id": 565,
+    "soru": "En förare sover kortare tid än han brukar under ett dygn. Ungefär hur mycket kan sömnen förkortas utan risk att påverka hans förmåga att köra trafiksäkert?",
+    "gorsel_yolu": "../images/b565.webp",
+    "secenekler": [
+        "Högst en halv timme",
+        "Högst 2 timmar",
+        "Högst 4 timmar"
+    ],
+    "dogru_index": 0,
+    "aciklama": "För att säkerställa trafiksäkerheten bör en förare inte förkorta sin sömn mer än maximalt en halvtimme per dygn, eftersom även små förändringar i sömnmonstret kan påverka koncentration, reaktionsförmåga och uppmärksamhet. Längre sömnbrist eller förkortad sömn kan snabbt leda till trötthet, vilket ökar risken för olyckor."
+},
+{
+    "id": 566,
+    "soru": "Vissa läkemedel kan påverka din körförmåga negativt. Kan du själv avgöra om ett läkemedel är säkert att använda vid bilkörning?",
+    "gorsel_yolu": "../images/b566.webp",
+    "secenekler": [
+        "Ja, det räcker med att se deklarationen som finns på förpackningen",
+        "Ja, genom att se om medicinen påverkar min körförmåga att köra trafiksäkert",
+        "Ja, genom att se röd triangel på förpackningen",
+        "Nej, jag bör be en läkare eller apotekspersonal om råd"
+    ],
+    "dogru_index": 3,
+    "aciklama": "Om du är osäker på om ett läkemedel påverkar din körförmåga bör du alltid rådfråga en läkare eller apotekspersonal. De kan ge information om läkemedlets effekter och eventuella biverkningar som kan påverka din förmåga att köra trafiksäkert. En röd varningstriangel på förpackningen indikerar att läkemedlet kan påverka körförmågan, men den ger inte all information – därför är professionell rådgivning viktigast."
+},
+{
+    "id": 567,
+    "soru": "Din buss är utrustad med bilbälten på alla sittplatser. Vem är skyldig att använda bilbälte i bussen?",
+    "gorsel_yolu": "../images/b567.webp",
+    "secenekler": [
+        "Endast de som inte har skyddande stol framför sig",
+        "Endast skolbarn vid skolskjutsning",
+        "Endast jag som är förare",
+        "Alla som är äldre än 3 år och åker i bussen"
+    ],
+    "dogru_index": 3,
+    "aciklama": "Enligt svensk lag är alla passagerare över 3 år som åker i en buss skyldiga att använda bilbälte om det finns bilbälten på sittplatsen. Detta gäller för både vuxna och barn över 3 år. För barn under 3 år gäller särskilda regler, och de ska åka i en godkänd barnstol eller bilbarnsryggstol om det finns bilbälte."
+},
+{
+    "id": 568,
+    "soru": "Du kör buss och blir inblandad i en sammanstötning med vildsvin. Är du skyldig att anmäla olyckan till polisen?",
+    "gorsel_yolu": "../images/b568.webp",
+    "secenekler": [
+        "Ja, men bara om jag kan se att djuret har blivit skadat",
+        "Ja, men bara om djuret dödats i sammanstötningen",
+        "Ja, alltid",
+        "Nej, sammanstötning med vildsvin behöver inte anmälas"
+    ],
+    "dogru_index": 2,
+    "aciklama": "Du är skyldig att anmäla olyckan till polisen om du är inblandad i en sammanstötning med vildsvin, även om det inte har uppstått personskador. Enligt trafikförordningen ska olyckor med vilt anmälas till polisen, så att myndigheterna kan hantera situationen korrekt och vidta åtgärder för att förebygga liknande olyckor i framtiden."
+},
+{
+    "id": 569,
+    "soru": "Hur lång får en nyregistrerad buss med 3 axlar högst vara om den inte är ledad?",
+    "gorsel_yolu": "../images/b569.webp",
+    "secenekler": [
+        "12 meter",
+        "13,5 meter",
+        "14,5 meter",
+        "15 meter"
+    ],
+    "dogru_index": 3,
+    "aciklama": "En nyregistrerad buss med tre axlar får vara högst 15 meter lång utan att vara ledad, enligt svensk vägtrafiklagstiftning. Detta gäller för bussar som inte är ledade, men om bussen är ledad kan den vara längre än så."
+},
+{
+    "id": 570,
+    "soru": "Du har minskat din veckovila till 32 timmar. Vilken är den kortaste sammanhängande vila du måste ta ut för att den minskade veckovilan ska bli kompenserad?",
+    "gorsel_yolu": "../images/b570.webp",
+    "secenekler": [
+        "13 tim",
+        "22 tim",
+        "45 tim",
+        "58 tim"
+    ],
+    "dogru_index": 1,
+    "aciklama": "För att kompensera en minskad veckovila på 32 timmar måste du ta ut en sammanhängande vila på minst 22 timmar. Detta är enligt EU:s regler för kör- och vilotider, där en förkortad veckovila måste kompenseras med en längre vila inom en viss tidsperiod."
+},
+{
+    "id": 571,
+    "soru": "Du ska göra en körning med buss inom Sverige och i lastutrymmet har du bland annat lastat farligt gods. Hur ska du lastsäkra det farliga godset jämfört med övrigt gods?",
+    "gorsel_yolu": "../images/b571.webp",
+    "secenekler": [
+        "Kravet på lastsäkring är dubbelt så strängt som för övrigt gods",
+        "Kravet på lastsäkring är detsamma som för övrigt gods",
+        "Det farliga godset får endast lastsäkras med spännband",
+        "Det farliga godset får endast lastsäkras genom förstängning"
+    ],
+    "dogru_index": 1,
+    "aciklama": "Kravet på lastsäkring för farligt gods är i princip detsamma som för övrigt gods, vilket innebär att det ska säkras så att det inte kan röra sig under transporten och riskera skador eller olyckor. Dock finns det extra säkerhetskrav när det gäller farligt gods, såsom tydlig märkning, dokumentation och särskilda regler för förvaring."
+},
+{
+    "id": 572,
+    "soru": "Vilket är det vanligaste symtomet för en person som lider av sömnapné?",
+    "gorsel_yolu": "../images/b572.webp",
+    "secenekler": [
+        "Svårighet att somna på kvällen",
+        "Tung sömn och svårt att vakna på natten",
+        "Snarkning och andningsuppehåll under sömn",
+        "Ofrivilligt somnande under dagen"
+    ],
+    "dogru_index": 2,
+    "aciklama": "Det vanligaste symtomet för en person som lider av sömnapné är högljudd snarkning följt av andningsuppehåll under sömnen. Dessa andningsuppehåll kan leda till att personen vaknar flera gånger under natten, ofta utan att vara medveten om det."
+},
+{
+    "id": 573,
+    "soru": "Du kör med för lågt lufttryck i däcken. Hur påverkar det bränsleförbrukningen?",
+    "gorsel_yolu": "../images/b573.webp",
+    "secenekler": [
+        "Den blir lägre",
+        "Den påverkas inte",
+        "Den blir högre men endast obetydligt",
+        "Den blir onödigt hög"
+    ],
+    "dogru_index": 3,
+    "aciklama": "Förutom att bränsleförbrukningen ökar när du kör med för lågt lufttryck, kan det också leda till att bränsleförbrukningen blir onödigt hög. Däck med för lågt tryck ökar rullmotståndet och gör att motorn måste arbeta hårdare för att hålla samma hastighet, vilket i sin tur leder till högre bränsleförbrukning än nödvändigt."
+},
+{
+    "id": 574,
+    "soru": "När stora och tunga fordon möts på vägen kan kraftiga vindstötar från sidan uppstå, så kallad luftkuddeverkan. Hur kan du som förare minska denna risk?",
+    "gorsel_yolu": "../images/b574.webp",
+    "secenekler": [
+        "Jag sänker hastigheten före mötet",
+        "Jag ökar hastigheten före mötet",
+        "Jag håller hög och jämn hastighet i mötet",
+        "Jag kör så långt till höger som möjligt"
+    ],
+    "dogru_index": 0,
+    "aciklama": "Genom att sänka hastigheten innan mötet med ett stort och tungt fordon kan du minska risken för luftkuddeverkan. En lägre hastighet gör att du kan hantera vindstötar bättre och ger dig mer tid att reagera om du påverkas av sidvindar."
+},
+{
+    "id": 575,
+    "soru": "Var på kroppen uppstår en så kallad disknervskada eller whiplashskada?",
+    "gorsel_yolu": "../images/b575.webp",
+    "secenekler": [
+        "Höfte",
+        "Handlederna",
+        "Nacken",
+        "Käken"
+    ],
+    "dogru_index": 2,
+    "aciklama": "En disknervskada eller whiplashskada uppstår vanligtvis i nacken och övre rygg. Skadan uppstår ofta när huvudet rör sig snabbt fram och tillbaka, vilket är typiskt för plötsliga påfrestningar som vid en bilolycka, särskilt vid påkörning bakifrån."
+},
+{
+    "id": 576,
+    "soru": "Du kommer till en olycksplats där en person är skadad. Vad av följande bör du alltid göra först när du hjälper den skadade?",
+    "gorsel_yolu": "../images/b576.webp",
+    "secenekler": [
+        "Kontrollera att personens skärp och kläder inte är för åtsittande",
+        "Försök att bedöma personens kroppstemperatur",
+        "Kontrollera graden av medvetande genom att tilltala och försiktigt ruska personen",
+        "Lägga personen på en filt"
+    ],
+    "dogru_index": 2,
+    "aciklama": "Att tilltala och försiktigt ruska den skadade personen är ett viktigt steg för att kontrollera graden av medvetande. Det är dock viktigt att göra detta försiktigt för att inte orsaka ytterligare skada."
+},
+{
+    "id": 577,
+    "soru": "Du kör en buss som är utrustad med rullstolslyft för att kunna transportera rullstolar. Var hittar du uppgifter om hur många rullstolar som får transporteras vid samma tillfälle?",
+    "gorsel_yolu": "../images/b577.webp",
+    "secenekler": [
+        "I en särskild handling utfärdad av länsstyrelse",
+        "I en särskild handling utfärdad av Trafikverket",
+        "I fordonets registreringsbevis",
+        "I fordonets instruktionsbok"
+    ],
+    "dogru_index": 3,
+    "aciklama": "Uppgifter om hur många rullstolar som får transporteras vid samma tillfälle finns normalt i bussens användarmanual eller i fordonets tekniska specifikationer. Där kan det stå angivet hur många rullstolar som får transporteras, samt om det finns några specifika säkerhetsföreskrifter för detta."
+},
+{
+    "id": 578,
+    "soru": "Du kör en buss med styrbar löpaxel. Vad bör du särskilt vara uppmärksam på när du svänger ut från en hållplats?",
+    "gorsel_yolu": "../images/b578.webp",
+    "secenekler": [
+        "Att bussens främre överhäng inte korsar vägbanans mitt",
+        "Att bussens bakre överhäng kan gå fritt på hållplatsområdet",
+        "Att bussens styrning på löpaxeln måste vara spärrad",
+        "Att bussens högra bakspegel kan gå fritt över hållplatsområdet"
+    ],
+    "dogru_index": 1,
+    "aciklama": "När du kör en buss med styrbar löpaxel och svänger ut från en hållplats, bör du särskilt vara uppmärksam på att bussens bakre överhäng kan röra sig åt motsatt håll från svängen. Detta kan innebära risk för att bakre delen av bussen kommer nära eller träffar hinder, såsom trottoarer, skyltar eller andra fordon."
+},
+{
+    "id": 579,
+    "soru": "Under en körperiod på 4,5 timmar kan du dela upp din rast. Vilket alternativ anger den rätta uppdelningen?",
+    "gorsel_yolu": "../images/b579.webp",
+    "secenekler": [
+        "Tre delar var och en på minst 15 minuter",
+        "Två delar var och en på minst 25 minuter",
+        "Två delar, den första på minst 30 minuter och den andra på minst 15 minuter",
+        "Två delar, den första på minst 15 minuter och den andra på minst 30 minuter"
+    ],
+    "dogru_index": 3,
+    "aciklama": "Under en körperiod på 4,5 timmar enligt kör- och vilotidsreglerna kan du dela upp rasten i två delar: 15 minuter följt av 30 minuter. Detta innebär att du måste ta minst en första rast på minst 15 minuter och en andra rast på minst 30 minuter innan körperioden på 4,5 timmar är slut."
+},
+{
+    "id": 580,
+    "soru": "Det är vinter och innan du börjar köra gör du säkerhetskontroll på en buss för att känna på lufttorkaren. När du dränerar luften från tanken kommer det vatten ur tanken. Vad bör du göra?",
+    "gorsel_yolu": "../images/b580.webp",
+    "secenekler": [
+        "Kontrollera att dräneringsventilen i botten på lufttorkaren är varm",
+        "Starta bussen och kontrollera att bottenventilen ger ifrån sig en kraftig nysning",
+        "Fylla på frysskyddsvätska i lufttorkaren",
+        "Byta buss eftersom lufttorkaren är ur funktion"
+    ],
+    "dogru_index": 3,
+    "aciklama": "Om lufttorkaren är ur funktion bör du inte köra vidare med bussen, särskilt under vinterförhållanden. Fukt i tryckluftssystemet kan frysa och orsaka allvarliga bromsproblem, vilket kan äventyra säkerheten. Åtgärd: Byt till en annan buss som är i fullgott skick och rapportera felet till din arbetsgivare eller verkstad för omedelbar åtgärd."
+},
+{
+    "id": 581,
+    "soru": "Hur länge sover en vuxen person normalt per dygn under en vecka då han eller hon arbetar?",
+    "gorsel_yolu": "../images/b581.webp",
+    "secenekler": [
+        "4 till 5 timmar",
+        "7 till 8 timmar",
+        "10 till 11 timmar"
+    ],
+    "dogru_index": 1,
+    "aciklama": "En vuxen person sover normalt cirka 6-9 timmar per natt under en arbetsvecka, vilket innebär totalt 42-63 timmar per vecka. Detta kan variera beroende på individuella behov och livsstil."
+},
+{
+    "id": 582,
+    "soru": "Vem har rätt att ta ut tilläggsavgift av en buss-passagerare som inte kan visa upp en giltig biljett under kontroll?",
+    "gorsel_yolu": "../images/b582.webp",
+    "secenekler": [
+        "Tjänsteman på länsstyrelsen",
+        "Bussföraren",
+        "Den som driver trafiken",
+        "Polismannen"
+    ],
+    "dogru_index": 2,
+    "aciklama": "Det är den som driver trafiken, alltså trafikföretaget eller dess representanter, som har rätt att ta ut en tilläggsavgift från en passagerare som inte kan visa upp en giltig biljett under kontroll."
+},
+{
+    "id": 583,
+    "soru": "Du kör en tungt lastad buss och gör en tvär sväng. Bussen påverkas av centrifugalkraften. Hur påverkas bussen?",
+    "gorsel_yolu": "../images/b583.webp",
+    "secenekler": [
+        "Bussen strävar utåt i svängen",
+        "Bussen strävar först utåt och sedan inåt i svängen",
+        "Bussen strävar först inåt och sedan utåt i svängen",
+        "Bussen strävar inåt i svängen"
+    ],
+    "dogru_index": 1,
+    "aciklama": "När du kör en tungt lastad buss i en tvär sväng kommer centrifugalkraften först att få bussen att sträva utåt, bort från svängens kurva. När bussen fortsätter att svänga kan den sedan påverkas av andra krafter, som däckens grepp på vägbanan, vilket kan få den att röra sig inåt i svängen."
+},
+{
+    "id": 584,
+    "soru": "Hur ska du hjälpa en person som får ett epileptiskt anfall?",
+    "gorsel_yolu": "../images/b584.webp",
+    "secenekler": [
+        "Skydda personen mot nyfikna åskådare",
+        "Ge personen något att dricka under anfallet",
+        "Hålla fast personen",
+        "Ge personen någonting att bita på"
+    ],
+    "dogru_index": 0,
+    "aciklama": "Vid ett epileptiskt anfall är det viktigaste att skydda personen från skador och ge den integritet. Att skydda personen mot nyfikna åskådare minskar stress och skapar en lugnare miljö. Du bör inte hålla fast personen, ge den något att dricka eller stoppa något i munnen – det kan orsaka skador."
+},
+{
+    "id": 585,
+    "soru": "Du kör en resa med buss från Tyskland till Sverige. Vid gränskontrollen visade det sig att flera av passagerarna är utlänningar som olagligt passerat gränsen. Kan du ställas till ansvar för detta?",
+    "gorsel_yolu": "../images/b585.webp",
+    "secenekler": [
+        "Ja, eftersom jag ska kontrollera att alla passagerare har pass",
+        "Ja, men bara om jag känner till att de är illegala invandrare",
+        "Ja, men bara om jag har tagit emot ersättning för att hjälpa dem",
+        "Nej, min arbetsgivare har alltid ansvar för vilka som ska åka med i bussen"
+    ],
+    "dogru_index": 1,
+    "aciklama": "Som förare kan du ställas till ansvar om du har varit medveten om att passagerarna olagligt passerat gränsen och inte vidtagit åtgärder för att stoppa detta. Enligt lagstiftningen kan du som förare hållas ansvarig om du har organiserat eller känt till den olagliga inresan."
+},
+{
+    "id": 586,
+    "soru": "Under en bussresa behöver en passagerare plötsligt akutvård, du bedömer att Heimlichmanövern kan vara till hjälp. När används denna metod?",
+    "gorsel_yolu": "../images/b586.webp",
+    "secenekler": [
+        "När något har fastnat i luftstrupen",
+        "Vid ett epileptiskt anfall",
+        "Vid astmaanfall",
+        "När en person får insulinkänning"
+    ],
+    "dogru_index": 0,
+    "aciklama": "Heimlichmanövern används när en person får luftvägsstopp på grund av att något blockerar luftstrupen, och personen inte kan andas eller hosta upp föremålet. Om passageraren inte kan andas och verkar vara i akut fara, kan Heimlichmanövern hjälpa till att frigöra blockeringen."
+},
+{
+    "id": 587,
+    "soru": "För att inte överskrida den viktgräns som gäller för din buss behöver du känna till bussens totalvikt och garanterade axelbelastningar. Var kan du alltid hitta dessa uppgifter?",
+    "gorsel_yolu": "../images/b587.webp",
+    "secenekler": [
+        "På tidgodkännande skylten",
+        "I besiktningskontrollet",
+        "I registreringsbeviset",
+        "I instruktionsboken"
+    ],
+    "dogru_index": 2,
+    "aciklama": "Du kan alltid hitta uppgifter om bussens totalvikt och garanterade axelbelastningar i fordonets registreringsbevis. Det är det officiella dokumentet som innehåller alla viktiga tekniska specifikationer om fordonet."
+},
+{
+    "id": 588,
+    "soru": "Vilket påstående stämmer om EG:s regler om kör- och vilotider?",
+    "gorsel_yolu": "../images/b588.webp",
+    "secenekler": [
+        "Jag får inte minska min dygnsvila mera än två gånger i veckan",
+        "Jag får inte köra mer än 9 timmar innan jag tar min dygnsvila",
+        "Jag får aldrig dela upp rasten i flera än 3 raster före nästa körpass",
+        "Jag får inte köra mer än 6 perioder av daglig körtid innan jag tar veckovila"
+    ],
+    "dogru_index": 1,
+    "aciklama": "En normal körtid är 9 timmar. Du får inte köra mer än 9 timmar utan att ta din dygnsvila, enligt EG:s regler om kör- och vilotider."
+},
+{
+    "id": 589,
+    "soru": "Du måste vända bussen vid en hållplats i samband med att du ska hämta skolelever. Hur bör du göra?",
+    "gorsel_yolu": "../images/b589.webp",
+    "secenekler": [
+        "Jag låter alla eleverna gå ombord innan jag vänder",
+        "Jag låter eleverna stå upp vid hållplatsen medan jag vänder",
+        "Jag låter de elever som vill komma ombord innan jag vänder",
+        "Jag låter endast de yngsta eleverna gå ombord innan jag vänder"
+    ],
+    "dogru_index": 0,
+    "aciklama": "När du vänder bussen vid en hållplats för att hämta skolelever bör du se till att alla elever går ombord i ordning och att de sitter säkert innan du utför vändningen."
+},
+{
+    "id": 590,
+    "soru": "Hur kan du minska bränsleförbrukningen?",
+    "gorsel_yolu": "../images/b590.webp",
+    "secenekler": [
+        "Jag använder varje växel i uppväxlingar",
+        "Jag kör med lägre hastighet emot vind",
+        "Jag kör med högt varv i uppförsbackar"
+    ],
+    "dogru_index": 1,
+    "aciklama": "Att köra med lägre hastighet i motvind är en effektiv metod för att minska bränsleförbrukningen. När vinden motverkar din framfart ökar luftmotståndet, och att köra långsammare minskar den energi som behövs för att hålla samma hastighet."
+},
+{
+    "id": 591,
+    "soru": "Vilken säkerhetsutrustning måste finnas i en buss?",
+    "gorsel_yolu": "../images/b591.webp",
+    "secenekler": [
+        "Brandsläckare",
+        "Spellsystem i motorrummet",
+        "Bältesskydd",
+        "Reflexväst"
+    ],
+    "dogru_index": 0,
+    "aciklama": "I en buss måste det finnas säkerhetsutrustning som brandsläckare för att kunna hantera brand om det uppstår. Övrig utrustning inkluderar till exempel första hjälpen-kit, varningstriangel och nödelysning."
+},
+{
+    "id": 592,
+    "soru": "Till vilken myndighet ska en arbetsgivare normalt rapportera olyckor och tillbud?",
+    "gorsel_yolu": "../images/b592.webp",
+    "secenekler": [
+        "Arbetsmiljöverket",
+        "Polisen",
+        "Länsstyrelsen",
+        "Transportstyrelsen",
+        "Trafikverket"
+    ],
+    "dogru_index": 0,
+    "aciklama": "En arbetsgivare ska normalt rapportera olyckor och tillbud till Arbetsmiljöverket. Detta gäller om händelsen inträffar på arbetsplatsen eller i samband med arbete, särskilt vid allvarliga olyckor som medfört sjukfrånvaro."
+},
+{
+    "id": 593,
+    "soru": "Vad innebär trafiksignalen?",
+    "gorsel_yolu": "../images/b593.webp",
+    "secenekler": [
+        "Jag ska stå still men jag gör mig redo att köra när signalen växlar",
+        "Jag får alltid passera",
+        "Jag ska stanna men jag får passera om jag inte kan stanna utan fara för bakomvarande trafikant"
+    ],
+    "dogru_index": 2,
+    "aciklama": "För bussen innebär gult ljus att du ska stanna, men du får passera om du inte kan stanna utan fara för bakomvarande trafikant."
+},
+{
+    "id": 594,
+    "soru": "Man räknar med att cirka 1,25 miljoner svenskar åker med kollektiva färdmedel i genomsnitt varje dag. Hur många personer åker personbil i genomsnitt per dag?",
+    "gorsel_yolu": "../images/b594.webp",
+    "secenekler": [
+        "Ungefär lika många",
+        "Ungefär dubbelt så många",
+        "Ungefär 3 gånger så många",
+        "Ungefär 4 gånger så många"
+    ],
+    "dogru_index": 3,
+    "aciklama": "Ungefär 5 miljoner personer åker personbil varje dag i Sverige, vilket är cirka fyra gånger så många som de 1,25 miljoner som åker med kollektivtrafik."
+},
+{
+    "id": 595,
+    "soru": "Du kör buss på en turistresa i Spanien. Kan du ställas till svars om du bryter mot reglerna om kör- och vilotider?",
+    "gorsel_yolu": "../images/b595.webp",
+    "secenekler": [
+        "Ja",
+        "Nej, enbart om researrangören riskerar att straffas",
+        "Nej, enbart arbetsgivare riskerar att straffas",
+        "Nej, enbart ägaren av bussen riskerar att straffas"
+    ],
+    "dogru_index": 0,
+    "aciklama": "Du kan ställas till ansvar om du bryter mot reglerna om kör- och vilotider, även om du kör buss på en turistresa i Spanien. EU:s regler gäller inom hela EU, och det är ditt ansvar att följa dessa regler oavsett vilket land du kör i."
+},
+{
+    "id": 596,
+    "soru": "Hur lång får den dagliga körtiden vid vägtransporter maximalt vara?",
+    "gorsel_yolu": "../images/b596.webp",
+    "secenekler": [
+        "8 timmar men kan 3 gånger per vecka ökas till 10 timmar",
+        "9 timmar men kan 2 gånger per vecka ökas till 10 timmar",
+        "9 timmar men kan 3 gånger per vecka ökas till 10 timmar",
+        "9 timmar och den får aldrig vara längre"
+    ],
+    "dogru_index": 1,
+    "aciklama": "Den maximala dagliga körtiden vid vägtransporter är 9 timmar, men den får förlängas till 10 timmar högst två gånger per vecka. Det är viktigt att följa reglerna om kör- och vilotider för att säkerställa trafiksäkerhet och förarens hälsa."
+},
+{
+    "id": 597,
+    "soru": "Du transporterar gods i din buss. Vilken uppgift ska alltid ingå i en fraktsedel enligt lag?",
+    "gorsel_yolu": "../images/b597.webp",
+    "secenekler": [
+        "Fraktförarens rätt till ersättning vid övertid",
+        "Fraktfordonets registreringsnummer",
+        "Avtalat pris på frakten",
+        "Avsändarens namn och adress"
+    ],
+    "dogru_index": 3,
+    "aciklama": "Enligt lag ska alltid avsändarens namn och adress ingå i en fraktsedel vid transport av gods. Detta är en obligatorisk uppgift för att säkerställa korrekt hantering och spårbarhet av godset."
+},
+{
+    "id": 598,
+    "soru": "Hur många gånger i veckan får du maximalt minska din dygnsvila enligt EG:s regler om kör- och vilotider?",
+    "gorsel_yolu": "../images/b598.webp",
+    "secenekler": [
+        "1 gång",
+        "2 gånger",
+        "3 gånger",
+        "4 gånger"
+    ],
+    "dogru_index": 2,
+    "aciklama": "Den dagliga viloperioden måste vara minst elva timmar. Denna kan minskas till nio timmar, men inte mer än tre gånger mellan två veckovilor. Den normala veckovilan måste vara minst 45 timmar. En reducerad veckovila måste vara minst 24 timmar."
+},
+{
+    "id": 599,
+    "soru": "Varför bör en transportföretagsledning regelbundet påminna sina förare om sambandet mellan fortkörning och företagets anseende?",
+    "gorsel_yolu": "../images/b599.webp",
+    "secenekler": [
+        "För att du som förare får betala böterna själv om du kör för fort",
+        "För att det har betydelse för företagets anseende att du som förare följer reglerna i trafiken",
+        "För att det viktigaste för företagets anseende är att du alltid kommer fram i tid"
+    ],
+    "dogru_index": 1,
+    "aciklama": "Det är viktigt för företagets anseende att du som förare följer reglerna i trafiken eftersom det inte bara påverkar säkerheten utan också hur kunder och andra trafikdeltagare uppfattar företaget. Att följa regler skapar förtroende och kan bidra till att företaget framstår som professionellt och ansvarstagande."
+},
+{
+    "id": 600,
+    "soru": "Det är vanligt att chaufförer som ofta kliver in och ur bilen får besvär med knäna. Vilken muskel kan stärkas för att förebygga detta?",
+    "gorsel_yolu": "../images/b600.webp",
+    "secenekler": [
+        "Vadmuskulaturen",
+        "Ryggmusklerna",
+        "Lårmusklerna"
+    ],
+    "dogru_index": 2,
+    "aciklama": "För att förebygga knäbesvär hos chaufförer som ofta kliver in och ur bilen, kan styrketräning av quadriceps (framsidan av låret) vara särskilt effektivt. Denna muskel hjälper till att stabilisera knäleden och underlättar rörelser som involverar att böja och sträcka på knäna. Genom att stärka quadriceps kan du minska belastningen på knäna och förebygga smärta och skador."
 }
 
 ]
