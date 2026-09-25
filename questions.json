@@ -7143,8 +7143,8 @@
         "I fordonets registreringsbevis",
         "I fordonets instruktionsbok"
     ],
-    "dogru_index": 3,
-    "aciklama": "Uppgifter om hur många rullstolar som får transporteras vid samma tillfälle finns normalt i bussens användarmanual eller i fordonets tekniska specifikationer. Där kan det stå angivet hur många rullstolar som får transporteras, samt om det finns några specifika säkerhetsföreskrifter för detta."
+    "dogru_index": 2,
+    "aciklama": "Bussens godkända passagerarantal samt hur många rullstolar som får transporteras samtidigt anges i fordonets registreringsbevis. Det är den officiella handlingen som visar fordonets tekniska data och begränsningar."
 },
 {
     "id": 578,
@@ -8969,6 +8969,2607 @@
     ],
     "dogru_index": 1,
     "aciklama": "För att beräkna reaktionssträckan använder vi formeln: Reaktionssträcka = hastighet × reaktionstid. Hastigheten på 50 km/h omvandlas till meter per sekund (50 × 0,2778 = 13,89 m/s). Med 1 sekunds reaktionstid blir reaktionssträckan cirka 14 meter."
-}
+},
+{
+    "id": 721,
+    "soru": "Var går gränsen för rattfylleri? (promillehalten mätt i blodet)",
+    "gorsel_yolu": "../images/b721.webp",
+    "secenekler": [
+        "Vid 0,2 promille",
+        "Vid 0,5 promille",
+        "Vid 0,8 promille",
+        "Vid 1,0 promille"
+    ],
+    "dogru_index": 0,
+    "aciklama": "Gränsen för rattfylleri i Sverige är 0,2 promille i blodet. Om du kör ett fordon och har en alkoholkoncentration över denna nivå, anses du vara rattfull, vilket innebär att du bryter mot trafikreglerna och kan bli straffad för det. Det är alltid säkrast att inte köra alls om du har druckit alkohol eftersom även små mängder alkohol kan påverka din reaktionsförmåga och körförmåga negativt."
+},
+{
+    "id": 722,
+    "soru": "Du kör buss och känner att du håller på att bli trött. Vilken är den lämpligaste åtgärden?",
+    "gorsel_yolu": "../images/b722.webp",
+    "secenekler": [
+        "Att sänka farten",
+        "Att ha bromsberedskap",
+        "Att stanna för att ta en paus",
+        "Att öppna fönstret"
+    ],
+    "dogru_index": 2,
+    "aciklama": "För att minska risken:\n1. Stanna på en säker plats, t.ex. en rastplats eller en vägkant där det är tillåtet att parkera.\n2. Ta en kort paus för att vila och återhämta dig.\n3. Om möjligt, byt förare om det finns någon annan som kan köra.\nDet är alltid bättre att ta en paus och vara säker, än att fortsätta köra och riskera både din egen och andras säkerhet."
+},
+{
+    "id": 723,
+    "soru": "Vad innebär vägmärket?",
+    "gorsel_yolu": "../images/b503.webp",
+    "secenekler": [
+        "Varning för övergångsställe",
+        "Cykelöverfart",
+        "Övergångsställe"
+    ],
+    "dogru_index": 1,
+    "aciklama": "Vägmärket Cykelöverfart innebär att du närmar dig en plats där cyklister har företräde. Det är en särskild vägövergång för cyklar, där cyklister har rätt att korsa vägbanan eller trafikerade vägar på ett säkert sätt.\nViktigt att tänka på:\n• Du som förare av motorfordon ska alltid vara uppmärksam på cyklister när du närmar dig en cykelöverfart.\n• Du ska ge cyklister företräde om de är på väg att korsa vägen."
+},
+{
+    "id": 724,
+    "soru": "Vilket av följande påstående om människans personliga mognad är rätt?",
+    "gorsel_yolu": "../images/b724.webp",
+    "secenekler": [
+        "Människans personliga mognad påverkar inte sättet att köra",
+        "Människans personliga mognad påverkar sättet att köra",
+        "Människans personliga mognad är fullt utvecklad först i 18-års ålder"
+    ],
+    "dogru_index": 1,
+    "aciklama": "Människans personliga mognad påverkar sättet att köra. En förares personliga mognad kan ha stor inverkan på hur säkert och ansvarsfullt de kör. Mognad handlar om förmågan att ta ansvar, fatta kloka beslut, vara medveten om risker, och hantera stressiga eller oväntade situationer på ett lugnt och överlagt sätt.\nEn moden förare tenderar att vara:\n• Självreflekterande och medveten om sina egna begränsningar.\n• Tålamodig och respektfull mot andra trafikanter.\n• Ansvarsfull när det gäller att följa trafikregler och fatta säkra beslut."
+},
+{
+    "id": 725,
+    "soru": "I vilket alternativ får du köra samtliga fordon om du har behörighet BD?",
+    "gorsel_yolu": "../images/b725.webp",
+    "secenekler": [
+        "Personbil, lätt lastbil, terrängvagn, buss",
+        "Personbil med tillkopplad tung släpvagn, lätt lastbil, buss",
+        "Personbil med tillkopplad tung släpvagn, tung lastbil, buss",
+        "Personbil med tillkopplad tung släpvagn, tung lastbil med tillkopplad tung släpvagn, buss"
+    ],
+    "dogru_index": 0,
+    "aciklama": "Med behörighet BD får du köra personbil, lätt lastbil, terrängvagn och buss. Behörighet BD innebär att du har busskort (klass B för personbil + D för buss) och därmed får köra:\n• Personbil\n• Lätt lastbil (eftersom det är en lastbil under 3,5 ton totalvikt)\n• Terrängvagn (t.ex. fyrhjuling eller vissa specialfordon)\n• Buss (med fler än 8 passagerare, förutsatt att du har rätt typ av bussbehörighet)\nSå, BD-behörigheten ger dig rätt att köra samtliga dessa fordon."
+},
+{
+    "id": 726,
+    "soru": "Vad är riktigt om att stanna eller parkera vid övergångsställen?",
+    "gorsel_yolu": "../images/b726.webp",
+    "secenekler": [
+        "Det är förbjudet både att stanna och att parkera inom 10 meter före och efter ett övergångsställe",
+        "Det är tillåtet att stanna inom 10 meter före ett övergångsställe",
+        "Det är förbjudet både att stanna och att parkera inom 10 meter före ett övergångsställe",
+        "Det är tillåtet att stanna inom 10 meter före och efter ett övergångsställe"
+    ],
+    "dogru_index": 2,
+    "aciklama": "• Inom 10 meter före ett övergångsställe får du inte stanna eller parkera.\n• Detta gäller oavsett om du har kortare tid eller om du vill stanna för att släppa på passagerare.\nDet är viktigt att hålla avståndet så att fotgängare och andra trafikanter kan passera säkert."
+},
+{
+    "id": 727,
+    "soru": "Du kör buss när lågt tryckindikatorn plötsligt varnar. Vad är orsaken?",
+    "gorsel_yolu": "../images/b727.webp",
+    "secenekler": [
+        "Lågt lufttryck i dörrarnas mothåll",
+        "Lågt lufttryck i bromssystemet",
+        "Lågt lufttryck i luftfjädringen",
+        "Lågt lufttryck i däcken"
+    ],
+    "dogru_index": 1,
+    "aciklama": "Om lågt tryckindikatorn på din buss plötsligt varnar, betyder det att det finns lågt lufttryck i bromssystemet. Vanliga orsaker till lågt lufttryck kan vara:\n• Läckage i luftsystemet (t.ex. en sprucken slang eller en trasig ventil).\n• Fel på kompressorn som producerar lufttrycket.\n• Problem med lufttorkaren, som inte avlägsnar fukt ordentligt och orsakar tryckproblem."
+},
+{
+    "id": 728,
+    "soru": "Du ska svänga vänster i en korsning med din buss. Vilken risk måste du vara uppmärksam på allra först?",
+    "gorsel_yolu": "../images/b728.webp",
+    "secenekler": [
+        "Fordon i körfältet till höger om bussen",
+        "Gående som korsar gatan jag kör in på",
+        "Cyklister som korsar gatan jag kör in på",
+        "Mötande fordon"
+    ],
+    "dogru_index": 0,
+    "aciklama": "Detta beror på att bussen, som är ett större fordon, kan ha en bredare svängradie och ibland blockera den plats där fordonet till höger om dig eventuellt kan passera.\nDe största riskerna är:\n• Kollision med fordon på höger sida som kan vara på väg att köra förbi dig, eller som du kanske blockerar om du svänger för nära kanten.\n• Cyklister eller fotgängare som kan befinna sig i närheten av korsningen och som du inte alltid har full uppsikt över på grund av bussens storlek."
+},
+{
+    "id": 729,
+    "soru": "Du kör buss utrustad med retarder. Hur bör du bromsa bussen vid körning i halt väglag?",
+    "gorsel_yolu": "../images/b729.webp",
+    "secenekler": [
+        "Med färdbromsen",
+        "Med retardern",
+        "Med avgasbromsen"
+    ],
+    "dogru_index": 0,
+    "aciklama": "På halt väglag är det bäst att förlita dig på färdbromsen för att bromsa säkert och undvika att drivhjulen tappar greppet (eftersom retardern enbart verkar på drivhjulen). Använd retardern mycket försiktigt eller undvik den helt på väldigt halt underlag för att förhindra sladd."
+},
+{
+    "id": 730,
+    "soru": "Du är på väg att köra om bussen på bilden. Vad ska du vara beredd på i första hand?",
+    "gorsel_yolu": "../images/b103.webp",
+    "secenekler": [
+        "Att gående kan komma ut framför bussen vid hållplatsen",
+        "Att gående kan komma ut på övergångsstället",
+        "Att den gående inte har uppmärksammat min buss",
+        "Att den andra bussen startar och kör i väg"
+    ],
+    "dogru_index": 2,
+    "aciklama": "Tänk alltid på att vara försiktig och förutseende, eftersom situationen kan ändras snabbt, och du behöver vara beredd på att agera om en fotgängare skulle gå ut på vägen."
+},
+{
+    "id": 731,
+    "soru": "Vad innebär trafiksignalen?",
+    "gorsel_yolu": "../images/b731.webp",
+    "secenekler": [
+        "Jag ska alltid stanna, men jag gör mig beredd att köra när signalen växlar",
+        "Jag ska stanna men jag får passera om jag inte kan stanna utan fara för bakomvarande trafikanter",
+        "Jag får passera"
+    ],
+    "dogru_index": 0,
+    "aciklama": "Du ska alltid stanna men göra dig beredd att köra när signalen växlar, innebär att du är vid en väntesignal. Det kan vara en signal där du förväntas stanna, exempelvis vid en röd trafiksignal, men där du också bör vara beredd att köra direkt när den växlar till grön."
+},
+{
+    "id": 732,
+    "soru": "Hur ska du uppträda när du kör om en cyklist?",
+    "gorsel_yolu": "../images/b732.webp",
+    "secenekler": [
+        "Jag växlar upp till en högre växel för att snabbt komma förbi",
+        "Jag ska vänta till jag fått ögonkontakt med cyklisten",
+        "Jag ska ha god marginal till cyklisten i både sidled och längdled",
+        "Jag ska tuta för att göra cyklisten uppmärksam på omkörningen"
+    ],
+    "dogru_index": 2,
+    "aciklama": "En god marginal är viktigt för både din och cyklistens säkerhet. När du visar hänsyn till cyklister minskar risken för olyckor och skapar en tryggare trafikmiljö för alla."
+},
+{
+    "id": 733,
+    "soru": "Det är bättre för miljön om du använder motorbromsen i stället för att bromsa med färdbromsen vid avfarter och korsningar. Vilken är den viktigaste anledningen?",
+    "gorsel_yolu": "../images/b733.webp",
+    "secenekler": [
+        "Bromsbeläggen slits inte, och därmed sprids inga partiklar från dem till naturen",
+        "Bränsleförbrukningen minskar och därmed även avgasutsläppen",
+        "Däcken slits mindre och det minskar spridningen av partiklar från däcken",
+        "Motorn får högre arbetstemperatur när den arbetar med inbromsningen, det minskar avgasutsläppen"
+    ],
+    "dogru_index": 1,
+    "aciklama": "Det är en win-win både för miljön och för driftsekonomin! Motorbromsning är ett effektivt sätt att minska den negativa miljöpåverkan samtidigt som du bibehåller kontrollen över fordonet."
+},
+{
+    "id": 734,
+    "soru": "Får du köra förbi denna vägmärkeskombination?",
+    "gorsel_yolu": "../images/b734.webp",
+    "secenekler": [
+        "Ja, men endast om jag bor eller har ärenden längs vägen",
+        "Ja, alltid",
+        "Nej"
+    ],
+    "dogru_index": 1,
+    "aciklama": "Var försiktig och följ vägskyltarna, för att undvika att köra på en farlig väg eller plats."
+},
+{
+    "id": 735,
+    "soru": "Vilken är den största risken om lufttorkaren på din buss går sönder?",
+    "gorsel_yolu": "../images/b735.webp",
+    "secenekler": [
+        "Bromsarna kan upphöra att fungera",
+        "Defrostern kan upphöra att fungera på grund av fuktig luft",
+        "Motorn kan stanna därför att fuktig luft tillförs",
+        "Kylsystemet till motorn kan upphöra att fungera"
+    ],
+    "dogru_index": 0,
+    "aciklama": "Om du upptäcker ett problem med lufttorkaren, bör du åtgärda det omedelbart för att säkerställa att bromsarna fortsätter att fungera effektivt och att du kan köra buss säkert."
+},
+{
+    "id": 736,
+    "soru": "Hur utnyttjar du bäst vägmärkets information?",
+    "gorsel_yolu": "../images/b267.webp",
+    "secenekler": [
+        "Jag växlar upp i god tid",
+        "Jag saktar in före backen",
+        "Jag växlar ner i god tid",
+        "Jag är beredd att använda hjälpbromsen"
+    ],
+    "dogru_index": 2,
+    "aciklama": "Vägmärket visar en brant nedförsbacke (10%). För att utnyttja informationen bäst och använda motorbromsen effektivt bör du växla ner i god tid innan backen börjar, så att motorn kan hjälpa till att hålla nere hastigheten utan att du överhettar färdbromsarna."
+},
+{
+    "id": 737,
+    "soru": "Vad betyder vägmärket?",
+    "gorsel_yolu": "../images/b97.webp",
+    "secenekler": [
+        "Vägen är bara 2,2 m bred",
+        "Största tillåtna fordonsbredd",
+        "Största tillåtna axelavstånd",
+        "Körfältet är bara 2,2 m brett"
+    ],
+    "dogru_index": 1,
+    "aciklama": "Vägmärket \"Största tillåtna fordonsbredd\" anger den maximala bredden på ett fordon som får köra på den aktuella vägen eller vägsträckan. Det innebär att fordon som är bredare än den angivna bredden på vägmärket inte får köra på vägen."
+},
+{
+    "id": 738,
+    "soru": "Du vill planera din färdväg så att bussen förbrukar så lite bränsle och släpper ut så lite avgaser som möjligt. Hur ska du göra?",
+    "gorsel_yolu": "../images/b738.webp",
+    "secenekler": [
+        "Jag väljer alltid den kortaste vägen",
+        "Jag väljer en väg där jag kan hålla jämn fart och stanna få gånger, även om den är lite längre",
+        "Jag kör i rusningstrafik då hastigheterna inte är så höga"
+    ],
+    "dogru_index": 1,
+    "aciklama": "Att välja en väg där du kan hålla en jämn fart och stanna få gånger, även om den är lite längre, är ett bra sätt att minimera bränsleförbrukningen och reducera utsläppen av avgaser. Här är varför det fungerar: 1. Jämn fart. 2. Färre stopp. 3. Längre väg kan vara mer effektiv."
+},
+{
+    "id": 739,
+    "soru": "Din buss är utrustad med hastighetsregulator. Vilken uppgift har den?",
+    "gorsel_yolu": "../images/b739.webp",
+    "secenekler": [
+        "Den förhindrar att bussen körs över en viss hastighet",
+        "Den reglerar växelvalet på bussar med automatisk växellåda",
+        "Den förhindrar att motorn övervarvas",
+        "Den reglerar varvtalet på insprutningspumpen"
+    ],
+    "dogru_index": 0,
+    "aciklama": "En hastighetsregulator i din buss har till uppgift att förhindra att bussen körs över en viss hastighet. Denna funktion är särskilt användbar för att: Hålla hastigheten inom säkerhets- och lagstadgade gränser. Förbättra bränsleeffektiviteten. Öka säkerheten. Hastighetsregulatorn är särskilt användbar för långväga körningar eller i områden där det är viktigt att hålla en konstant hastighet, t.ex. på motorvägar."
+},
+{
+    "id": 740,
+    "soru": "Vilket alternativ anger rätt ordningsföljd för trafikens anvisningar?",
+    "gorsel_yolu": "../images/b740.webp",
+    "secenekler": [
+        "Alternativ A",
+        "Alternativ B",
+        "Alternativ C",
+        "Alternativ D"
+    ],
+    "dogru_index": 2,
+    "aciklama": "Polisens anvisningar går alltid före trafiksignaler och vägmärken, och sedan följer trafikreglerna."
+},
+{
+    "id": 741,
+    "soru": "Vad beskrivs i texten på bilden?",
+    "gorsel_yolu": "../images/b741.webp",
+    "secenekler": [
+        "En buss",
+        "En personbil som enbart får köras med C-körkort",
+        "En minibuss som får köras med B-körkort",
+        "En personbil"
+    ],
+    "dogru_index": 0,
+    "aciklama": "En buss är ett motorfordon som är designat för att transportera ett stort antal passagerare. Beroende på typ kan den vara avsedd för korta stadsresor eller längre interkommunala och regionala resor."
+},
+{
+    "id": 742,
+    "soru": "Du kör buss och ska svänga till vänster i den närmaste korsningen. Har du väjningsplikt mot trafik från höger i någon av korsningarna?",
+    "gorsel_yolu": "../images/b60.webp",
+    "secenekler": [
+        "Ja, men enbart i korsning A",
+        "Ja, men enbart i korsning B",
+        "Ja, i både korsningarna",
+        "Nej, inte i någon av korsningarna"
+    ],
+    "dogru_index": 2,
+    "aciklama": "Högerregeln innebär att när två fordons kurser skär varandra har förare väjningsplikt mot det fordon som närmar sig från höger. Denna regel gäller i alla korsningar och i alla situationer utom sådana som räknas upp i den grundläggande regeln om väjningsplikt."
+},
+{
+    "id": 743,
+    "soru": "Vilken förare ska lämna företräde i samband med mötet vid den vita parkerade bilen?",
+    "gorsel_yolu": "../images/b160.webp",
+    "secenekler": [
+        "Den mötande, enligt regler vid möte på smal väg",
+        "Jag, eftersom hindret är på min sida av vägen",
+        "Den mötande, eftersom jag har ett större fordon",
+        "Ingen, eftersom det saknas regler vid möte på smal väg"
+    ],
+    "dogru_index": 1,
+    "aciklama": "Om det finns en vit parkerad bil som blockerar vägen och du möter ett annat fordon, så ska du lämna företräde eftersom hindret är på din sida av vägen. I en sådan situation är det viktigt att vara uppmärksam på: Om det finns tillräckligt med utrymme för att du och det mötande fordonet ska kunna passera säkert. Du måste kanske sänka hastigheten eller stanna tillfälligt för att ge plats för det mötande fordonet. Det gäller att visa hänsyn och föregå med gott exempel för att undvika olyckor."
+},
+{
+    "id": 744,
+    "soru": "Du ska köra in på en landsväg och ser en moped eller motorcykel närmar sig. Vad är det som innebär den största risken om du förväxlar en motorcykel med en moped?",
+    "gorsel_yolu": "../images/b744.webp",
+    "secenekler": [
+        "Att motorcykeln är bredare än en moped",
+        "Att mopedföraren har sämre trafikkunskaper än motorcyklisten",
+        "Att motorcykeln har högre hastighet än mopeden",
+        "Att mopedföraren har sämre skyddsutrustning än motorcyklisten"
+    ],
+    "dogru_index": 2,
+    "aciklama": "Så i det här fallet är risken att du missbedömer hastigheten om du inte noggrant identifierar om det är en moped eller motorcykel."
+},
+{
+    "id": 745,
+    "soru": "Du kör en buss som har de värden och uppgifter i registreringsbeviset som du ser på bild A. Får du passera vägmärket på bild B om bussen har maxlast?",
+    "gorsel_yolu": "../images/b745.webp",
+    "secenekler": [
+        "Nej",
+        "Ja, eftersom märket enbart gäller lastbilar",
+        "Ja, eftersom märket enbart gäller fordon med tillkopplad släpvagn"
+    ],
+    "dogru_index": 0,
+    "aciklama": "Vägmärket anger ett förbud mot trafik med fordon eller fordonståg vars bruttovikt överskrider den angivna vikten (20 ton). Bussens totalvikt (skattevikt/totalvikt) enligt registreringsbeviset (bild A) är 20 370 kg, vilket överstiger märkets gräns på 20 ton. Därför är det inte tillåtet att passera vägmärket när bussen är fullastad."
+},
+{
+    "id": 746,
+    "soru": "Vilket fordon får man trots förbudsmärket köra om?",
+    "gorsel_yolu": "../images/b168.webp",
+    "secenekler": [
+        "Tung lastbil",
+        "Trehjulig motorcykel",
+        "Tvåhjulig motorcykel",
+        "Traktor"
+    ],
+    "dogru_index": 2,
+    "aciklama": "I det här fallet, även om det finns ett förbud mot omkörning, får du alltså köra om en tvåhjulig motorcykel. Det är dock viktigt att alltid vara uppmärksam på vägförhållanden och säkerheten när du gör en omkörning."
+},
+{
+    "id": 747,
+    "soru": "En bil som kör om dig kolliderar med en mötande bil. Måste du stanna på olycksplatsen?",
+    "gorsel_yolu": "../images/b747.webp",
+    "secenekler": [
+        "Ja, men enbart om mitt fordon blivit skadat",
+        "Ja, alltid",
+        "Nej",
+        "Nej, jag behöver enbart larma polis"
+    ],
+    "dogru_index": 1,
+    "aciklama": "Det är alltid viktigt att vara ansvarig och stanna vid olycksplatsen, hjälpa till vid behov och följa de rättsliga krav som finns."
+},
+{
+    "id": 748,
+    "soru": "Vad är fördelen med ABS-bromsar?",
+    "gorsel_yolu": "../images/b388.webp",
+    "secenekler": [
+        "Att bromssträckan halveras, oavsett väglag",
+        "Att bromsverkan blir lika stor på samtliga hjul",
+        "Att tryckluften inte försvinner ur systemet vid brott på en ledning",
+        "Att bussen går att styra vid en kraftig inbromsning"
+    ],
+    "dogru_index": 3,
+    "aciklama": "Av de viktigaste funktionerna med ABS är att du kan bromsa hårt och samtidigt behålla kontrollen över styrningen, vilket förbättrar säkerheten, särskilt under ogynnsamma vägförhållanden."
+},
+{
+    "id": 749,
+    "soru": "Vad är viktigt att tänka på när du växlar mellan att köra en vanlig 12 meters buss och en 18 meters ledbuss?",
+    "gorsel_yolu": "../images/b749.webp",
+    "secenekler": [
+        "Att en vanlig buss behöver mer utrymme i sidled vid svängar",
+        "Att en ledbuss är tyngre att styra",
+        "Att en ledbuss behöver mer utrymme i sidled vid svängar",
+        "Att en vanlig buss är tyngre att styra"
+    ],
+    "dogru_index": 2,
+    "aciklama": "I stället för att säga att en vanlig buss behöver mer utrymme i sidled, är det bättre att säga att en 18 meters ledbuss kräver mer utrymme både framför och bakom, och du måste vara extra noga med att justera ditt svängutrymme för att undvika att kollidera med hinder eller köra över kantstenar. Därmed handlar det också om att planera svängarna bättre och vara uppmärksam på hur mycket extra utrymme du behöver för att svänga utan problem."
+},
+{
+    "id": 750,
+    "soru": "Vad beror det på om en dieselbil släpper ut svart rök?",
+    "gorsel_yolu": "../images/b750.webp",
+    "secenekler": [
+        "Igensatt bränslefilter",
+        "Igensatt luftfilter",
+        "Borttaget luftfilter",
+        "Trasig turbo"
+    ],
+    "dogru_index": 1,
+    "aciklama": "Svart rök från en dieselbil uppstår oftast på grund av ofullständig förbränning. Den vanligaste orsaken är ett igensatt luftfilter, vilket gör att motorn får för lite luft och bränslet förbränns inte effektivt. Även andra faktorer kan bidra, såsom igensatt bränslefilter eller problem med turbon, men igensatt luftfilter är den vanligaste orsaken. Det är viktigt att åtgärda dessa problem snabbt för att undvika skador på motorn och för att minska utsläppen."
+},
+{
+    "id": 751,
+    "soru": "Vad gäller för användningen av dubbdäck på en buss med totalvikten 16 ton?",
+    "gorsel_yolu": "../images/b75.webp",
+    "secenekler": [
+        "Bussen får utrustas med dubbdäck axelvis",
+        "Om bussen har dubbade däck måste alla däcken vara dubbade",
+        "Endast framhjulen får vara dubbade",
+        "Bussen får inte utrustas med dubbdäck"
+    ],
+    "dogru_index": 0,
+    "aciklama": "För tunga fordon, såsom bussar med en totalvikt över 3,5 ton, är det tillåtet att utrusta fordonet med dubbdäck axelvis, till skillnad från personbilar där alla hjul måste vara dubbade om man använder dubbdäck."
+},
+{
+    "id": 752,
+    "soru": "Vilka bussar ska ha en skylt som syns från förarplatsen där bussens höjd anges?",
+    "gorsel_yolu": "../images/b752.webp",
+    "secenekler": [
+        "Endast bussar som tar fler än 20 passagerare",
+        "Alla bussar",
+        "Endast bussar som är 3,4 m eller högre",
+        "Endast bussar som har en totalvikt över 3500 kg"
+    ],
+    "dogru_index": 2,
+    "aciklama": "Enligt vägtrafikreglerna ska bussar som är 3,4 meter eller högre ha en skylt som är synlig från förarplatsen och som anger bussens höjd. Detta är för att säkerställa att föraren är medveten om bussens höjd och kan ta hänsyn till eventuella låga broar, tunnlar eller andra hinder längs vägen."
+},
+{
+    "id": 753,
+    "soru": "Vad bör du först vara beredd på i denna situation?",
+    "gorsel_yolu": "../images/b442.webp",
+    "secenekler": [
+        "Barn från höger före det vita huset",
+        "Fordon från höger i korsningen efter det vita huset",
+        "Parkerade fordon efter kurvan",
+        "Mötande fordon på fel sida"
+    ],
+    "dogru_index": 1,
+    "aciklama": "I den här situationen, när du närmar dig en skarp kurva åt höger, bör du först vara beredd på att färdas långsamt och försiktigt för att hantera kurvans skarpa vinkel. Den största risken du bör vara uppmärksam på är trafik från höger i korsningen, särskilt om det finns ett vitt hus som kan blockera sikten. Eftersom du närmar dig en korsning, kan fordon från höger ha väjningsplikt eller kanske inte förvänta sig att du kommer i hög hastighet, så det är viktigt att hålla koll på den andra trafiken för att undvika att bli överraskad av andra förare."
+},
+{
+    "id": 754,
+    "soru": "En förare som talar i mobiltelefon har ofta sämre reaktionsförmåga än vanligt. Normal reaktionstid är ca 1 sekund. Hur lång blir reaktionssträckan i 70 km/h om det i stället tar 2 sekunder att reagera?",
+    "gorsel_yolu": "../images/b754.webp",
+    "secenekler": [
+        "Ca 25 m",
+        "Ca 39 m",
+        "Ca 50 m",
+        "Ca 62 m"
+    ],
+    "dogru_index": 1,
+    "aciklama": "För att beräkna reaktionssträckan när en förare reagerar långsammare, kan vi använda formeln för reaktionssträcka: Reaktionssträcka = Hastighet × Reaktionstid. Om hastigheten är 70 km/h omvandlas den till meter per sekund (70 km/h = 70 × 1000/3600 m/s ≈ 19,44 m/s). Sedan multiplicerar vi denna hastighet med den förlängda reaktionstiden på 2 sekunder (Reaktionssträcka = 19,44 m/s × 2 s = 38,88 meter). Så, om det tar 2 sekunder att reagera istället för 1 sekund, blir reaktionssträckan ungefär 39 meter när du kör i 70 km/h. Detta visar hur mycket längre tid och längre sträcka det tar att reagera när du använder mobiltelefon eller på annat sätt blir distraherad."
+},
+{
+    "id": 755,
+    "soru": "Du kör bussen som står vid hållplatsen. Högsta tillåtna hastighet är 70 km/h. Hur ska du uppträda när du ska lämna hållplatsen?",
+    "gorsel_yolu": "../images/b59.webp",
+    "secenekler": [
+        "Jag ska släppa förbi de fordon som närmar sig innan jag kör ut",
+        "Jag ska ge tecken och köra oavsett hur bakomvarande förare uppträder",
+        "Jag ska ge tecken och köra direkt, eftersom bakomvarande förare ska stanna"
+    ],
+    "dogru_index": 0,
+    "aciklama": "När du lämnar en hållplats på en väg med högre hastighetsgräns, måste du vara extra uppmärksam, ge företräde åt närvarande trafik och låta dem passera innan du försiktigt kör ut."
+},
+{
+    "id": 756,
+    "soru": "Denna skylt kan du se i vägtunnlar. Vad innebär den?",
+    "gorsel_yolu": "../images/b167.webp",
+    "secenekler": [
+        "Den visar väg till närmaste brandsläckare",
+        "Den visar var fotgängare ska gå",
+        "Den visar väg till närmaste nödtelefon",
+        "Den visar en utrymningsväg"
+    ],
+    "dogru_index": 3,
+    "aciklama": "Om du ser en skylt i en vägtunnel som visar en utrymningsväg, betyder det att den markerar den väg eller den rutt som ska användas i en nödsituation för att snabbt och säkert lämna tunneln. Utrymningsvägar är ofta specifikt utmärkta för att hjälpa både förare och passagerare att hitta en väg ut vid olyckor, bränder eller andra nödsituationer."
+},
+{
+    "id": 757,
+    "soru": "Hur många människor omkommer i trafiken varje år i Sverige?",
+    "gorsel_yolu": "../images/b757.webp",
+    "secenekler": [
+        "Ca 300 st",
+        "Ca 500 st",
+        "Ca 800 st",
+        "Ca 1000 st"
+    ],
+    "dogru_index": 0,
+    "aciklama": "I Sverige omkommer vanligtvis omkring 200-300 personer varje år i trafiken. De exakta siffrorna kan variera något beroende på året, men Trafikverket och andra myndigheter rapporterar kontinuerligt om trafikolyckor och dödsfall."
+},
+{
+    "id": 758,
+    "soru": "Vilken är den troligaste orsaken till hög bränsleförbrukning när det gäller dieselmotorer?",
+    "gorsel_yolu": "../images/b758.webp",
+    "secenekler": [
+        "Att bränslefiltret inte är bytt enligt bussens instruktionsbok",
+        "Att luftfiltret inte är bytt enligt bussens instruktionsbok",
+        "Att tändsystemet inte är justerat",
+        "Att dieseltillsats inte använts"
+    ],
+    "dogru_index": 1,
+    "aciklama": "Ett smutsigt eller igensatt luftfilter kan vara en trolig orsak till hög bränsleförbrukning i dieselmotorer. Om luftfiltret är igensatt minskar luftflödet till motorn, vilket gör att motorn får mindre syre att förbränna bränslet effektivt. Detta leder till att motorn arbetar hårdare och använder mer bränsle för att uppnå samma prestanda, vilket i sin tur ökar bränsleförbrukningen."
+},
+{
+    "id": 759,
+    "soru": "När är risken för fartblindhet störst?",
+    "gorsel_yolu": "../images/b759.webp",
+    "secenekler": [
+        "Vid körning i dimma",
+        "Vid körning i mörker",
+        "Vid körning långa sträckor i hög hastighet",
+        "Vid körning i tät trafik inom tättbebyggt område"
+    ],
+    "dogru_index": 2,
+    "aciklama": "Att vara medveten om risken för fartblindhet och aktivt arbeta för att hålla uppmärksamheten uppe är viktigt för säker körning, särskilt vid långvarig färd på högre hastigheter."
+},
+{
+    "id": 760,
+    "soru": "Vad påverkar reaktionssträckans längd?",
+    "gorsel_yolu": "../images/b760.webp",
+    "secenekler": [
+        "Väglaget",
+        "Bromsarnas effektivitet",
+        "Däckens mönsterdjup",
+        "Förarens uppmärksamhet"
+    ],
+    "dogru_index": 3,
+    "aciklama": "För att hålla reaktionssträckan så kort som möjligt, är det viktigt att vara fokuserad på vägen och inte bli distraherad."
+},
+{
+    "id": 761,
+    "soru": "Vilken är den viktigaste åtgärden när man blir omkörd?",
+    "gorsel_yolu": "../images/b761.webp",
+    "secenekler": [
+        "Sakta farten",
+        "Bibehålla väl till höger",
+        "Ge svarsignal"
+    ],
+    "dogru_index": 1,
+    "aciklama": "Att bibehålla väl till höger är den viktigaste åtgärden när du blir omkörd. Genom att hålla dig till höger underlättar du för den bakomvarande föraren att köra om på ett säkert sätt. Du bör inte öka hastigheten och inte heller göra plötsliga manövrar. Att ge svarsignal med blinkers är inte ett krav och kan missuppfattas, så det bör undvikas om det inte är uppenbart att det behövs."
+},
+{
+    "id": 762,
+    "soru": "Du har råkat ut för en olycka med din buss. Hur ska du uppträda?",
+    "gorsel_yolu": "../images/b762.webp",
+    "secenekler": [
+        "Jag tillkallar hjälp och väntar med att göra något tills den kommer",
+        "Jag uppträder lugnt och tar hand om en sak i taget",
+        "Jag skyndar mellan passagerarna för att hjälpa alla"
+    ],
+    "dogru_index": 1,
+    "aciklama": "Det viktigaste är att hålla lugnet och agera systematiskt, så att du kan hantera situationen på bästa sätt och hjälpa både passagerare och andra inblandade på olycksplatsen."
+},
+{
+    "id": 763,
+    "soru": "Vilken fordonskombination ska ha denna skylt baktill?",
+    "gorsel_yolu": "../images/b188.webp",
+    "secenekler": [
+        "Lastbil med släpvagn",
+        "Traktor med släpvagn",
+        "Buss med släpvagn",
+        "Personbil med släpvagn"
+    ],
+    "dogru_index": 1,
+    "aciklama": "Den används för att markera långsamma fordon som är ute på vägen, så att andra förare ska vara uppmärksamma på att traktorn eller dess kombination inte kan hålla samma hastighet som andra fordon och att det kan vara en säkerhetsrisk att köra för nära."
+},
+{
+    "id": 764,
+    "soru": "Varför bör du undvika att köra om cyklisten i denna situation?",
+    "gorsel_yolu": "../images/b155.webp",
+    "secenekler": [
+        "För att föraren i bilen kanske kör ut på vägen",
+        "För att omkörning är förbjuden",
+        "För att marginalen till cyklisten blir för liten",
+        "För att cyklisten kanske skymmer ett viktigt vägmärke"
+    ],
+    "dogru_index": 0,
+    "aciklama": "Du bör undvika att köra om cyklisten om du inte har tillräckligt med utrymme eller om det finns en risk att bilen framför dig kan påverka trafiksituationen. Det är alltid bättre att hålla ett säkert avstånd och vara beredd att stanna om det behövs, tills omkörningen kan göras på ett säkert sätt."
+},
+{
+    "id": 765,
+    "soru": "Vilken typ av olyckor råkar äldre förare oftare ut för än andra förare?",
+    "gorsel_yolu": "../images/b765.webp",
+    "secenekler": [
+        "Korsningsolyckor",
+        "Singelolyckor",
+        "Omkörningsolyckor",
+        "Olyckor där föraren är alkoholpåverkad"
+    ],
+    "dogru_index": 0,
+    "aciklama": "Äldre förare är oftare inblandade i korsningsolyckor än yngre förare. Det kan bero på flera faktorer som kan påverka äldre förares förmåga att reagera snabbt och uppfatta omgivningen på samma sätt som yngre förare."
+},
+{
+    "id": 766,
+    "soru": "Vad bör du tänka på när du ska stanna vid en busshållplats när det är halt?",
+    "gorsel_yolu": "../images/b766.webp",
+    "secenekler": [
+        "Att risken för halka ofta är extra stor vid hållplatsen",
+        "Att väglaget ofta är bättre vid hållplatsen",
+        "Att jag ska ha god marginal till trottoarkanten i sidled",
+        "Att jag bör använda hållplatsen för att göra ett mjukt stopp"
+    ],
+    "dogru_index": 0,
+    "aciklama": "Att vara extra försiktig vid busshållplatser är viktigt, särskilt under vintermånaderna när halkriskerna är som störst!"
+},
+{
+    "id": 767,
+    "soru": "Vilka bussar får köra rakt fram i gatukorsningen enligt det inringade vägmärket?",
+    "gorsel_yolu": "../images/b76.webp",
+    "secenekler": [
+        "Endast bussar i beställningstrafik",
+        "Endast bussar i linjetrafik",
+        "Alla bussar i yrkesmässig trafik",
+        "Alla bussar"
+    ],
+    "dogru_index": 1,
+    "aciklama": "Om det finns ett vägmärke som anger att endast bussar i linjetrafik får köra rakt fram i en gatukorsning, innebär det att det är specifikt dessa bussar som har rätt att fortsätta rakt fram, medan andra fordon eller bussar i exempelvis beställningstrafik inte får det."
+},
+{
+    "id": 768,
+    "soru": "Du har behörighet D och kör en buss med en totalvikt på 10,5 ton. Vilken släpvagn får du dra med bussen?",
+    "gorsel_yolu": "../images/b768.webp",
+    "secenekler": [
+        "Släpvagn med totalvikt på högst 750 kg",
+        "Släpvagn med tjänstevikt på högst 750 kg",
+        "Släpvagn med totalvikt på högst 3 500 kg",
+        "Släpvagn med tjänstevikt på högst 3 500 kg"
+    ],
+    "dogru_index": 0,
+    "aciklama": "Om du har behörighet D (busskörkort) och kör en buss med en totalvikt på 10,5 ton, får du dra en släpvagn med totalvikt på högst 750 kg utan att behöva någon ytterligare behörighet. Om släpvagnens totalvikt överstiger 750 kg krävs det en annan körkortsklass, nämligen BE (för att få köra med ett tungt släp tillsammans med en bil eller buss)."
+},
+{
+    "id": 769,
+    "soru": "Vilken är den största faran när du backar en buss?",
+    "gorsel_yolu": "../images/b769.webp",
+    "secenekler": [
+        "Att sikten bakåt är begränsad",
+        "Att jag inte kan hindra och störa övrig trafik",
+        "Att bussen kan vara svår att manövrera"
+    ],
+    "dogru_index": 0,
+    "aciklama": "För att minska risken bör du alltid vara extra uppmärksam när du backar, använda backkamera (om tillgänglig) och be om hjälp från en parkeringsvakt eller annan person om det behövs. Det är också viktigt att hålla hastigheten låg och att stanna om du inte ser vad som finns bakom dig."
+},
+{
+    "id": 770,
+    "soru": "Vilka fordon måste köras in på kontrollplatsen?",
+    "gorsel_yolu": "../images/b144.webp",
+    "secenekler": [
+        "Endast bussar i linjetrafik",
+        "Endast bussar utan släp",
+        "Alla bussar, med eller utan släp",
+        "Endast bussar i beställningstrafik"
+    ],
+    "dogru_index": 2,
+    "aciklama": "Alla bussar, oavsett om de har släp eller inte, måste köras in på en kontrollplats när det krävs enligt reglerna. Kontrollplatsen används för att kontrollera att bilar och bussar följer trafikregler och har rätt utrustning och dokumentation."
+},
+{
+    "id": 771,
+    "soru": "Vilken ordningsföljd är rätt när du kör igång från en busshållplats?",
+    "gorsel_yolu": "../images/b771.webp",
+    "secenekler": [
+        "Vänsterblinkers, Uppmärksamhet, Igångsättning",
+        "Uppmärksamhet, Vänsterblinkers, Igångsättning",
+        "Igångsättning, Uppmärksamhet, Vänsterblinkers"
+    ],
+    "dogru_index": 1,
+    "aciklama": "Att ge tydliga signaler och vara uppmärksam på omgivningen är viktiga delar för att köra säkert, särskilt vid en busshållplats där det finns fotgängare och annan trafik att ta hänsyn till."
+},
+{
+    "id": 772,
+    "soru": "Vad beskrivs i texten på bilden?",
+    "gorsel_yolu": "../images/b772.webp",
+    "secenekler": [
+        "Stoppsträcka",
+        "Bromssträcka",
+        "Retardationssträcka",
+        "Reaktionssträcka"
+    ],
+    "dogru_index": 3,
+    "aciklama": "Avståndet som bilen hinner åka innan du hunnit trampa på bromsen. Det är alltså tiden mellan att du upptäcker en fara på vägen tills du fysiskt reagerar och bromsar eller väjer som påverkar reaktionssträckan. Reaktionssträckans längd påverkas av fordonets hastighet och din reaktionstid."
+},
+{
+    "id": 773,
+    "soru": "Hur påverkas förmågan att utnyttja periferiseendet om du ökar hastigheten?",
+    "gorsel_yolu": "../images/b773.webp",
+    "secenekler": [
+        "Jag får svårare att upptäcka föremål som kommer från sidan",
+        "Den påverkas inte",
+        "Jag får lättare att upptäcka föremål som kommer från sidan"
+    ],
+    "dogru_index": 0,
+    "aciklama": "När hastigheten ökar försämras människans periferiseende, vilket gör det svårare att upptäcka faror, fotgängare eller andra fordon som dyker upp från sidorna. Detta beror på att synfältet begränsas vid högre hastigheter, och risken för olyckor ökar därmed. Därför är det viktigt att anpassa hastigheten efter omständigheterna, särskilt i områden med korsande trafik eller fotgängare."
+},
+{
+    "id": 774,
+    "soru": "Du ska köra en resa där den totala körtiden är 6 timmar. Du startar resan kl. 08:00. När kan du tidigast vara framme?",
+    "gorsel_yolu": "../images/b774.webp",
+    "secenekler": [
+        "Kl. 14.00",
+        "Kl. 14.15",
+        "Kl. 14.30",
+        "Kl. 14.45"
+    ],
+    "dogru_index": 3,
+    "aciklama": "Om du kör i 6 timmar och startar kl. 08:00, så ser tidsplanen ut så här: 1. Du kör i 4,5 timmar fram till kl. 12:30. 2. Du måste ta en paus på minst 45 minuter efter 4,5 timmars körning, så du tar rasten från kl. 12:30 till 13:15. 3. Efter pausen fortsätter du köra i 1,5 timmar (6 timmar - 4,5 timmar). Så du slutför körningen kl. 14:45. Tidigaste ankomsttid blir alltså 14:45."
+},
+{
+    "id": 775,
+    "soru": "Hur påverkas koldioxidutsläppen om bränsleförbrukningen i din buss minskar?",
+    "gorsel_yolu": "../images/b775.webp",
+    "secenekler": [
+        "De minskar proportionellt lika mycket som bränsleförbrukningen",
+        "De minskar dubbelt så mycket som bränsleförbrukningen",
+        "De minskar fyra gånger så mycket som bränsleförbrukningen",
+        "De påverkas inte alls"
+    ],
+    "dogru_index": 0,
+    "aciklama": "Om bränsleförbrukningen i din buss minskar, kommer koldioxidutsläppen också att minska proportionellt. Eftersom koldioxid är en direkt biprodukt av förbränningen av fossila bränslen, innebär en lägre bränsleförbrukning att mindre bränsle används, vilket leder till mindre utsläpp av koldioxid."
+},
+{
+    "id": 776,
+    "soru": "Vad anger de gula vägmarkeringarna?",
+    "gorsel_yolu": "../images/b77.webp",
+    "secenekler": [
+        "Förbud att köra på den gula heldragna linjen",
+        "Förbud att stanna och parkera",
+        "Förbud att parkera"
+    ],
+    "dogru_index": 2,
+    "aciklama": "De gula vägmarkeringarna innebär att det är förbjudet att parkera och tillåtet att stanna. Den gula markeringen som är vanligast är den som består av en heldragen linje."
+},
+{
+    "id": 777,
+    "soru": "Vad är rätt om styrservon?",
+    "gorsel_yolu": "../images/b777.webp",
+    "secenekler": [
+        "Den gör så att bussen går att svänga även då hjulen låser sig",
+        "Den dämpar slag och stötar från vägbanan",
+        "Den drivs av bussens tryckluftssystem",
+        "Den gör så att bussen får mindre svängradie"
+    ],
+    "dogru_index": 1,
+    "aciklama": "Styrservon är främst avsedd att göra det lättare att styra fordonet, genom att minska det fysiska arbete som krävs för att vrida på ratten. Men en av fördelarna är också att den kan dämpa vissa slag och stötar från vägbanan, vilket gör att styrningen känns mjukare och mer stabil, särskilt på ojämna vägar."
+},
+{
+    "id": 778,
+    "soru": "Vad innebär vägmärket?",
+    "gorsel_yolu": "../images/b157.webp",
+    "secenekler": [
+        "Det är inte tillåtet att köra fortare än 30 km/tim",
+        "Hastighetsbegränsningen 30 km/tim gäller enbart mopeder klass 1",
+        "Fordonsförare har väjningsplikt mot gående",
+        "Det är inte lämpligt att köra fortare än 30 km/tim"
+    ],
+    "dogru_index": 3,
+    "aciklama": "Det är inte lämpligt att köra fortare än 30 km/h när ett sådant vägmärke är uppsatt. Även om det inte är ett tvingande hastighetsbegränsningsmärke, betyder det att den rekommenderade hastigheten är 30 km/h och att föraren bör anpassa hastigheten för att köra säkert. Oftast sätts ett sådant märke upp på platser där vägförhållandena inte tillåter högre hastigheter, som vid vägavsnitt med svängar, dålig sikt eller trafik."
+},
+{
+    "id": 779,
+    "soru": "På vilket av dessa sätt kan du som bussförare bäst minska påverkan på miljön?",
+    "gorsel_yolu": "../images/b779.webp",
+    "secenekler": [
+        "Jag använder motorvärmare året runt",
+        "Jag undviker att använda syntetisk motorolja",
+        "Jag kör enbart korta sträckor",
+        "Jag planerar min färdväg så att jag kan spara så mycket som möjligt på bränslet"
+    ],
+    "dogru_index": 3,
+    "aciklama": "Att planera din färdväg så att du kan spara så mycket bränsle som möjligt är en av de bästa åtgärderna för att minska påverkan på miljön. Genom att välja den mest effektiva vägen, undvika onödiga stopp och köra med en jämn fart kan du minska både bränsleförbrukningen och utsläppen. Det kan också innebära att du undviker trafikstockningar eller vägar med mycket backar, vilket också hjälper till att hålla bränsleförbrukningen på en lägre nivå."
+},
+{
+    "id": 780,
+    "soru": "Vilken belysning bör du använda när du kör i tät dimma?",
+    "gorsel_yolu": "../images/b780.webp",
+    "secenekler": [
+        "Helljus eller dimljus",
+        "Parkeringsljus eller dimljus",
+        "Halvljus eller dimljus",
+        "Helljus och dimljus"
+    ],
+    "dogru_index": 2,
+    "aciklama": "När du kör i tät dimma bör du använda dimljus om din buss är utrustad med det. Dimljuset är konstruerat för att ge ett kortare och bredare ljus som minskar reflektionerna från dimman och gör det lättare för dig att se vägbanan. Halvljus kan också användas om dimljus inte finns, men det kan orsaka mer reflektion och minska sikten i riktigt tät dimma. Högintensiva ljus som helljus bör inte användas i dimma eftersom ljuset reflekteras tillbaka från dimman och skapar en bländande effekt som försämrar sikten ytterligare."
+},
+{
+    "id": 781,
+    "soru": "Vilka fordon ska normalt vara utrustade med reflexer som på bilden?",
+    "gorsel_yolu": "../images/b781.webp",
+    "secenekler": [
+        "Endast lastbilar med totalvikt över 3,5 ton",
+        "Lastbilar med släpvagnar med totalvikt över 3,5 ton",
+        "Alla släpvagnar",
+        "Endast släpvagnar med totalvikt över 3,5 ton"
+    ],
+    "dogru_index": 0,
+    "aciklama": "Tunga lastbilar ska ha en, två eller fyra rektangulära skyltar med diagonala fält av växelvis rött fluorescerande eller reflekterande material och material som vid belysning återkastar gult ljus bakåt."
+},
+{
+    "id": 782,
+    "soru": "Vad varnar det inringade vägmärket för?",
+    "gorsel_yolu": "../images/b782.webp",
+    "secenekler": [
+        "Ett pågående vägarbete",
+        "Ett backkrön",
+        "Ett fast hinder"
+    ],
+    "dogru_index": 2,
+    "aciklama": "Att förstå och identifiera fasta hinder är avgörande för att kunna anpassa körningen och säkerställa att alla passagerare transporteras på ett tryggt och säkert sätt."
+},
+{
+    "id": 783,
+    "soru": "Hur kan trafikbuller påverka människor?",
+    "gorsel_yolu": "../images/b783.webp",
+    "secenekler": [
+        "Det kan ge bättre koncentrationsförmåga",
+        "Det kan ge luftvägsbesvär",
+        "Det kan minska trötthet",
+        "Det kan ge sömnsvårigheter"
+    ],
+    "dogru_index": 3,
+    "aciklama": "För att minska trafikbullrets effekter rekommenderas det att man vidtar åtgärder som att isolera fönster, använda ljuddämpande material, planera städer på ett sätt som minimerar bullerexponering samt skapa grönområden som fungerar som ljudbarriärer."
+},
+{
+    "id": 784,
+    "soru": "Hur lång ska tryckstångens slaglängd normalt vara om bussen har trumbromsar?",
+    "gorsel_yolu": "../images/b784.webp",
+    "secenekler": [
+        "3-5 cm",
+        "6-8 cm",
+        "9-11 cm"
+    ],
+    "dogru_index": 0,
+    "aciklama": "Slaglängden för tryckstången i trumbromsar bör normalt vara 3-5 cm (30-50 mm). Detta är det vanliga intervallet för att säkerställa att bromsarna fungerar korrekt, men det kan variera beroende på specifik buss och tillverkare."
+},
+{
+    "id": 785,
+    "soru": "Du ska fortsätta på den väg du kör på. Vad gäller i denna situation?",
+    "gorsel_yolu": "../images/b135.webp",
+    "secenekler": [
+        "Jag har väjningsplikt både mot den vita bilen och trafiken från vänster",
+        "Den vita bilen har väjningsplikt mot mig",
+        "Jag har väjningsplikt mot den vita bilen"
+    ],
+    "dogru_index": 1,
+    "aciklama": "Du får fortsätta utan att stanna, men håll koll på andra trafikantens beteende för att undvika någon form av incident."
+},
+{
+    "id": 786,
+    "soru": "I höga bussar ska bussens höjd anges på en skylt som syns från förarplatsen. Vid vilken höjd går gränsen för att det ska krävas skylt?",
+    "gorsel_yolu": "../images/b786.webp",
+    "secenekler": [
+        "2,8 m",
+        "3,0 m",
+        "3,2 m",
+        "3,4 m",
+        "3,6 m",
+        "3,8 m"
+    ],
+    "dogru_index": 3,
+    "aciklama": "Gränsen för att det ska krävas en skylt med bussens höjd som är synlig från förarplatsen är 3,4 meter. Om bussen är 3,4 meter eller högre, måste den vara utrustad med en sådan skylt."
+},
+{
+    "id": 787,
+    "soru": "Du närmar dig en signalreglerad korsning som visar rött ljus. Hur kan du genom ditt körsätt minska bussens bränsleförbrukning?",
+    "gorsel_yolu": "../images/b787.webp",
+    "secenekler": [
+        "Jag lättar på gasen, växlar ner och motorbromsar",
+        "Jag behåller farten och bromsar så sent som möjligt",
+        "Jag trampar ner kopplingen och bromsar mjukt"
+    ],
+    "dogru_index": 0,
+    "aciklama": "Genom att lätta på gasen, växla ner och använda motorbromsen kan du minska bussens bränsleförbrukning. Detta gör att du inte använder färdbromsen i onödan, vilket sparar både bränsle och minskar slitaget på bromsarna. Motorbromsning innebär att du använder motståndet från motorn för att sakta ner hastigheten, vilket inte kräver någon bränsleförbrukning."
+},
+{
+    "id": 788,
+    "soru": "Hur påverkas människan av den kolmonoxid som finns i avgaserna?",
+    "gorsel_yolu": "../images/b788.webp",
+    "secenekler": [
+        "Risken för allergi ökar",
+        "Blodet får sämre förmåga att ta upp syre",
+        "Risken för cancer ökar"
+    ],
+    "dogru_index": 1,
+    "aciklama": "Kolmonoxid (CO) i avgaserna är farligt eftersom det binder sig till hemoglobinet i blodet mycket starkare än syre gör. Detta minskar blodets förmåga att transportera syre till kroppens organ och vävnader, vilket kan orsaka syrebrist. Symtom på kolmonoxidförgiftning kan vara huvudvärk, trötthet, yrsel och i allvarliga fall kan det leda till medvetslöshet eller dödsfall. Det är därför viktigt att undvika exponering för kolmonoxid, särskilt i slutna eller dåligt ventilerade utrymmen."
+},
+{
+    "id": 789,
+    "soru": "Får du svänga till höger i korsningen med din buss?",
+    "gorsel_yolu": "../images/b789.webp",
+    "secenekler": [
+        "Ja",
+        "Nej, det är tillåtet enbart för personbilar",
+        "Nej, det är tillåtet enbart för personbilar och lastbilar som ska leverera gods till affärer"
+    ],
+    "dogru_index": 0,
+    "aciklama": "Om det inte finns något vägmärke eller någon annan vägregel som förbjuder det, får du svänga till höger i korsningen även om det finns ett gångfartsområde. Det är dock viktigt att du alltid är extra uppmärksam på gående och andra trafikanter som kan finnas i gångfartsområdet, eftersom gående har företräde där. Håll alltid en säker hastighet och ge ett tydligt tecken innan du svänger."
+},
+{
+    "id": 790,
+    "soru": "Du kör buss på landsväg och tänker svänga vänster in på en mindre väg. Vad är den största risken med vänstersvängen?",
+    "gorsel_yolu": "../images/b790.webp",
+    "secenekler": [
+        "Att jag kör i diket på grund av kraftig hastighet",
+        "Att jag blir påkörd bakifrån av bakomvarande trafik",
+        "Att jag blir påkörd i sidan av mötande trafik",
+        "Att jag frontalkrockar med mötande trafik"
+    ],
+    "dogru_index": 1,
+    "aciklama": "Kom ihåg att alltid hålla rätt avstånd till bakomvarande fordon och om möjligt undvika att svänga om det finns osäkerhet om trafiken bakom dig. Det är viktigt att vara extra uppmärksam och signalera din avsikt i god tid innan svängen. Du bör också försöka göra svängen så långsam och kontrollerad som möjligt, så att du minimerar risken för att andra förare inte hinner reagera."
+},
+{
+    "id": 791,
+    "soru": "Du parkerar din buss en lördag kl. 13.00. När måste du senast hämta bussen?",
+    "gorsel_yolu": "../images/b138.webp",
+    "secenekler": [
+        "Lördag kl. 14.00",
+        "Lördag kl. 15.00",
+        "Söndag kl. 08.00",
+        "Måndag kl. 08.00",
+        "Måndag kl. 09.00"
+    ],
+    "dogru_index": 4,
+    "aciklama": "Enligt skyltar får du parkera en timme vardagar mellan kl. 8-14. Efter det får du parkera hur mycket som helst till måndag kl. 9."
+},
+{
+    "id": 792,
+    "soru": "Får du stanna eller parkera här?",
+    "gorsel_yolu": "../images/b110.webp",
+    "secenekler": [
+        "Ja, om jag inte hindrar annan trafik",
+        "Nej, det är förbjudet både att stanna och parkera",
+        "Nej, men det är tillåtet att stanna för att släppa av passagerare",
+        "Ja, men i högst 5 minuter"
+    ],
+    "dogru_index": 1,
+    "aciklama": "Du får inte stanna eller parkera på en gul heldragen linje. En gul heldragen linje markerar ett område där parkering eller att stanna är förbjudet, för att säkerställa trafiksäkerheten och ett fritt flöde av trafik."
+},
+{
+    "id": 793,
+    "soru": "Vilken faktor förutom erfarenheten är viktig för att du som förare ska klara en komplicerad trafiksituation?",
+    "gorsel_yolu": "../images/b793.webp",
+    "secenekler": [
+        "Förutseende",
+        "Lång reaktionstid",
+        "Litet observationsområde"
+    ],
+    "dogru_index": 0,
+    "aciklama": "Förutseende är en mycket viktig faktor för att hantera komplicerade trafiksituationer. Genom att kunna förutse andra trafikanters beteende, vägförhållanden och potentiella faror i förväg, kan du som förare vidta åtgärder i god tid för att undvika olyckor och hantera situationen på ett säkert sätt. Det hjälper också till att minska stress och öka kontrollen i utmanande trafikförhållanden."
+},
+{
+    "id": 794,
+    "soru": "Vilket påstående är riktigt angående körfältsvägvisningen på bilden?",
+    "gorsel_yolu": "../images/b794.webp",
+    "secenekler": [
+        "Både vänster körfält och körfältet i mitten får användas för färd mot Värnhemstorget",
+        "Körfältet i mitten får endast användas för färd rakt fram",
+        "Endast vänster körfält får användas vid färd mot Värnhemstorget"
+    ],
+    "dogru_index": 0,
+    "aciklama": "Om vägskyltarna eller vägvisningarna anger att både vänster körfält och mittkörfältet får användas för att färdas mot Värnhemstorget. Det innebär att du som förare kan välja mellan dessa körfält för att fortsätta mot ditt mål. Det är alltid viktigt att följa vägskyltar och vägvisning för att undvika trafikstockningar eller fara för andra trafikanter."
+},
+{
+    "id": 795,
+    "soru": "Vilket av följande fordon får inte köra med körkortsbehörighet BD?",
+    "gorsel_yolu": "../images/b795.webp",
+    "secenekler": [
+        "En lastbil med totalvikt 3 ton",
+        "En personbil med totalvikt 3,7 ton",
+        "En buss med totalvikt 23,5 ton",
+        "Ett motorredskap klass I"
+    ],
+    "dogru_index": 1,
+    "aciklama": "Behörighet BD omfattar buss (D) och personbil (B). Med BD får du köra personbil med totalvikt upp till 3,5 ton, men inte en personbil med totalvikt 3,7 ton – för det krävs en annan behörighet. Behörigheten ger inte heller rätt att köra tunga lastbilar."
+},
+{
+    "id": 796,
+    "soru": "Vad kan vara anledningen till att ett dieseldrivet fordon släpper ut svart avgasrök?",
+    "gorsel_yolu": "../images/b796.webp",
+    "secenekler": [
+        "Igensatt luftfilter",
+        "Inkopplad AT-regulator",
+        "Läckage i cyklonoljerenaren",
+        "Läckage i retardern"
+    ],
+    "dogru_index": 0,
+    "aciklama": "Ett igensatt luftfilter kan vara en orsak till att ett dieseldrivet fordon släpper ut svart avgasrök. När luftflödet till motorn blockeras eller begränsas, får motorn inte tillräckligt med syre för att förbränna bränslet ordentligt. Detta leder till ofullständig förbränning, vilket kan resultera i att svarta sotpartiklar (tung kolavlagring) släpps ut genom avgassystemet."
+},
+{
+    "id": 797,
+    "soru": "Vilken är den vanligaste orsaken till påkörning bakifrån?",
+    "gorsel_yolu": "../images/b797.webp",
+    "secenekler": [
+        "Kort avstånd mellan fordonen",
+        "Dåliga bromsar",
+        "Dålig reaktionsförmåga hos äldre förare",
+        "Dåliga däck"
+    ],
+    "dogru_index": 0,
+    "aciklama": "För att minska risken för påkörning bakifrån är det viktigt att alltid hålla ett tillräckligt långt avstånd till fordonet framför dig. En bra tumregel är att hålla ett avstånd som gör att du kan stanna utan att kollidera, även om du ser bromsljusen tändas långt fram."
+},
+{
+    "id": 798,
+    "soru": "Under bromsning i en lång utförsbacke varnar ljudsummern och varningslampan för lågt lufttryck. På vilket sätt kan du få upp trycket?",
+    "gorsel_yolu": "../images/b798.webp",
+    "secenekler": [
+        "Jag pumpbromsar i jämna intervaller",
+        "Jag bromsar hårt utan att pumpbromsa",
+        "Jag växlar ner för att öka motorvarvet",
+        "Jag växlar upp för att öka motorvarvet"
+    ],
+    "dogru_index": 2,
+    "aciklama": "I långa utförsbackar, när du använder motorbromsning, är det viktigt att se till att trycket i bromssystemet hålls på en säker nivå, eftersom lufttorkaren kan ha svårt att kompensera för lufttrycket om du bromsar för länge eller för intensivt."
+},
+{
+    "id": 799,
+    "soru": "Du kommer till ett vägarbetsområde där en vägarbetare tecknar med röd flagga. Vad ska du göra?",
+    "gorsel_yolu": "../images/b799.webp",
+    "secenekler": [
+        "Stanna",
+        "Sänka farten och passera",
+        "Vända, eftersom vägen är avstängd"
+    ],
+    "dogru_index": 0,
+    "aciklama": "Om en vägarbetare tecknar med en röd flagga, ska du stanna och följa vägarbetarens instruktioner. Röd flagga innebär att det är stopp för trafiken, och du måste ge vägarbetarna tid att utföra sitt arbete på ett säkert sätt."
+},
+{
+    "id": 800,
+    "soru": "Du kör buss i linjetrafik. Får du stanna omedelbart efter det inringade vägmärket för att invänta en avgångstid?",
+    "gorsel_yolu": "../images/b76.webp",
+    "secenekler": [
+        "Ja, men högst 5 minuter",
+        "Ja, så länge jag inte hindrar andra bussar",
+        "Nej, vägmärket innebär att det är parkeringsförbud"
+    ],
+    "dogru_index": 2,
+    "aciklama": "Om du ser ett vägmärke som innebär parkeringsförbud, får du inte stanna där, även om du är en buss i linjetrafik och behöver invänta en avgångstid. Du måste hitta en säker och tillåten plats för att stanna, där parkering inte är förbjuden, för att följa trafikreglerna och undvika eventuella böter eller trafikproblem."
+},
+{
+    "id": 801,
+    "soru": "Du kör buss i linjetrafik. Vad ökar risken för sladd i halt väglag?",
+    "gorsel_yolu": "../images/b801.webp",
+    "secenekler": [
+        "Om viktfördelningen varierar i bussen",
+        "Om bussen har stort överhäng",
+        "Om bussen har boggi- eller trippelaxel"
+    ],
+    "dogru_index": 0,
+    "aciklama": "Om viktfördelningen i bussen varierar, kan det öka risken för sladd i halt väglag. Det kan bero på att ojämn viktfördelning påverkar bussens stabilitet och gör det svårare att hålla kontrollen, särskilt under kraftiga inbromsningar eller vid plötsliga styrändringar. Det är därför viktigt att säkerställa att passagerare och bagage är jämnt fördelade för att minimera risken för sladd och öka säkerheten vid körning i hala förhållanden."
+},
+{
+    "id": 802,
+    "soru": "Vad innebär vägmärkeskombinationen?",
+    "gorsel_yolu": "../images/b364.webp",
+    "secenekler": [
+        "Strax efter vägmärkena kommer det en farlig högerkurva",
+        "400 m efter vägmärkena kommer det en farlig vänsterkurva och därefter kurvig väg i 2,0 km",
+        "400 m efter vägmärkena kommer det en farlig högerkurva och därefter kurvig väg i 2,0 km",
+        "400 m efter vägmärkena kommer det en farlig vänsterkurva och därefter kurvig väg i 1,6 km"
+    ],
+    "dogru_index": 3,
+    "aciklama": "Vägmärkeskombinationen betyder att du kommer att möta en farlig vänsterkurva om 400 meter och efter det en vägsträcka med flera kurvor i 1,6 km. Vägmärkena varnar för dessa vägförhållanden, vilket innebär att du som förare bör vara extra uppmärksam och förberedd på att minska hastigheten och anpassa körningen för att hantera de kurviga vägförhållandena."
+},
+{
+    "id": 803,
+    "soru": "Du ska fortsätta rakt fram i cirkulationsplatsen. Vad bör du först vara beredd på i denna situation?",
+    "gorsel_yolu": "../images/b219.webp",
+    "secenekler": [
+        "Att den vita bilen stannar i cirkulationsplatsen",
+        "Att den vita bilen fortsätter till vänster",
+        "Att jag ska stanna för gående när jag kör ut ur cirkulationsplatsen",
+        "Att jag ska lämna företräde för trafik som kommer från höger"
+    ],
+    "dogru_index": 0,
+    "aciklama": "I den här situationen bör du vara beredd på att den vita bilen kan stanna på cirkulationsplatsen. Det kan bero på att föraren i den vita bilen ska stanna för gående som befinner sig efter cirkulationsplatsen."
+},
+{
+    "id": 804,
+    "soru": "Du bör hålla tillräckligt långt avstånd till bilen framför av flera skäl. Vilket är det viktigaste miljöskälet?",
+    "gorsel_yolu": "../images/b804.webp",
+    "secenekler": [
+        "Jag slipper få in avgaserna från framförvarande i min buss",
+        "Jag kan köra på ett högre varvtal",
+        "Jag kan undvika onödiga stopp och onödiga accelerationer",
+        "Partiklar från vägbeläggningen som sprätter upp från framförvarande kommer inte in i min buss"
+    ],
+    "dogru_index": 2,
+    "aciklama": "Det viktigaste miljöskälet är att du kan undvika onödiga stopp och accelerationer. Genom att hålla ett tillräckligt avstånd till bilen framför får du en jämnare körning, vilket leder till lägre bränsleförbrukning och därmed minskade utsläpp. Jämn körning minskar risken för att behöva bromsa plötsligt eller accelerera snabbt, vilket sparar både bränsle och minskar trafikens miljöpåverkan."
+},
+{
+    "id": 805,
+    "soru": "Hur visar en förare bäst omdöme dagen efter att han har druckit en större mängd alkohol?",
+    "gorsel_yolu": "../images/b805.webp",
+    "secenekler": [
+        "Då föraren håller noga koll på hur mycket han dricker och sedan räknar ut vid vilken tidpunkt han åter kan köra",
+        "Då föraren låter bilen stå hela dagen för att vara säker på att alkoholen inte inverkar på körningen",
+        "Då föraren börjar med att motionera och sedan badar bastu för att skynda på alkoholförbränningen"
+    ],
+    "dogru_index": 1,
+    "aciklama": "Den bästa och säkraste åtgärden är att låta bilen stå hela dagen om föraren har druckit en större mängd alkohol. Alkohol kan påverka kroppen lång tid efter att den konsumerats, och även om man inte känner av det direkt kan det fortfarande påverka reaktionsförmågan och uppmärksamheten. Därför är det alltid bäst att vara helt säker på att man är alkoholfri innan man kör, vilket innebär att ge kroppen tillräckligt med tid att bearbeta alkoholen. Det är ett bra sätt att visa omdöme och ansvar."
+},
+{
+    "id": 806,
+    "soru": "Att undvika olyckor är den viktigaste anledningen till att du ska hålla tillräckligt avstånd till framförvarande fordon. Men det finns fler anledningar. Vilken är den viktigaste av dem?",
+    "gorsel_yolu": "../images/b806.webp",
+    "secenekler": [
+        "Det ökar körstabiliteten",
+        "Det gör att jag undviker smutsstänk",
+        "Det gör körningen mer miljövänlig och ekonomisk",
+        "Det underlättar omkörning för bakomvarande fordon"
+    ],
+    "dogru_index": 2,
+    "aciklama": "Att hålla ett tillräckligt avstånd till bilen framför gör körningen inte bara säkrare utan även mer miljövänlig och ekonomisk. Genom att hålla ett bra avstånd kan du undvika onödiga inbromsningar och accelerationer, vilket leder till en jämnare och mer effektiv körning. Detta sparar bränsle och minskar utsläppen, vilket är bättre både för miljön och din plånbok. Så det handlar inte bara om att undvika olyckor, utan också om att köra mer ekonomiskt och hållbart."
+},
+{
+    "id": 807,
+    "soru": "Hur kontrollerar du lufttorkarens funktion?",
+    "gorsel_yolu": "../images/b807.webp",
+    "secenekler": [
+        "Genom att provbromsa kraftigt i låg fart",
+        "Genom att känna efter att det är torr luft som strömmar ur trycktankarna vid dränering",
+        "Genom att kontrollera tvåvägsventilen i botten på lufttorkaren",
+        "Genom att kontrollera att jag känner spritlukt vid dränering av trycktankarna"
+    ],
+    "dogru_index": 1,
+    "aciklama": "För att kontrollera lufttorkarens funktion i ett fordon, särskilt en buss, kan du känna efter om den luft som kommer ut vid dränering är torr. Lufttorkaren är en viktig komponent i bromssystemet, och den ser till att fukten inte når bromsdelarna, vilket kan orsaka isbildning och försämrad bromseffekt. Om lufttorkaren fungerar som den ska, ska den släppa ut torr luft när du dränerar trycktankarna. Om du känner fukt eller vatten kan det vara ett tecken på att torkarens funktion är nedsatt och att den behöver kontrolleras eller bytas ut."
+},
+{
+    "id": 808,
+    "soru": "Vilken funktion har ABS-bromsar?",
+    "gorsel_yolu": "../images/b808.webp",
+    "secenekler": [
+        "De förstärker bromseffekten så att bromssträckan blir kortare",
+        "De anpassar bromsverkan efter antalet passagerare",
+        "De ser till att hjulen inte låser sig vid hård bromsning",
+        "De ser till att bromsbeläggen slits jämnt"
+    ],
+    "dogru_index": 2,
+    "aciklama": "ABS (Anti-lock Braking System) är ett system som förhindrar att hjulen låser sig vid hård bromsning. När hjulen börjar låsa sig under kraftig inbromsning, särskilt på hala vägbanor, kan det leda till att föraren förlorar kontrollen över fordonet. ABS-systemet känner av när ett hjul är nära att låsa sig och justerar bromstrycket för att hålla hjulen i rörelse, vilket gör det möjligt för föraren att behålla styrförmågan och minska risken för sladd eller olyckor. Systemet bidrar till att förbättra säkerheten, särskilt vid körning i regn, snö eller andra hala förhållanden."
+},
+{
+    "id": 809,
+    "soru": "Vilken är den vanligaste orsaken till att risksituationer uppstår i trafiken?",
+    "gorsel_yolu": "../images/b809.webp",
+    "secenekler": [
+        "Brister i trafikmiljö",
+        "Brister hos föraren",
+        "Brister på fordonet"
+    ],
+    "dogru_index": 1,
+    "aciklama": "För att minska riskerna i trafiken är det viktigt att alla förare är medvetna om dessa faktorer och aktivt arbetar för att vara uppmärksamma, följa trafikregler och köra ansvarsfullt."
+},
+{
+    "id": 810,
+    "soru": "Ett läkemedel kan vara olämpligt att använda i samband med bilkörning. Hur vet du om det är olämpligt?",
+    "gorsel_yolu": "../images/b810.webp",
+    "secenekler": [
+        "Jag läser innehållsdeklarationen på förpackningen",
+        "Jag litar på att apotekets personal informerar mig om detta",
+        "Jag läser den information som följer med medicinen"
+    ],
+    "dogru_index": 2,
+    "aciklama": "Om du är osäker på om ett läkemedel påverkar din körförmåga kan det också vara bra att prata med en läkare eller apotekspersonal innan du kör."
+},
+{
+    "id": 811,
+    "soru": "Du kommer strax ikapp fordonet du ser på bilden. Vad bör du tänka på innan du kör om?",
+    "gorsel_yolu": "../images/b140.webp",
+    "secenekler": [
+        "Att omkörningssträckan kanske blir längre än jag tänkt mig",
+        "Att vänta med omkörningen till den heldragna linjen upphör",
+        "Att signalera för att uppmärksamma föraren på omkörningen"
+    ],
+    "dogru_index": 0,
+    "aciklama": "Var alltid förberedd på att omkörningen kan ta längre tid än förväntat, och gör det först när du har full överblick och tillräckligt med utrymme för att köra om på ett säkert sätt!"
+},
+{
+    "id": 812,
+    "soru": "Vad innebär trafiksignalen?",
+    "gorsel_yolu": "../images/b141.webp",
+    "secenekler": [
+        "Jag ska alltid stanna, men jag gör mig beredd att köra när signalen växlar",
+        "Jag ska stanna, men jag får passera om jag inte kan stanna utan fara för bakomvarande trafikanter",
+        "Jag får passera"
+    ],
+    "dogru_index": 2,
+    "aciklama": "Fordon och spårvagn får fortsätta framåt. Pil innebär att signalen gäller den färdriktning som anges med pilen."
+},
+{
+    "id": 813,
+    "soru": "Vad innebär polismannens tecken?",
+    "gorsel_yolu": "../images/b813.webp",
+    "secenekler": [
+        "Både mötande och jag får köra men långsamt",
+        "Både mötande och jag ska stanna",
+        "Mötande ska stanna och jag måste svänga till vänster",
+        "Mötande ska stanna och jag får köra"
+    ],
+    "dogru_index": 1,
+    "aciklama": "Polismannens handtecken som ges för att reglera trafiken. När polisen håller armarna utsträckta åt sidorna, betyder det ofta att trafiken ska stoppa och vänta på vidare instruktioner, vilket innebär att både mötande och jag ska stanna."
+},
+{
+    "id": 814,
+    "soru": "Du ska svänga till vänster i korsningen. Vad är viktigt att tänka på?",
+    "gorsel_yolu": "../images/b183.webp",
+    "secenekler": [
+        "Att stanna vid stoppmärket som finns på vänster sida. Om möjligt ska jag undvika att skymma sikten för den andra föraren",
+        "Att stanna i höjd med stoppmärket som finns på höger sida. Om vägen är fri från trafik får jag sedan köra",
+        "Att sänka farten och vara extra uppmärksam. Om vägen är fri från trafik, behöver jag inte stanna"
+    ],
+    "dogru_index": 0,
+    "aciklama": "Det är alltid viktigt att ge tillräckligt med tid för att göra en säker bedömning av situationen vid en sväng med stopplikt!"
+},
+{
+    "id": 815,
+    "soru": "I vilken handling utläser du om bussen är godkänd för passagerare i rullstol?",
+    "gorsel_yolu": "../images/b815.webp",
+    "secenekler": [
+        "Försäkringsbeviset",
+        "Verkstadshandboken",
+        "Registreringsbeviset",
+        "Instruktionsboken"
+    ],
+    "dogru_index": 2,
+    "aciklama": "Information om huruvida en buss är godkänd för att transportera passagerare i rullstol finns i registreringsbeviset. Där anges bland annat specifikationer om fordonets utrustning, som kan inkludera att det är anpassat för rullstolar om det är relevant."
+},
+{
+    "id": 816,
+    "soru": "Du kör en sportlovsresa med buss. Passagerarna har gods som inte får plats i bussens godsutrymme. Vad ska du göra?",
+    "gorsel_yolu": "../images/b816.webp",
+    "secenekler": [
+        "Jag lägger lasten längst fram i bussen och förankrar den",
+        "Jag lägger lasten längst bak i bussen och förankrar den",
+        "Jag lägger lasten i bussens mittgång och förankrar den"
+    ],
+    "dogru_index": 1,
+    "aciklama": "Det rätta förfarandet är att kontakta arbetsgivaren eller bussens operatör för att säkerställa att godset transporteras på ett lagligt och säkert sätt, helst i en godkänd lastbil eller ett släp. Om du absolut måste hantera godset i bussen, bör du vara säker på att det inte utgör någon fara för passagerare eller trafik och att lasten är ordentligt förankrad och inte blockerar något viktigt utrymme, såsom dörrar eller gångar."
+},
+{
+    "id": 817,
+    "soru": "Du kör buss på en väg som har ett av vägmärkena i vägbanan. Efter vilket vägmärke är det störst risk att körstabiliteten påverkas?",
+    "gorsel_yolu": "../images/b817.webp",
+    "secenekler": [
+        "Efter vägmärke A",
+        "Efter vägmärke B",
+        "Efter vägmärke C",
+        "Efter vägmärke D"
+    ],
+    "dogru_index": 0,
+    "aciklama": "Ett vägmärke för sidvind innebär att du måste vara extra försiktig och justera din körning efter rådande förhållanden."
+},
+{
+    "id": 818,
+    "soru": "Du kör bussen i beställningstrafik mellan Malmö och Stockholm. Du har kört oavbrutet i 4 timmar och 30 minuter. Hur lång rast måste du minst ha?",
+    "gorsel_yolu": "../images/b818.webp",
+    "secenekler": [
+        "15 minuter",
+        "30 minuter",
+        "45 minuter",
+        "60 minuter"
+    ],
+    "dogru_index": 2,
+    "aciklama": "Enligt regler för kör- och vilotider måste du ta en rast efter att ha kört i 4,5 timmar. För att följa lagarna om arbetstid och säkerställa att du är utvilad och säker i trafiken, krävs en rast på minst 45 minuter efter att du har kört i den tiden. Rasten kan delas upp i två kortare perioder på minst 15 minuter, men totalt måste det bli 45 minuter sammanlagt."
+},
+{
+    "id": 819,
+    "soru": "Hur påverkas körförmågan i allmänhet av stress?",
+    "gorsel_yolu": "../images/b819.webp",
+    "secenekler": [
+        "Hög stress kan försämra körförmågan",
+        "Stress påverkar inte körförmågan",
+        "Alla grader av stress försämrar körförmågan"
+    ],
+    "dogru_index": 0,
+    "aciklama": "Hög stress kan försämra körförmågan genom att påverka koncentration, reaktionsförmåga och beslutsfattande. När en förare är stressad kan det leda till att:\n1. Reaktionsförmågan blir långsammare.\n2. Minskad uppmärksamhet.\n3. Ökad risktagning.\n4. Försämrat omdöme."
+},
+{
+    "id": 820,
+    "soru": "Vad bör du i första hand bli beredd på i denna situation?",
+    "gorsel_yolu": "../images/b130.webp",
+    "secenekler": [
+        "Möte med omkörande fordon",
+        "Gående efter vägkanten",
+        "Cyklister i mitt körfält"
+    ],
+    "dogru_index": 0,
+    "aciklama": "I denna situation, där du kör på en väg och ser ett annat fordon på väg att köra om, bör du i första hand vara beredd på att möta ett omkörande fordon. Det är viktigt att hålla ett säkert avstånd, inte göra några plötsliga rörelser och kontrollera trafiken bakom dig."
+},
+{
+    "id": 821,
+    "soru": "Kan du bli straffad om du kör buss när du är uttröttad?",
+    "gorsel_yolu": "../images/b821.webp",
+    "secenekler": [
+        "Ja, även om jag inte orsakar någon trafikolycka",
+        "Ja, men enbart om jag även är alkoholpåverkad",
+        "Ja, men enbart om jag orsakar någon trafikolycka",
+        "Nej, trötthet kan aldrig vara straffbart"
+    ],
+    "dogru_index": 0,
+    "aciklama": "I Sverige finns det regler om kör- och vilotider för yrkeschaufförer, och om du kör utan att ha tagit nödvändiga raster eller vilotider, kan du bli straffad. Att köra när du är trött betraktas som att köra utan tillräcklig förmåga att kontrollera fordonet, vilket kan leda till böter, körkortsåterkallelse eller andra påföljder."
+},
+{
+    "id": 822,
+    "soru": "Vilket av följande fordon klassas alltid som buss?",
+    "gorsel_yolu": "../images/b822.webp",
+    "secenekler": [
+        "Ett fordon registrerat för skolskjuts",
+        "Ett fordon registrerat för yrkesmässig personbefordran",
+        "Ett fordon vars totalvikt överstiger 10 ton",
+        "Ett fordon registrerat för 10 passagerare",
+        "Ett fordon vars tjänstevikt överstiger 10 ton"
+    ],
+    "dogru_index": 3,
+    "aciklama": "Ett fordon som är registrerat för 10 passagerare klassas alltid som en buss. Enligt Trafikverkets definition räknas ett fordon som buss om det är designat att transportera minst 9 personer, inklusive föraren. Så om ett fordon är registrerat för 10 passagerare eller fler, betraktas det som en buss, oavsett om det är i linjetrafik eller används för annan typ av transport."
+},
+{
+    "id": 823,
+    "soru": "Vad innebär det att lyktorna på skolskjutsskylten är tända?",
+    "gorsel_yolu": "../images/b212.webp",
+    "secenekler": [
+        "Att jag inte får köra om bussen när den har stannat vid hållplatsen",
+        "Att jag har väjningsplikt mot bussen när den ska lämna hållplatsen",
+        "Att bussen är parkerad",
+        "Att det kan finnas barn i närheten av bussen"
+    ],
+    "dogru_index": 3,
+    "aciklama": "Det är en signal om att du som förare bör vara extra uppmärksam och köra försiktigt, eftersom barn ofta rör sig nära eller på vägen när bussen är i stående position. I de flesta fall är det även ett krav att stanna när du närmar dig en skolbuss med tända skyltar och belysning, för att skydda barnen."
+},
+{
+    "id": 824,
+    "soru": "Kan du göra körningen mindre skadlig för miljön genom att ändra lufttrycket i däcken på din buss?",
+    "gorsel_yolu": "../images/b824.webp",
+    "secenekler": [
+        "Ja, med högre lufttryck minskar bränsleförbrukningen eftersom rullningsmotståndet minskar",
+        "Ja, med lägre lufttryck minskar slitaget på däcken vilket ger mindre gummistoft",
+        "Nej"
+    ],
+    "dogru_index": 0,
+    "aciklama": "Att hålla rätt lufttryck i däcken (enligt tillverkarens rekommendationer) hjälper till att optimera bränsleeffektiviteten, minskar slitaget på däcken och förbättrar säkerheten genom att förbättra väggreppet."
+},
+{
+    "id": 825,
+    "soru": "Du ska köra en buss som är försedd med tvillingmonterade bakhjul. Vid monteringen av dessa har du tillgång till ett däck som har mönsterdjup 1 mm och övriga tre har mönsterdjup 4 mm. Vilket påstående är riktigt?",
+    "gorsel_yolu": "../images/b825.webp",
+    "secenekler": [
+        "Jag får inte använda det mest slitna däcket",
+        "Jag måste placera det mest slitna däcket ytterst av de tvillingmonterade",
+        "Jag måste placera det mest slitna däcket innerst av de tvillingmonterade"
+    ],
+    "dogru_index": 2,
+    "aciklama": "När du har tvillingmonterade bakhjul ska det mest slitna däcket placeras innanför, medan det mindre slitna däcket (med mer mönsterdjup) ska placeras ytterst. Anledningen till detta är att det yttersta däcket har större belastning och behöver bättre grepp, vilket gör att ett däck med högre mönsterdjup där är mer fördelaktigt för både säkerhet och prestanda."
+},
+{
+    "id": 826,
+    "soru": "Signalen visar rött ljus. I vilken situation ska du stanna?",
+    "gorsel_yolu": "../images/b289.webp",
+    "secenekler": [
+        "Alltid, oavsett färdriktning",
+        "Enbart om jag ska köra rakt fram",
+        "Enbart om jag ska svänga höger",
+        "Enbart om jag ska svänga vänster"
+    ],
+    "dogru_index": 1,
+    "aciklama": "Om du ska köra rakt fram i korsningen och trafikljuset lyser rött ska du stanna vid stopplinjen i korsningen. Finns det ingen stopplinje ska du stanna i höjd med skylten. Ska du svänga höger eller vänster i korsningen får du passera vägmärket och köra vidare, trots att trafikljuset lyser rött."
+},
+{
+    "id": 827,
+    "soru": "Du kör skolskjutning med din buss som är utrustad med skolskjutsskyltar enligt bilden. När ska skyltens lyktor vara tända?",
+    "gorsel_yolu": "../images/b704.webp",
+    "secenekler": [
+        "Endast när bussen står stilla under på- och avstigning",
+        "Ca 100 meter före stannandet och under på- och avstigning samt ca 100 meter efter stannandet",
+        "Ca 100 meter före stannandet och under på- och avstigning",
+        "Under hela färden"
+    ],
+    "dogru_index": 1,
+    "aciklama": "När du kör med skolskjutning och bussen är utrustad med skolskjutsskyltar, ska skyltens lyktor vara tända:\n• Ca 100 meter före stannandet: för att varna andra trafikanter om att en buss kommer att stanna för att släppa av eller ta ombord barn.\n• Under på- och avstigning: för att ge andra trafikanter en tydlig signal om att barn kan vara på väg att gå över vägen.\n• Ca 100 meter efter stannandet: för att fortsätta varna andra trafikanter när bussen är i rörelse igen eller när passagerare fortfarande kan vara nära bussen."
+},
+{
+    "id": 828,
+    "soru": "Vad menas med yrkesmässig linjetrafik?",
+    "gorsel_yolu": "../images/b828.webp",
+    "secenekler": [
+        "Man kör godstransport efter fastställd tidtabell",
+        "Man kör person- eller godstransport en viss sträcka",
+        "Man kör persontransport efter fastställd tidtabell",
+        "Man kör person- eller godstransport efter fastställd tidtabell"
+    ],
+    "dogru_index": 2,
+    "aciklama": "Yrkesmässig linjetrafik innebär att du kör persontransporter på ett sätt som är regelbundet och efter en fastställd tidtabell. Detta kan vara buss- eller tågtrafik där du kör en bestämd sträcka mellan specifika hållplatser eller stationer, och avgångarna sker vid bestämda tider. Det är viktigt att den som kör linjetrafik har rätt behörighet och följer de regler och säkerhetsföreskrifter som gäller för kollektivtrafik och passagerartransport."
+},
+{
+    "id": 829,
+    "soru": "Du kör en 12 m lång buss och din reaktionstid vid ett visst tillfälle är 1 sekund. Hur lång blir då reaktionssträckan om du kör i 50 km/h?",
+    "gorsel_yolu": "../images/b829.webp",
+    "secenekler": [
+        "Ca 5 m",
+        "Ca 10 m",
+        "Ca 14 m",
+        "Ca 21 m",
+        "Ca 29 m"
+    ],
+    "dogru_index": 2,
+    "aciklama": "För att räkna ut reaktionssträckan används formeln: Reaktionssträcka = Hastighet × Reaktionstid. För att använda den här formeln måste vi först omvandla hastigheten till meter per sekund: 50 km/h = 50×1000/3600 m/s = 13,89 m/s. Så reaktionssträckan blir cirka 14 meter vid en hastighet på 50 km/h och en reaktionstid på 1 sekund."
+},
+{
+    "id": 830,
+    "soru": "Du kör på motorväg och närmar dig ett anslutande accelerationsfält som en förare är på väg att lämna. Vad gäller?",
+    "gorsel_yolu": "../images/b830.webp",
+    "secenekler": [
+        "Jag måste anpassa hastigheten så att inkörningen underlättas",
+        "Jag behöver inte anpassa hastigheten så att inkörningen underlättas",
+        "Jag måste byta till vänster körfält"
+    ],
+    "dogru_index": 0,
+    "aciklama": "Det innebär att du som förare ska vara beredd att ge väg om det behövs och inte blockera eller hindra den andra föraren från att komma in på vägen på ett säkert sätt. Att hålla rätt hastighet och vara uppmärksam på andra trafikanter är avgörande för att skapa ett bra trafikflöde och undvika olyckor."
+},
+{
+    "id": 831,
+    "soru": "Bussen du kör är utrustad med en lastkännande ventil. Vilken uppgift har den?",
+    "gorsel_yolu": "../images/b831.webp",
+    "secenekler": [
+        "Den anpassar bromseffekten efter antalet passagerare i bussen",
+        "Den varnar om det maximala antalet passagerare för bussen överskrids",
+        "Den anpassar hastighetsregulatorn efter antalet passagerare i bussen",
+        "Den varnar om tillåtet axeltryck överskrids"
+    ],
+    "dogru_index": 0,
+    "aciklama": "När bussen är full med passagerare, ökar vikten, och den lastkännande ventilen ser till att bromsarna anpassas för att ge en effektivare bromsning i förhållande till den ökade vikten. Detta gör att bromsarna fungerar optimalt och förhindrar överbelastning av bromssystemet, vilket förbättrar både säkerheten och prestandan."
+},
+{
+    "id": 832,
+    "soru": "Får du köra om fordonet framför dig i denna situation?",
+    "gorsel_yolu": "../images/b64.webp",
+    "secenekler": [
+        "Ja, om jag inte överskrider den heldragna linjen",
+        "Ja, även om jag överskrider den heldragna linjen eftersom jag ska köra om ett motorredskap",
+        "Nej, eftersom vägmärkena förbjuder det"
+    ],
+    "dogru_index": 2,
+    "aciklama": "Om vägmärkena, till exempel en heldragen linje, förbjuder omkörning får du inte köra om fordonet framför dig. Den heldragna linjen indikerar att omkörning är förbjuden, antingen för att sikten är för dålig eller för att det finns andra säkerhetsskäl, och du måste respektera denna trafikregel för att upprätthålla säkerheten på vägen."
+},
+{
+    "id": 833,
+    "soru": "Vilket alternativ beskriver bäst hur du minskar risken för tunnelseende?",
+    "gorsel_yolu": "../images/b833.webp",
+    "secenekler": [
+        "Jag har väl anpassad hastighet och blicken långt fram",
+        "Jag har väl anpassad hastighet och rörlig blick",
+        "Jag följer hastighetsgränserna och har blicken långt fram"
+    ],
+    "dogru_index": 1,
+    "aciklama": "När du kör bil eller buss minskar risken för tunnelseende genom att du har en väl anpassad hastighet och en rörlig blick. Genom att ständigt flytta blicken och hålla den aktiv istället för att stirra fast på en punkt, breddar du din uppmärksamhet och upptäcker lättare hinder och trafikanter runt omkring dig."
+},
+{
+    "id": 834,
+    "soru": "Vilken information kan de orangefärgade reflexerna på vägkantstolpar ge?",
+    "gorsel_yolu": "../images/b285.webp",
+    "secenekler": [
+        "De kan markera att det finns en anslutande väg",
+        "De markerar att vägen är smal",
+        "De kan markera en refug",
+        "De kan markera ett fast hinder"
+    ],
+    "dogru_index": 0,
+    "aciklama": "De orangefärgade reflexerna på vägkantstolpar används ofta för att markera specifika vägrelaterade faror eller förändringar i vägstrukturen. En av de vanligaste funktionerna är att de kan indikera att det finns en anslutande väg eller vägförgrening, så att förare ska vara extra uppmärksamma på möjliga vägbyten eller korsningar. De hjälper till att öka synligheten och säkerheten, särskilt vid sämre väderförhållanden eller i mörker."
+},
+{
+    "id": 835,
+    "soru": "Vad ökar risken för att få sladd med en buss i halt väglag?",
+    "gorsel_yolu": "../images/b835.webp",
+    "secenekler": [
+        "Om bussen har stort överhäng",
+        "Om det blåser hård sidovind",
+        "Om bussen är utrustad med trippelaxel",
+        "Om bussen är utrustad med boggi"
+    ],
+    "dogru_index": 1,
+    "aciklama": "Hård sidovind ökar risken för att få sladd, särskilt när du kör en buss i halt väglag. Vindens påverkan på ett stort och högt fordon som en buss kan göra det svårare att hålla kontrollen, vilket kan leda till sladd eller att fordonet kan driva åt sidan. Det är extra viktigt att vara försiktig och justera hastigheten vid hård sidovind, särskilt om vägen är hal."
+},
+{
+    "id": 836,
+    "soru": "När du kör buss måste du ibland använda dig av två körfält när du svänger höger i en gatukorsning. Vad är viktigast att du har beredskap för?",
+    "gorsel_yolu": "../images/b836.webp",
+    "secenekler": [
+        "Att andra trafikanter kan ha svårt att förstå mina avsikter",
+        "Att snabbt kunna växla till en lägre växel för att undvika motorstopp",
+        "Att styra tillbaka för att inte köra över den heldragna linjen efter svängen",
+        "Att använda signalhornet om andra trafikanter inte samspelar med mig"
+    ],
+    "dogru_index": 0,
+    "aciklama": "När du kör buss och använder två körfält för att svänga höger, är det viktigt att du är medveten om att andra trafikanter kan ha svårt att förstå dina avsikter. Eftersom bussens storlek och svängradie gör att den behöver utrymme från båda körfälten kan det skapa förvirring eller risk för olyckor om andra trafikanter inte är uppmärksamma. Därför bör du alltid signalera tydligt och vara extra försiktig när du svänger, så att andra trafikanter förstår dina avsikter och håller ett säkert avstånd."
+},
+{
+    "id": 837,
+    "soru": "Vilket är det lämpligaste sättet att köra i halt väglag?",
+    "gorsel_yolu": "../images/b837.webp",
+    "secenekler": [
+        "Att försöka undvika hårda inbromsningar",
+        "Att använda avgasbromsen i stället för färdbromsen",
+        "Att köra med bromsberedskap",
+        "Att följa hastighetsbegränsningen på vägen"
+    ],
+    "dogru_index": 0,
+    "aciklama": "I halt väglag är det mycket viktigt att undvika hårda inbromsningar, eftersom det kan öka risken för att hjulen låser sig och fordonet sladdar. Det bästa är att köra mjukt och planerat, med jämn hastighet och att använda motorbromsning när det är möjligt. Om du måste bromsa, gör det försiktigt och i god tid för att inte förlora kontrollen över fordonet. Det är också viktigt att hålla ett längre avstånd till andra fordon för att ge dig mer tid att reagera om något oväntat händer."
+},
+{
+    "id": 838,
+    "soru": "Hur många meter måste det vara minst fram till ett övergångsställe för att man ska få stanna eller parkera?",
+    "gorsel_yolu": "../images/b838.webp",
+    "secenekler": [
+        "5 meter",
+        "10 meter",
+        "12 meter",
+        "20 meter"
+    ],
+    "dogru_index": 1,
+    "aciklama": "Enligt Trafikförordningen måste du minst hålla ett avstånd på 10 meter från ett övergångsställe om du ska stanna eller parkera ditt fordon. Detta för att ge fotgängare och andra trafikanter en god sikt och möjlighet att passera övergångsstället på ett säkert sätt."
+},
+{
+    "id": 839,
+    "soru": "Du kör ledbussen på bilden och ska lämna hållplatsen. Bussen är utrustad med styrbar bakaxel. Vilken är den största risken om du måste styra kraftigt åt vänster?",
+    "gorsel_yolu": "../images/b67.webp",
+    "secenekler": [
+        "Att trafikanterna på trottoaren kan bli påkörda",
+        "Att däcken nöts mot trottoaren och kan explodera",
+        "Att fotgängare skymmer min sikt bakåt",
+        "Att bakomvarande trafik inte förstår att jag tänker lämna hållplatsen"
+    ],
+    "dogru_index": 0,
+    "aciklama": "När du kör en ledbuss med styrbar bakaxel och styr kraftigt åt vänster, är den största risken att den bakre delen av bussen kan svänga ut mot trottoaren och potentiellt påköra fotgängare eller cyklister. Detta beror på att den bakre axeln följer en annan väg än den främre och kan göra att bakänden av bussen svänger in i gångtrafikens område. Därför är det viktigt att vara extra uppmärksam på fotgängare och cyklister, särskilt vid svängar nära trottoarer eller övergångsställen."
+},
+{
+    "id": 840,
+    "soru": "Vilken av förarna i alternativen beskrivs med textraden som finns på bilden?",
+    "gorsel_yolu": "../images/b840.webp",
+    "secenekler": [
+        "En förare med god självkännedom",
+        "En förare med ett impulsivt körsätt",
+        "En förare med stort behov av självhävdelse",
+        "En förare med låg stresstålighet"
+    ],
+    "dogru_index": 0,
+    "aciklama": "Textraden på bilden (\"Han vet vad han kan och är medveten om sina brister\") beskriver en förare som känner till sin egen kapacitet och är medveten om sina svagheter. Detta kännetecknar en förare med god självkännedom, vilket är en viktig egenskap för trafiksäkerheten."
+},
+{
+    "id": 841,
+    "soru": "Du kör en buss med 5300 kg i totalvikt. Bussen rymmer 19 passagerare men nu har du bara åtta passagerare med dig i bussen. Vilken behörighet behöver du för att köra denna transport?",
+    "gorsel_yolu": "../images/b841.webp",
+    "secenekler": [
+        "D1",
+        "D",
+        "C",
+        "D1E"
+    ],
+    "dogru_index": 1,
+    "aciklama": "För att köra en buss med en totalvikt på 5300 kg, som rymmer fler än 8 passagerare, krävs behörighet D. Detta innebär att du har behörighet att köra bussar som är designade för att transportera fler än 8 passagerare. En D-behörighet krävs oavsett hur många passagerare du har med dig, så länge bussen är avsedd för fler än 8 personer och totalvikten är över 3,5 ton."
+},
+{
+    "id": 842,
+    "soru": "När måste du blinka?",
+    "gorsel_yolu": "../images/b842.webp",
+    "secenekler": [
+        "Endast om jag ska svänga till höger",
+        "Endast om jag ska svänga till vänster",
+        "På både om jag ska svänga till höger och till vänster",
+        "Jag behöver inte blinka"
+    ],
+    "dogru_index": 2,
+    "aciklama": "Du måste blinka när du ska svänga, både till höger och till vänster, för att informera andra trafikanter om dina avsikter. Blinkers är ett viktigt signalmedel för att undvika olyckor och säkerställa att alla trafikanter är medvetna om din rörelse på vägen. Det är ett krav enligt trafikreglerna att använda blinkers i dessa situationer."
+},
+{
+    "id": 843,
+    "soru": "Vad betyder skylten?",
+    "gorsel_yolu": "../images/b843.webp",
+    "secenekler": [
+        "Bussen drivs av miljövänligt bränsle",
+        "Bussen drivs av naturgas",
+        "Bussen är inte körbar just nu"
+    ],
+    "dogru_index": 0,
+    "aciklama": "Om skylten visar att bussen drivs av miljövänligt bränsle, innebär det att bussen använder ett bränsle som har mindre negativ påverkan på miljön jämfört med traditionella bränslen som bensin eller diesel. Det kan till exempel vara ett alternativt bränsle som biogas, el, eller andra förnybara energikällor som minskar utsläppen av koldioxid och andra skadliga ämnen i luften."
+},
+{
+    "id": 844,
+    "soru": "Du sitter och kör lastbil med 80 km/tim. Du tittar i mobilen medan du kör. Detta tar två sekunder. Hur lång sträcka hinner bilen rulla under de två sekunderna?",
+    "gorsel_yolu": "../images/b844.webp",
+    "secenekler": [
+        "Ca 24 meter",
+        "Ca 35 meter",
+        "Ca 44 meter",
+        "Ca 50 meter"
+    ],
+    "dogru_index": 2,
+    "aciklama": "För att räkna ut sträckan som lastbilen rullar under två sekunder vid en hastighet av 80 km/h använder vi formeln:\nSträcka = Hastighet × Tid.\nFörst omvandlar vi hastigheten till meter per sekund:\n80 km/h = 80 × 1000 / 3600 ≈ 22,22 m/s.\nSedan multiplicerar vi med tiden (2 sekunder):\n22,22 × 2 = 44,44 meter.\nSvar: Under två sekunder rullar lastbilen cirka 44 meter."
+},
+{
+    "id": 845,
+    "soru": "Du kör i 90 km/tim. Hur mycket rullar bilen under en sekund?",
+    "gorsel_yolu": "../images/b845.webp",
+    "secenekler": [
+        "Ca 20 meter",
+        "Ca 25 meter",
+        "Ca 22 meter",
+        "Ca 30 meter"
+    ],
+    "dogru_index": 1,
+    "aciklama": "För att räkna ut sträckan bilen rullar på en sekund vid 90 km/h:\n1. Omvandla hastigheten till meter per sekund:\n90 km/h = 90 × 1000 / 3600 = 25 m/s.\n2. Multiplicera med tiden (1 sekund):\n25 × 1 = 25 meter.\nSvar: Bilen rullar 25 meter på en sekund."
+},
+{
+    "id": 846,
+    "soru": "Vad innebär vägmärket på bilden?",
+    "gorsel_yolu": "../images/b31.webp",
+    "secenekler": [
+        "Turistväg",
+        "Lokalväg",
+        "Hotell",
+        "Sevärdhet"
+    ],
+    "dogru_index": 0,
+    "aciklama": "Vägmärket Turistväg är ett blått rektangulärt märke med en vit symbol som föreställer en blomma (ofta en styvmorsviol). Det används för att markera särskilt vackra och sevärda vägar som är av intresse för turister. Dessa vägar leder ofta genom natursköna områden eller förbi kulturella och historiska platser."
+},
+{
+    "id": 847,
+    "soru": "Hur mycket är den maximala längden på en tvåaxlig buss?",
+    "gorsel_yolu": "../images/b847.webp",
+    "secenekler": [
+        "10 meter",
+        "13,5 meter",
+        "15 meter",
+        "18,75 meter"
+    ],
+    "dogru_index": 1,
+    "aciklama": "Den maximala längden för en tvåaxlig buss i Sverige är 13,5 meter, enligt Transportstyrelsens regler."
+},
+{
+    "id": 848,
+    "soru": "Vad innebär trafiksignalen på bilden för dig som kör buss?",
+    "gorsel_yolu": "../images/b848.webp",
+    "secenekler": [
+        "Jag ska stanna",
+        "Trafiksignalen växlar om till körläget och jag kan köra",
+        "Jag ska sänka farten och vara beredd att stanna"
+    ],
+    "dogru_index": 1,
+    "aciklama": "Om trafiksignalen växlar om till körläge, betyder det att du som bussförare får köra vidare. Om det är en bussignal (fyrkantig med vitt eller gult ljus) gäller den endast för bussar i linjetrafik. Om det är en vanlig trafiksignal (röd, gul, grön) gäller den för alla fordon."
+},
+{
+    "id": 849,
+    "soru": "Hur mycket är den maximala längden på en treaxlig buss som har en axel fram och en boggi bak?",
+    "gorsel_yolu": "../images/b849.webp",
+    "secenekler": [
+        "11,20 meter",
+        "13,5 meter",
+        "15 meter",
+        "18,75 meter",
+        "24 meter"
+    ],
+    "dogru_index": 2,
+    "aciklama": "Den maximala längden för en treaxlig buss med en framaxel och en bakre boggi är 15 meter, enligt svenska regler."
+},
+{
+    "id": 851,
+    "soru": "Hur mycket är den maximala längden på en treaxlig buss som är ledbuss?",
+    "gorsel_yolu": "../images/b851.webp",
+    "secenekler": [
+        "13,5 meter",
+        "15 meter",
+        "18,75 meter",
+        "24 meter"
+    ],
+    "dogru_index": 2,
+    "aciklama": "Den maximala längden för en treaxlig ledbuss i Sverige är 18,75 meter, enligt Transportstyrelsens regler."
+},
+{
+    "id": 852,
+    "soru": "Märket anger permanent omledningsväg för ordinarie numrerad väg. Vilket vägmärke innebär Omledning?",
+    "gorsel_yolu": "../images/b852.webp",
+    "secenekler": [
+        "Vägmärke A",
+        "Vägmärke B",
+        "Vägmärke C"
+    ],
+    "dogru_index": 0,
+    "aciklama": "Vägmärke A anger omledning. Vägmärke B visar vägnummer led till, och Vägmärke C visar det vägnummer som du kör på."
+},
+{
+    "id": 853,
+    "soru": "Synfältet är en viktig del av bilkörning. Hur mycket av synfältet är det som kallas för direkt seende?",
+    "gorsel_yolu": "../images/b853.webp",
+    "secenekler": [
+        "1-2 %",
+        "98-99 %",
+        "50 %",
+        "30 %"
+    ],
+    "dogru_index": 0,
+    "aciklama": "Det direkta seendet, där du ser skarpt och tydligt, utgör ungefär 1-2% av hela synfältet. Resten av synfältet består av perifert seende."
+},
+{
+    "id": 854,
+    "soru": "Synfältet är en viktig del av bilkörning. Hur mycket av synfältet är det som kallas för periferiseende?",
+    "gorsel_yolu": "../images/b854.webp",
+    "secenekler": [
+        "1-2 %",
+        "98-99 %",
+        "50 %",
+        "30 %"
+    ],
+    "dogru_index": 1,
+    "aciklama": "Periferiseendet utgör cirka 98-99% av hela synfältet och omfattar en vinkel på upp till 180 grader."
+},
+{
+    "id": 855,
+    "soru": "Vilken skylt är närmaste till avfarten till Enköping?",
+    "gorsel_yolu": "../images/b855.webp",
+    "secenekler": [
+        "Skylt A",
+        "Skylt B",
+        "Skylt C",
+        "Skylt D"
+    ],
+    "dogru_index": 1,
+    "aciklama": "Skylt B är en avfartsvisare som visar avfarten till Enköping och är placerad närmast avfarten. Skylt A är ett platsmärke, skylt C är ett samlingsmärke för vägvisning, och skylt D visar orienteringstavla vid förbjuden sväng i korsning."
+},
+{
+    "id": 856,
+    "soru": "Bussen vill lämna busshållplatsen. I vilken situation ska du lämna bussen företräde?",
+    "gorsel_yolu": "../images/b856.webp",
+    "secenekler": [
+        "I situation A",
+        "I situation B",
+        "I situation A och B",
+        "I ingen av situationerna"
+    ],
+    "dogru_index": 0,
+    "aciklama": "Enligt bussregeln måste du lämna företräde åt en buss som signalerar att den ska lämna en busshållplats, om hastighetsbegränsningen på vägen är 50 km/h eller lägre. Detta gäller i situation A, där hastighetsgränsen är 50 km/h eller lägre."
+},
+{
+    "id": 857,
+    "soru": "Vad ingår i ett fordons tjänstevikt?",
+    "gorsel_yolu": "../images/b857.webp",
+    "secenekler": [
+        "Endast fordonets egen vikt utan förare och bränsle",
+        "Fordonets vikt inklusive förare, full tank och nödvändig utrustning",
+        "Fordonets vikt inklusive maximal last och passagerare",
+        "Endast fordonets vikt inklusive last men utan förare"
+    ],
+    "dogru_index": 1,
+    "aciklama": "Tjänstevikten är fordonets vikt som står i registreringsbeviset och inkluderar fordonet i sig (inklusive fast utrustning), förare (standardvärde ca 75 kg), full tank bränsle samt vätskor som olja och kylarvätska."
+},
+{
+    "id": 858,
+    "soru": "Vad menas med ett fordons bruttovikt?",
+    "gorsel_yolu": "../images/b858.webp",
+    "secenekler": [
+        "Fordonets vikt utan last och förare",
+        "Fordonets maximalt tillåtna vikt enligt registreringsbeviset",
+        "Fordonets aktuella vikt inklusive last, förare och passagerare",
+        "Endast vikten av lasten som transporteras"
+    ],
+    "dogru_index": 2,
+    "aciklama": "Bruttovikten är fordonets faktiska vikt vid ett visst tillfälle, vilket innebär att man räknar med allt som finns i och på fordonet just då: tjänstevikt, last, förare och eventuella passagerare."
+},
+{
+    "id": 859,
+    "soru": "Vad används ett fordons skattevikt till?",
+    "gorsel_yolu": "../images/b859.webp",
+    "secenekler": [
+        "För att bestämma hur mycket last fordonet får ta",
+        "För att räkna ut fordonsskatt utifrån den tillåtna vikten på BK1 väg",
+        "För att visa fordonets aktuella vikt på vägen",
+        "För att ange fordonets vikt utan bränsle och förare",
+        "Det är samma sak som fordonets totalvikt"
+    ],
+    "dogru_index": 1,
+    "aciklama": "Skattevikten används för att beräkna hur mycket fordonsskatt du ska betala; för tunga fordon baseras skatten ofta på vikt, och därför är skattevikten en viktig uppgift i registreringsbeviset."
+},
+{
+    "id": 860,
+    "soru": "Vad är korrekt om boggitryck och trippelaxeltryck?",
+    "gorsel_yolu": "../images/b860.webp",
+    "secenekler": [
+        "Boggitryck avser vikten på två axlar med max 5 meters avstånd, och trippelaxeltryck tre axlar med max 2 meters avstånd",
+        "Boggitryck är vikten på två axlar med högst 2 meters avstånd, och trippelaxeltryck är vikten på tre axlar med högst 5 meters avstånd",
+        "Boggitryck gäller en axel och trippelaxeltryck gäller två axlar",
+        "Trippelaxeltryck gäller bara för släp"
+    ],
+    "dogru_index": 1,
+    "aciklama": "Boggitryck är den sammanlagda vikten på två axlar som sitter nära varandra, där avståndet mellan axlarna är högst 2 meter, trippelaxeltryck är den sammanlagda vikten på tre axlar där avståndet mellan första och tredje axeln är högst 5 meter."
+},
+{
+    "id": 861,
+    "soru": "Vad är en korrekt körställning?",
+    "gorsel_yolu": "../images/b861.webp",
+    "secenekler": [
+        "Sitta så att du når alla reglage lätt och har cirka 110° vinkel i armbågarna när du håller i ratten",
+        "Sitta så att du når alla reglage lätt och har cirka 90° vinkel i armbågarna när du håller i ratten",
+        "Sitta så långt bak som möjligt för bättre komfort",
+        "Luta stolen kraftigt bakåt för att minska belastning"
+    ],
+    "dogru_index": 0,
+    "aciklama": "En korrekt körställning innebär att du sitter så att du når alla reglage lätt och har cirka 110° vinkel i armbågarna när du håller i ratten. Detta ger bra kontroll och minskar risken för trötthet och belastningsskador."
+},
+{
+    "id": 862,
+    "soru": "Vad betyder den orangea symbolen på bilden?",
+    "gorsel_yolu": "../images/b862.webp",
+    "secenekler": [
+        "Att dörren inte är ordentligt stängd",
+        "Varningslampa för fordon i döda vinkeln",
+        "Att baklampan är trasig",
+        "Att lasten är felplacerad",
+        "Körfälthållare är aktiverad"
+    ],
+    "dogru_index": 1,
+    "aciklama": "Den orangea symbolen på bilden är en varningslampa som indikerar att det finns ett fordon i den döda vinkeln. Systemet hjälper föraren att upptäcka fordon som befinner sig i områden som är svåra att se i speglarna."
+},
+{
+    "id": 863,
+    "soru": "När och hur länge bör du använda motorvärmare?",
+    "gorsel_yolu": "../images/b863.webp",
+    "secenekler": [
+        "Alltid när det är kallare än 0°C och i minst 8 timmar",
+        "När temperaturen understiger cirka +10°C och enligt rekommenderade inkopplingstider",
+        "Endast vid minusgrader och hela natten",
+        "Bara när motorn redan är varm och i max 30 minuter"
+    ],
+    "dogru_index": 1,
+    "aciklama": "Motorvärmare bör användas när temperaturen är under cirka +10°C och under anpassad tid beroende på temperatur (till exempel +10°C i minst 30 minuter, 0°C i cirka 1 timme, -15°C i cirka 1,5 timme). Att ha motorvärmaren inkopplad för länge leder till onödig elförbrukning."
+},
+{
+    "id": 864,
+    "soru": "Vad betyder E/P-knappen på en Volvo I-Shift-växellåda?",
+    "gorsel_yolu": "../images/b864.webp",
+    "secenekler": [
+        "E = Extra kraft, P = Parkeringsläge",
+        "E = Ekonomiläge, P = Prestandaläge",
+        "E = El-läge, P = Power off",
+        "E = Enkel körning, P = Programläge"
+    ],
+    "dogru_index": 1,
+    "aciklama": "På Volvos I-Shift växellåda används E/P-knappen för att välja mellan två körlägen: E (Ekonomiläge) för bränslesnål körning och P (Prestandaläge) för att få mer kraft och bättre acceleration vid t.ex. tung last eller i backar."
+},
+{
+    "id": 865,
+    "soru": "Varför bör du köra inom det ekonomiska varvtalsområdet trots att motorns högsta effekt ligger vid högre varvtal?",
+    "gorsel_yolu": "../images/b865.webp",
+    "secenekler": [
+        "För att motorn går snabbare då",
+        "För att högsta effekt alltid ger lägst bränsleförbrukning",
+        "För du får bäst balans mellan energiutnyttjande, bränsleförbrukning och slitage",
+        "För att undvika slitage på motorn"
+    ],
+    "dogru_index": 2,
+    "aciklama": "Maximal effekt ligger vid högre varvtal, men då förbrukas också mer bränsle. Inom det ekonomiska varvtalsområdet får du tillräcklig dragkraft (högt vridmoment) med lägre energiförbrukning, vilket gör körningen mer ekonomisk och ger bäst balans mellan energiutnyttjande, bränsleförbrukning och slitage."
+},
+{
+    "id": 866,
+    "soru": "Vad betyder symbolen på bilden?",
+    "gorsel_yolu": "../images/b602.webp",
+    "secenekler": [
+        "Att parkeringsbromsen är aktiverad",
+        "Att fordonet har ett antisladdsystem",
+        "Att fordonet har ett bromssystem som hindrar att det rullar bakåt i backe",
+        "Att farthållaren är aktiverad"
+    ],
+    "dogru_index": 2,
+    "aciklama": "Symbolen på bilden visar ett system som hindrar fordonet från att rulla bakåt i en backe (hill hold). Systemet håller bromsen aktiverad en kort stund när du flyttar foten från bromsen till gasen, vilket förhindrar att fordonet rullar bakåt."
+},
+{
+    "id": 867,
+    "soru": "Du kör ett fordon som är exakt 3,5 meter högt. Får du passera detta vägmärke?",
+    "gorsel_yolu": "../images/b867.webp",
+    "secenekler": [
+        "Ja, eftersom fordonet inte är högre än 3,5 meter",
+        "Nej, eftersom fordonet är lika högt som begränsningen",
+        "Ja, men bara om du kör långsamt",
+        "Nej, eftersom skylten gäller alla fordon oavsett höjd"
+    ],
+    "dogru_index": 1,
+    "aciklama": "Vägmärket för begränsad fordonshöjd på 3,5 meter innebär att den fria höjden är högst 3,5 meter och du får bara passera om ditt fordon är lägre än 3,5 meter. Eftersom ditt fordon är exakt 3,5 meter högt får du inte passera."
+},
+{
+    "id": 868,
+    "soru": "Vad betyder lampan på bilden om den lyser i instrumentpanelen?",
+    "gorsel_yolu": "../images/b868.webp",
+    "secenekler": [
+        "Luftfiltret måste bytas",
+        "Partikelfiltret måste bytas",
+        "Fel på lufttrycksystemet",
+        "Bromsbelägg bör bytas snarast"
+    ],
+    "dogru_index": 1,
+    "aciklama": "Denna lampa i instrumentpanelen indikerar att partikelfiltret behöver bytas eller servas. Filtret har blivit igensatt och behöver rengöras eller bytas ut för att motorn ska fungera optimalt."
+},
+{
+    "id": 869,
+    "soru": "Vad betyder lampan på bilden om den lyser i instrumentpanelen?",
+    "gorsel_yolu": "../images/b869.webp",
+    "secenekler": [
+        "Luftfiltret är smutsigt eller igensatt",
+        "Partikelfiltret är smutsigt eller igensatt",
+        "Katalysatorn fungerar inte som det ska"
+    ],
+    "dogru_index": 0,
+    "aciklama": "Denna lampa i instrumentpanelen indikerar att luftfiltret är smutsigt eller igensatt. Luftflödet är begränsat och filtret behöver rengöras eller bytas ut."
+},
+{
+    "id": 870,
+    "soru": "Vilken lampa betyder att det är dags att byta bromsbelägg på ditt fordon?",
+    "gorsel_yolu": "../images/b870.webp",
+    "secenekler": [
+        "Bild A",
+        "Bild B",
+        "Bild C",
+        "Bild D"
+    ],
+    "dogru_index": 3,
+    "aciklama": "Bild D visar varningslampan för slitna bromsbelägg. Bild A visar ABS-fel, Bild B visar däcktryck och Bild C visar dimljus."
+},
+{
+    "id": 871,
+    "soru": "Vad betyder denna varningslampa och när tänds den?",
+    "gorsel_yolu": "../images/b601.webp",
+    "secenekler": [
+        "Den visar att luftfiltret är igensatt och behöver bytas",
+        "Den visar att batteriet är svagt och behöver laddas",
+        "Den visar att motorn är överhettad",
+        "Den visar att glödstiften värmer motorn inför start"
+    ],
+    "dogru_index": 3,
+    "aciklama": "Denna lampa tänds när man slår på tändningen i en dieselbil (särskilt vid kall motor). Den visar att glödstiften värmer motorn inför start. Om lampan blinkar under körning kan det tyda på ett fel i motorn eller glödsystemet."
+},
+{
+    "id": 872,
+    "soru": "Vad innebär knappen som är omringad på bilden?",
+    "gorsel_yolu": "../images/b872.webp",
+    "secenekler": [
+        "Den används för att lyfta och sänka boggin (extra axeln) på lastbilen",
+        "Den används för att slå på helljus",
+        "Den används för att starta motorn",
+        "Den används för att aktivera luftkonditioneringen"
+    ],
+    "dogru_index": 0,
+    "aciklama": "Den används för att lyfta och sänka boggin (extra axeln) på lastbilen. När bilen är tom kan man lyfta boggin för att minska slitage och bränsleförbrukning, och när du har last kan du sänka den för bättre bärighet och stabilitet."
+},
+{
+    "id": 873,
+    "soru": "Vad visar färdskrivaren om förarens aktivitet på bilden?",
+    "gorsel_yolu": "../images/b873.webp",
+    "secenekler": [
+        "Föraren är i vila (rast/paus)",
+        "Föraren kör fordonet",
+        "Föraren utför annat arbete",
+        "Föraren står i beredskap (tillgänglig)"
+    ],
+    "dogru_index": 2,
+    "aciklama": "Färdskrivarens symboler betyder följande: Ratt visar körning, hammare visar annat arbete, ruta med snedstreck visar tillgänglig (beredskap) och säng visar vila. På bilden visas hammarsymbolen, vilket betyder att föraren utför annat arbete."
+},
+{
+    "id": 874,
+    "soru": "När ska man använda OUT (Out of scope) på färdskrivaren?",
+    "gorsel_yolu": "../images/b874.webp",
+    "secenekler": [
+        "När man kör på motorväg med tung last",
+        "När man tar rast eller dygnsvila",
+        "När man kör längre än tillåten körtid",
+        "När körningen är undantagen från kör- och vilotidsreglerna"
+    ],
+    "dogru_index": 3,
+    "aciklama": "OUT (Out of scope) används när körningen är undantagen från kör- och vilotidsreglerna, som till exempel vid körning på inhägnat område (terminal, industriområde, hamn), när fordonet används för arbete som inte räknas som yrkesmässig transport, vid vissa undantagna transporter (militär, räddningstjänst) eller när fordonet används privat."
+},
+{
+    "id": 875,
+    "soru": "Vad är syftet med ett common rail-system i en dieselmotor?",
+    "gorsel_yolu": "../images/b875.webp",
+    "secenekler": [
+        "Att smörja motorns rörliga delar",
+        "Att kyla ner motorn under körning",
+        "Att ge högt och jämnt bränsletryck till insprutarna för bättre förbränning",
+        "Att filtrera luften som går in i motorn"
+    ],
+    "dogru_index": 2,
+    "aciklama": "Common rail-systemet ser till att alla insprutare får bränsle från en gemensam tryckledning (rail), vilket ger högt och jämnt bränsletryck till insprutarna för bättre förbränning."
+},
+{
+    "id": 876,
+    "soru": "Vad kan hända om lampan på bilden visas på instrumentpanelen?",
+    "gorsel_yolu": "../images/b876.webp",
+    "secenekler": [
+        "Däcken slits snabbare",
+        "Bränsleförbrukningen minskar",
+        "Motorn kan överhettas och skadas",
+        "Motorn får bättre kylning"
+    ],
+    "dogru_index": 2,
+    "aciklama": "Motorn kan överhettas om det är för lite kylarvätska, vilket kan leda till allvarliga motorskador, t.ex. topplocksskada. Man ska stanna omedelbart."
+},
+{
+    "id": 877,
+    "soru": "Vad betyder denna varningssymbol?",
+    "gorsel_yolu": "../images/b877.webp",
+    "secenekler": [
+        "Bränslet håller på att ta slut",
+        "Bromssystemet är trasigt",
+        "Låg kylarvätskenivå",
+        "Låg motoroljenivå"
+    ],
+    "dogru_index": 3,
+    "aciklama": "Symbolen visar en oljekanna med en droppe, vilket betyder att du bör kontrollera och fylla på motorolja så snart som möjligt. Motorn kan ta skada."
+},
+{
+    "id": 878,
+    "soru": "Vad är det för tank med blått lock och vad används den till?",
+    "gorsel_yolu": "../images/b878.webp",
+    "secenekler": [
+        "Det är en tank för spolarvätska till vindrutan",
+        "Det är AdBlue-tanken som används för att minska skadliga utsläpp i avgassystemet",
+        "Det är en bränsletank som används för diesel",
+        "Det är en tank för kylarvätska som kyler motorn"
+    ],
+    "dogru_index": 1,
+    "aciklama": "Det är AdBlue-tanken. AdBlue hjälper till att rena avgaserna genom att minska kväveoxider (NOx)."
+},
+{
+    "id": 879,
+    "soru": "Vad innebär den omringade knappen?",
+    "gorsel_yolu": "../images/b879.webp",
+    "secenekler": [
+        "Aktiverar retarder",
+        "Aktiverar farthållaren",
+        "Slår på innerbelysningen",
+        "Startar motorvärmaren",
+        "Spärrar eller kopplar in differentialen (diffspärr)"
+    ],
+    "dogru_index": 4,
+    "aciklama": "Symbolen visar en axel med två hjul, vilket betyder att det är en diffspärr. Den används för att få bättre framkomlighet på halt eller ojämnt underlag."
+},
+{
+    "id": 880,
+    "soru": "Du har två M+S-märkta däck. Var ska de placeras på ditt tunga fordon?",
+    "gorsel_yolu": "../images/b880.webp",
+    "secenekler": [
+        "På framaxeln oavsett drivning",
+        "På valfri axel",
+        "På drivaxeln",
+        "På annan axel än drivaxeln eller framaxeln"
+    ],
+    "dogru_index": 3,
+    "aciklama": "På tunga fordon gäller att framaxel och drivaxel måste ha vinterdäck märkta med snöflinga (3PMSF/alptopp), POR eller vara dubbade, och M+S räcker inte på fram- och drivaxel. Därför kan M+S-märkta däck endast placeras på annan axel än drivaxeln eller framaxeln."
+},
+{
+    "id": 881,
+    "soru": "När ska man använda vinterdäck på tunga fordon?",
+    "gorsel_yolu": "../images/b881.webp",
+    "secenekler": [
+        "1 December - 31 mars",
+        "1 November till 31 mars",
+        "10 November - 10 april",
+        "1 Oktober - 15 april"
+    ],
+    "dogru_index": 2,
+    "aciklama": "Tunga fordon ska ha vinterdäck mellan 10 november och 10 april, oavsett väglag, och detta gäller alltid även på torra vägar."
+},
+{
+    "id": 882,
+    "soru": "Vad är det som är markerat (omringat) på bilden?",
+    "gorsel_yolu": "../images/b882.webp",
+    "secenekler": [
+        "En spärrventil",
+        "Parkeringsbroms",
+        "En luftfilterenhet",
+        "En bränslepump"
+    ],
+    "dogru_index": 0,
+    "aciklama": "Den markerade komponenten på bilden är en spärrventil. Det är en säkerhetsventil som förhindrar att parkeringsbromsen släpps när lufttrycket är under cirka 4,5 bar."
+},
+{
+    "id": 883,
+    "soru": "Vad är funktionen på denna spak vid ratten på bilderna?",
+    "gorsel_yolu": "../images/b883.webp",
+    "secenekler": [
+        "Att slå på vindrutetorkarna",
+        "Att aktivera hjälpbromsen (retarder/motorbroms)",
+        "Att styra blinkers",
+        "Att justera farthållaren"
+    ],
+    "dogru_index": 1,
+    "aciklama": "Hjälpbromsen används för att bromsa fordonet utan att slita på färdbromsen, t.ex. i nedförsbackar."
+},
+{
+    "id": 884,
+    "soru": "Vilken väg kallas 8/12-tons väg?",
+    "gorsel_yolu": "../images/b884.webp",
+    "secenekler": [
+        "BK1",
+        "BK2",
+        "BK3",
+        "BK4"
+    ],
+    "dogru_index": 2,
+    "aciklama": "En väg som tillåter högst 8 ton axeltryck och 12 ton boggitryck kallas BK3. Dessa vägar är ofta svagare och begränsas för att förhindra att tunga fordon skadar vägen."
+},
+{
+    "id": 885,
+    "soru": "Vilket märke anger begränsat boggitryck på vägen?",
+    "gorsel_yolu": "../images/b885.webp",
+    "secenekler": [
+        "Bild A",
+        "Bild B",
+        "Bild C",
+        "Bild D",
+        "Bild E"
+    ],
+    "dogru_index": 1,
+    "aciklama": "Bild B visar vägmärket för begränsat boggitryck."
+},
+{
+    "id": 886,
+    "soru": "Vad är ett standardspännband?",
+    "gorsel_yolu": "../images/b886.webp",
+    "secenekler": [
+        "LC 1600 daN, SHF 50 daN, STF 400 daN",
+        "LC 1600 daN, SHF 50 daN, STF 320 daN",
+        "LC 1000 daN, SHF 50 daN, STF 400 daN",
+        "LC 2000 daN, SHF 50 daN, STF 400 daN"
+    ],
+    "dogru_index": 0,
+    "aciklama": "Ett standardspännband har värdena LC 1600 daN, SHF 50 daN och STF 400 daN."
+},
+{
+    "id": 887,
+    "soru": "Vilket spännband är standardspännband?",
+    "gorsel_yolu": "../images/b887.webp",
+    "secenekler": [
+        "Bild A",
+        "Bild B",
+        "Bild C"
+    ],
+    "dogru_index": 1,
+    "aciklama": "EU:s standardspännband är det som visas i Bild B (LC 1600 daN, SHF 50 daN, STF 400 daN)."
+},
+{
+    "id": 888,
+    "soru": "Vilken bild visar överfallsurrning?",
+    "gorsel_yolu": "../images/b888.webp",
+    "secenekler": [
+        "Bild A",
+        "Bild B",
+        "Bild C",
+        "Bild D"
+    ],
+    "dogru_index": 0,
+    "aciklama": "Bild A visar överfallsurrning, vilket är en vanlig metod där spännbandet läggs direkt över lasten för att pressa den mot flaket."
+},
+{
+    "id": 889,
+    "soru": "Vad är funktionen för den omringade knappen och i vilka situationer bör den användas?",
+    "gorsel_yolu": "../images/b889.webp",
+    "secenekler": [
+        "Den aktiverar fyrhjulsdrift på fordonet",
+        "Den höjer och sänker fordonets fjädring",
+        "Styr boggilyften (höjer/sänker bakre axeln)",
+        "Låser differentialen"
+    ],
+    "dogru_index": 2,
+    "aciklama": "Denna knapp styr boggilyften för att höja eller sänka den bakre axeln. När du lyfter boggin minskar rullmotståndet vilket sparar bränsle och däckslitage, samt ger bättre manövrerbarhet vid tomkörning. När du sänker boggin ökar bärigheten, stabiliteten och vikten fördelas på fler axlar för att uppfylla lagkrav."
+},
+{
+    "id": 890,
+    "soru": "Vad är fordonets bruttovikt enligt lastindikatorn?",
+    "gorsel_yolu": "../images/b890.webp",
+    "secenekler": [
+        "15,8 ton",
+        "22,7 ton",
+        "10,7 ton",
+        "6,9 ton"
+    ],
+    "dogru_index": 1,
+    "aciklama": "Bruttovikten är fordonets totala vikt vid ett visst tillfälle (fordon + last). Lastindikatorn visar den sammanlagda vikten av alla axlar: 6,9 ton (framaxel) + 10,7 ton (första bakaxel) + 5,1 ton (andra bakaxel) = 22,7 ton."
+},
+{
+    "id": 891,
+    "soru": "Vilket vägmärke visar begränsad totalvikt på fordon?",
+    "gorsel_yolu": "../images/b891.webp",
+    "secenekler": [
+        "Vägmärket A",
+        "Vägmärket B",
+        "Vägmärket C",
+        "Alla vägmärken"
+    ],
+    "dogru_index": 1,
+    "aciklama": "Vägmärke B visar begränsad totalvikt. Fyrkantiga vägmärken med vikt anger totalvikt, medan cirkelformade vägmärken (som märke A) anger bruttovikt."
+},
+{
+    "id": 892,
+    "soru": "Vad är det för vägmärke på bilden?",
+    "gorsel_yolu": "../images/b892.webp",
+    "secenekler": [
+        "Påbudsmärke",
+        "Förbudsmärke",
+        "Anvisningsmärke",
+        "Väjningspliktmärke"
+    ],
+    "dogru_index": 1,
+    "aciklama": "Alla cirkelformade vägmärken med röd kant är förbudsmärken."
+},
+{
+    "id": 893,
+    "soru": "Vad betyder skylten på fordonet på bilden?",
+    "gorsel_yolu": "../images/b893.webp",
+    "secenekler": [
+        "Långsamtgående fordon (LGF-skylt)",
+        "Traktor",
+        "Farligt gods"
+    ],
+    "dogru_index": 0,
+    "aciklama": "LGF-skylten (Långsamtgående fordon) är en triangelformad skylt med röd kant och orange/rödfärgad mitt som sitter bak på fordonet. Den betyder att fordonet är ett långsamtgående fordon, det vill säga att det kör i högst 45 km/tim och kan vara till exempel en traktor, motorredskap eller vissa arbetsfordon."
+},
+{
+    "id": 894,
+    "soru": "Vilket eller vilka av följande bränslen är inte förnyelsebara?",
+    "gorsel_yolu": "../images/b894.webp",
+    "secenekler": [
+        "HVO",
+        "Biogas",
+        "RME",
+        "CNG och LNG"
+    ],
+    "dogru_index": 3,
+    "aciklama": "CNG (Compressed Natural Gas) och LNG (Liquefied Natural Gas) är i grunden naturgas, vilket är ett fossilt bränsle och därmed inte förnyelsebart. HVO, biogas och RME är däremot förnyelsebara bränslen."
+},
+{
+    "id": 895,
+    "soru": "Hur kan du som förare bidra till Nollvisionen i trafiken?",
+    "gorsel_yolu": "../images/b895.webp",
+    "secenekler": [
+        "Genom att lita på att modern teknik och säkerhetssystem alltid förhindrar olyckor",
+        "Genom att hålla kort avstånd för att släppa in fler fordon i trafiken",
+        "Genom att köra lite över hastighetsgränsen för att följa trafikrytmen och minska irritation",
+        "Genom att anpassa hastigheten, hålla avstånd, vara nykter och utvilad, använda säkerhetsutrustning, köra mjukt och visa hänsyn"
+    ],
+    "dogru_index": 3,
+    "aciklama": "Nollvisionen handlar om att ingen ska dödas eller skadas allvarligt i trafiken, vilket uppnås genom säkert och ansvarsfullt beteende från alla trafikanter såsom att anpassa hastigheten, hålla avstånd, vara nykter och utvilad."
+},
+{
+    "id": 896,
+    "soru": "Du ser att både retarder- och avgasbromsreglagen är aktiverade på bilden. Vad händer när båda är aktiverade?",
+    "gorsel_yolu": "../images/b896.webp",
+    "secenekler": [
+        "När du aktiverar retardern kopplas avgasbromsen in automatiskt",
+        "När du aktiverar retardern kopplas bort avgasbromsen in automatiskt",
+        "Man kan inte aktivera det tillsammans, de ska aktiveras separat"
+    ],
+    "dogru_index": 0,
+    "aciklama": "I många tunga fordon är dessa system sammankopplade; när du aktiverar retardern kopplas avgasbromsen in automatiskt för att ge bättre bromseffekt."
+},
+{
+    "id": 897,
+    "soru": "Varför ska man använda kupévärmare under vintertid?",
+    "gorsel_yolu": "../images/b897.webp",
+    "secenekler": [
+        "För att minska motorslitaget",
+        "För att bilen ska gå snabbare",
+        "För att motorn ska bli varmare och starkare",
+        "För att få bättre sikt och ökad säkerhet genom isfria rutor"
+    ],
+    "dogru_index": 3,
+    "aciklama": "Kupévärmaren gör rutorna isfria och immfria, vilket ger bättre sikt och därmed ökad trafiksäkerhet."
+},
+{
+    "id": 898,
+    "soru": "Har det någon betydelse om mittlinjens markeringar är korta eller långa?",
+    "gorsel_yolu": "../images/b898.webp",
+    "secenekler": [
+        "Ja, det visar hur bred vägen är",
+        "Ja, det kan varna för förändrade trafikförhållanden eller fara längre fram",
+        "Nej, det har ingen betydelse",
+        "Ja, det visar vilken hastighet som gäller"
+    ],
+    "dogru_index": 1,
+    "aciklama": "Skillnaden mellan korta och långa linjer i mittlinjen används för att varna för förändrade trafikförhållanden eller fara längre fram, som en korsning eller kurva, och hjälper föraren att vara extra uppmärksam."
+},
+{
+    "id": 899,
+    "soru": "Vad är det exakta syftet med en fyrkretsskyddsventil?",
+    "gorsel_yolu": "../images/b899.webp",
+    "secenekler": [
+        "Att öka lufttrycket i bromssystemet",
+        "Att förhindra att du förlorar bromsen vid fel i en krets",
+        "Att kyla bromsarna vid körning",
+        "Att styra ABS-systemet"
+    ],
+    "dogru_index": 1,
+    "aciklama": "Fyrkretsskyddsventilen delar upp bromssystemet i flera kretsar. Om en krets får fel eller läckage stängs den kretsen av, så att de andra kretsarna fortsätter fungera och du inte förlorar all bromsförmåga."
+},
+{
+    "id": 900,
+    "soru": "På vilken sida av vägmärket ska du köra förbi?",
+    "gorsel_yolu": "../images/b900.webp",
+    "secenekler": [
+        "På höger sida",
+        "På vänster sida",
+        "På både höger och vänster sida"
+    ],
+    "dogru_index": 0,
+    "aciklama": "Denna skylt ska passeras på höger sida. Fordonet ska köras i den riktning som de gula ränderna lutar mot; på bilden lutar ränderna åt höger."
+},
+{
+    "id": 901,
+    "soru": "Vad innebär symbolen av bilden?",
+    "gorsel_yolu": "../images/b901.webp",
+    "secenekler": [
+        "Att antikollisionssystemet kan aktiveras när du närmar dig ett fordon",
+        "Att antikollisionssystemet är ur funktion eller har ett fel",
+        "Att farthållaren är på",
+        "Att A.B.S bromsarna är slitna"
+    ],
+    "dogru_index": 0,
+    "aciklama": "Symbolen visar att antikollisionssystemet är aktivt och övervakar trafiken framför. Om du kommer för nära ett fordon kan systemet varna eller ingripa, till exempel genom att bromsa."
+},
+{
+    "id": 902,
+    "soru": "Vad är syftet med de gröna markeringarna på hjulmuttrarna?",
+    "gorsel_yolu": "../images/b291.webp",
+    "secenekler": [
+        "Att visa lufttrycket i däcket",
+        "Att visa om hjulmuttrarna har lossnat eller blivit lösa",
+        "Att dekorera fälgen",
+        "Att mäta däckets temperatur"
+    ],
+    "dogru_index": 1,
+    "aciklama": "De små markeringarna som pekar mot varandra kallas ofta hjulmutterindikatorer eller lösmutterindikatorer. Om en bult börjar lossna vrider sig muttern, då flyttar sig indikatorn direkt och man ser snabbt att något inte stämmer vid kontroll."
+},
+{
+    "id": 903,
+    "soru": "Vilka fordon gäller skylten?",
+    "gorsel_yolu": "../images/b903.webp",
+    "secenekler": [
+        "Alla fordon",
+        "Endast lastbilar",
+        "Endast tunga lastbilar",
+        "Alla bilar"
+    ],
+    "dogru_index": 0,
+    "aciklama": "Vägmärket betyder att avståndet mellan fordon måste vara minst 50 meter. Det används oftast där det är förbjudet att köra för nära, till exempel i tunnlar eller på smala vägavsnitt."
+},
+{
+    "id": 904,
+    "soru": "Du upptäcker att släpvagnen börjar vingla och kränga i en kurva, hur bör du hantera situationen?",
+    "gorsel_yolu": "../images/b904.webp",
+    "secenekler": [
+        "Jag ökar hastigheten så snabbt jag kan för att på det sättet korrigera släpvagnens läge.",
+        "Jag bromsar hårt och bestämt för att motverka släpvagnens krängning.",
+        "Jag släpper gasen och håller i ratten så stadigt som möjligt."
+    ],
+    "dogru_index": 2,
+    "aciklama": "Om du märker att släpvagnen börjar kränga i en kurva, bör du agera enligt följande: Minska hastigheten: Ta foten av gaspedalen och låt bilen och släpvagnen sakta ner utan att bromsa hårt. Hårda inbromsningar kan göra situationen värre."
+},
+{
+    "id": 905,
+    "soru": "Du kör en buss och ska svänga vänster i en korsning. Vilken riskfaktor är särskilt viktig att vara uppmärksam på när man kör ett stort fordon som buss?",
+    "gorsel_yolu": "../images/b905.webp",
+    "secenekler": [
+        "Fordon i körfältet till höger om mig.",
+        "Mötande trafik.",
+        "Fotgängare som korsar gatan jag ska svänga in på.",
+        "Cyklister som korsar gatan jag tänker svänga in på."
+    ],
+    "dogru_index": 0,
+    "aciklama": "När man kör en buss och ska svänga vänster, är det särskilt viktigt att vara medveten om bussens överhäng och hur det rör sig i förhållande till höger körfält. \"Felspegeln\" innebär att man även kontrollerar höger sidospegel, trots att man svänger vänster. Detta hjälper till att hålla koll på bussens överhäng, som kan svepa ut i det högra körfältet och riskera att kollidera med andra fordon."
+},
+{
+    "id": 906,
+    "soru": "Vad kan vara orsaken till att det läcker olja från lufttankarna när man dränerar dem?",
+    "gorsel_yolu": "../images/b906.webp",
+    "secenekler": [
+        "Något fel har uppstått i fordonets kompressor.",
+        "Vattenavskiljaren fungerar inte korrekt och släpper igenom olja.",
+        "Lufttankens nivågivare är trasig.",
+        "Oljefiltret är igensatt och behöver bytas."
+    ],
+    "dogru_index": 0,
+    "aciklama": "Om det kommer olja från lufttankarna när man dränerar dem, kan det indikera att kompressorn är sliten och att olja har börjat läcka från kompressorn till tryckluftssystemet. Detta är ett allvarligt problem som kan påverka driften av tryckluftssystemet och kan även orsaka skador på andra system och komponenter. Om olja upptäcks i lufttankarna är det viktigt att få problemet undersökt och åtgärdat av en kvalificerad mekaniker så snart som möjligt."
+},
+{
+    "id": 907,
+    "soru": "Hur påverkas väggreppet om det är för lågt lufttryck i bussens däck?",
+    "gorsel_yolu": "../images/b907.webp",
+    "secenekler": [
+        "Väggreppet påverkas inte, det är gummiblandningen i däcket som är avgörande.",
+        "Väggreppet påverkas inte av lufttrycket, bara av däckens mönsterdjup.",
+        "Väggreppet förbättras eftersom däcket lättare formas av vägbanans spårigheter.",
+        "Väggreppet försämras och däcken slits onödigt mycket."
+    ],
+    "dogru_index": 3,
+    "aciklama": "För lågt lufttryck i däcken medför en ökning av inre värme, vilket inte bara påverkar däckets funktion och livslängd negativt genom att göra det onödigt varmt och slitet, utan även ökar bränsleförbrukningen på grund av högre rullmotstånd. Dessutom kan det ackumulerade värmepåslaget potentiellt leda till en farlig däckexplosion."
+},
+{
+    "id": 908,
+    "soru": "Vad innebär EBS-bromsar?",
+    "gorsel_yolu": "../images/b908.webp",
+    "secenekler": [
+        "Bromsarna är EU-godkända.",
+        "Bromskraften fördelas elektroniskt vilket ger en stabilare inbromsning och förkortad bromsträcka.",
+        "Bromsarna är elektromagnetiska.",
+        "Bromskraften fördelas pneumatiskt, 40% fram, 60% bak."
+    ],
+    "dogru_index": 1,
+    "aciklama": "EBS kan förklaras som kusinen till ABS. ABS rapporterar till EBS om ett av lastbilens hjul låser sig i alla fall. Om ABS exempelvis rapporterar att höger framdäck låser sig hela tiden men inte de övriga däcken utgår EBS ifrån att höger framhjul står på halt väglag, varpå EBS fördelar bromsverkan på 100% till de andra däcken samtidigt som den minskar bromsverkan till 50% till höger framhjul. EBS står för stabilitet i bromsningen."
+},
+{
+    "id": 909,
+    "soru": "Vilket alternativ påverkar reaktionssträckans längd?",
+    "gorsel_yolu": "../images/b909.webp",
+    "secenekler": [
+        "Förarens reaktionstid.",
+        "Fordonets skick.",
+        "Fordonets däck.",
+        "Väglaget."
+    ],
+    "dogru_index": 0,
+    "aciklama": "De faktorer som påverkar reaktionssträckan är förarens reaktionstid och hastigheten på fordonet. Reaktionssträckan är den sträcka som ditt fordon rullar från det att du ser faran tills att du agerar, exempelvis bromsar. Från att du börjar bromsa räknas det som bromssträcka. Reaktionssträckan och bromssträckan tillsammans kallas för stoppsträcka."
+},
+{
+    "id": 910,
+    "soru": "I vilken av följande trafiksituationer är risken störst att råka ut för en illusion?",
+    "gorsel_yolu": "../images/b910.webp",
+    "secenekler": [
+        "När jag kör länge på motorväg.",
+        "När jag kör på en landsväg och det regnar kraftigt.",
+        "När jag får solen i ögonen under körning.",
+        "När jag möter en bil med en trasig strålkastare i mörker."
+    ],
+    "dogru_index": 3,
+    "aciklama": "Illusioner eller synvillor uppstår när våra sinnen, särskilt synen, missleds av vissa visuella stimuli eller situationer. Dessa kan påverka vår förmåga att korrekt uppfatta vår omgivning, vilket kan vara särskilt riskabelt när vi kör. När du möter en bil med en trasig strålkastare i mörker: Denna situation kan lätt leda till en illusion. När en bil bara har en fungerande strålkastare kan det vara lätt att missta den för ett annat fordon, till exempel en motorcykel, på grund av det ojämna ljuset. Detta kan orsaka felbedömningar av avstånd och fordonets storlek."
+},
+{
+        "id": 911,
+        "soru": "På en väg klassificerad som BK 1, vad är högsta tillåtna axeltryck för en axel som inte är drivande?",
+        "gorsel_yolu": "../images/b911.webp",
+        "secenekler": [
+            "8 ton",
+            "10 ton",
+            "11,5 ton",
+            "16 ton"
+        ],
+        "dogru_index": 1,
+        "aciklama": "BK 1 (Bärighetsklass 1) vägar tillåter ett högsta axeltryck på 10 ton för en axel som inte är drivande."
+    },
+    {
+        "id": 912,
+        "soru": "På en väg klassificerad som BK 3, vad är högsta tillåtna axeltryck för en axel som inte är drivande?",
+        "gorsel_yolu": "../images/b912.webp",
+        "secenekler": [
+            "8 ton",
+            "10 ton",
+            "11,5 ton",
+            "12 ton"
+        ],
+        "dogru_index": 0,
+        "aciklama": "BK 3 vägar har strängare begränsningar och tillåter endast 8 ton axeltryck för en axel som inte är drivande."
+    },
+    {
+        "id": 913,
+        "soru": "Vilket är det högsta tillåtna axeltrycket för en drivande axel på en BK 1 eller BK 4 väg?",
+        "gorsel_yolu": "../images/b913.webp",
+        "secenekler": [
+            "10 ton",
+            "11,5 ton",
+            "16 ton",
+            "18 ton"
+        ],
+        "dogru_index": 1,
+        "aciklama": "På både BK 1 och BK 4 vägar är det högsta tillåtna axeltrycket för en drivande axel 11,5 ton."
+    },
+    {
+        "id": 914,
+        "soru": "På en BK 2 väg, vad är högsta tillåtna axeltryck för en drivande axel?",
+        "gorsel_yolu": "../images/b914.webp",
+        "secenekler": [
+            "8 ton",
+            "10 ton",
+            "11,5 ton",
+            "16 ton"
+        ],
+        "dogru_index": 1,
+        "aciklama": "På BK 2 vägar är högsta tillåtna axeltryck för en drivande axel 10 ton."
+    },
+    {
+        "id": 915,
+        "soru": "Vad är högsta tillåtna boggityck när avståndet mellan axlarna är mindre än 1,0 meter (gäller BK 1, BK 2, BK 3 och BK 4)?",
+        "gorsel_yolu": "../images/b915.webp",
+        "secenekler": [
+            "10 ton",
+            "11,5 ton",
+            "12 ton",
+            "16 ton"
+        ],
+        "dogru_index": 1,
+        "aciklama": "När avståndet mellan axlarna i boggien är mindre än 1,0 meter är högsta tillåtna boggityck 11,5 ton för alla bärighetsklasser (BK 1, 2, 3 och 4)."
+    },
+    {
+        "id": 916,
+        "soru": "På en BK 1 väg, vad blir högsta tillåtna boggityck om avståndet mellan axlarna är 1,0 m eller större men inte 1,3 m?",
+        "gorsel_yolu": "../images/b916.webp",
+        "secenekler": [
+            "12 ton",
+            "16 ton",
+            "18 ton",
+            "19 ton"
+        ],
+        "dogru_index": 1,
+        "aciklama": "Vid ett axelavstånd mellan 1,0 m och mindre än 1,3 m är boggitycket 16 ton på BK 1, BK 2 och BK 4 vägar (på BK 3 är det 12 ton)."
+    },
+    {
+        "id": 917,
+        "soru": "På en BK 1 eller BK 4 väg, vad är högsta tillåtna boggityck när avståndet mellan axlarna är 1,3 m eller större men inte 1,8 m?",
+        "gorsel_yolu": "../images/b917.webp",
+        "secenekler": [
+            "16 ton",
+            "18 ton",
+            "19 ton",
+            "20 ton"
+        ],
+        "dogru_index": 1,
+        "aciklama": "För axelavstånd mellan 1,3 m och 1,8 m är högsta tillåtna boggityck 18 ton på BK 1 och BK 4 vägar."
+    },
+    {
+        "id": 918,
+        "soru": "Vilket villkor ger 19 tons boggityck på en BK 1 eller BK 4 väg vid ett axelavstånd på 1,3 m till under 1,8 m?",
+        "gorsel_yolu": "../images/b918.webp",
+        "secenekler": [
+            "Om axlarna har enkla däck och stålresår.",
+            "Om drivaxeln har dubbelmonterade hjul och luftfjädring (eller likvärdig) samt vikten inte överstiger 9,5 ton på någon axel.",
+            "Om fordonet körs i lägre hastighet än 30 km/h.",
+            "Det finns inga särskilda villkor för 19 ton."
+        ],
+        "dogru_index": 1,
+        "aciklama": "Om avståndet är 1,3 m till under 1,8 m och drivaxeln har dubbelmonterade hjul samt luftfjädring (eller likvärdig fjädring) och max 9,5 ton på någon axel, höjs boggitycket till 19 ton på BK 1 och BK 4 vägar."
+    },
+    {
+        "id": 919,
+        "soru": "På en BK 1 eller BK 4 väg, vad är högsta tillåtna boggityck när avståndet mellan axlarna är 1,8 m eller större?",
+        "gorsel_yolu": "../images/b919.webp",
+        "secenekler": [
+            "16 ton",
+            "18 ton",
+            "20 ton",
+            "21 ton"
+        ],
+        "dogru_index": 2,
+        "aciklama": "När boggins axelavstånd är 1,8 m eller större är högsta tillåtna boggityck 20 ton på BK 1 och BK 4 vägar (på BK 2 är det 16 ton och på BK 3 är det 12 ton)."
+    },
+    {
+        "id": 920,
+        "soru": "På en BK 3 väg, vad är det högsta boggitycket oavsett axelavstånd (förutom avstånd under 1,0 m)?",
+        "gorsel_yolu": "../images/b920.webp",
+        "secenekler": [
+            "10 ton",
+            "12 ton",
+            "16 ton",
+            "20 ton"
+        ],
+        "dogru_index": 1,
+        "aciklama": "På BK 3 vägar är boggitycket begränsat till som mest 12 ton för alla axelavstånd som är 1,0 meter eller större."
+    },
+    {
+        "id": 921,
+        "soru": "På en BK 1 eller BK 4 väg, vad är högsta tillåtna trippelaxeltryck om avståndet mellan de yttre axlarna är mindre än 2,6 m?",
+        "gorsel_yolu": "../images/b921.webp",
+        "secenekler": [
+            "20 ton",
+            "21 ton",
+            "24 ton",
+            "26 ton"
+        ],
+        "dogru_index": 1,
+        "aciklama": "För trippelaxel med ett avstånd mellan de yttre axlarna på under 2,6 m är högsta tillåtna tryck 21 ton på BK 1 och BK 4 vägar (20 ton på BK 2 och 13 ton på BK 3)."
+    },
+    {
+        "id": 922,
+        "soru": "På en BK 1 eller BK 4 väg, vilket trippelaxeltryck tillåts om avståndet mellan de yttre axlarna är 4,7 m eller större?",
+        "gorsel_yolu": "../images/b922.webp",
+        "secenekler": [
+            "22 ton",
+            "24 ton",
+            "25 ton",
+            "26 ton"
+        ],
+        "dogru_index": 3,
+        "aciklama": "När avståndet mellan de yttre axlarna i en trippelaxel är 4,7 meter eller större, är högsta tillåtna tryck 26 ton på BK 1 och BK 4 vägar."
+    },
+    {
+        "id": 923,
+        "soru": "Vad är högsta tillåtna bruttovikt för ett fordon på band på en BK 1 eller BK 4 väg?",
+        "gorsel_yolu": "../images/b923.webp",
+        "secenekler": [
+            "18 ton",
+            "20 ton",
+            "24 ton",
+            "Det styrs av Bilaga 1"
+        ],
+        "dogru_index": 2,
+        "aciklama": "Fordon på band har en högsta bruttovikt på 24 ton på både BK 1 och BK 4 vägar (på BK 2 och BK 3 är gränsen 18 ton)."
+    },
+    {
+        "id": 924,
+        "soru": "Vad är högsta tillåtna bruttovikt för ett fordon på medar oavsett bärighetsklass (BK 1, BK 2, BK 3, BK 4)?",
+        "gorsel_yolu": "../images/b924.webp",
+        "secenekler": [
+            "18 ton",
+            "24 ton",
+            "26 ton",
+            "Det styrs av Bilaga 4"
+        ],
+        "dogru_index": 0,
+        "aciklama": "För fordon på medar är högsta tillåtna bruttovikt fastställd till 18 ton på samtliga bärighetsklasser (BK 1, BK 2, BK 3 och BK 4)."
+    }
 
 ]

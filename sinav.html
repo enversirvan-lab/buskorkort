@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Buss Teoriprov - Övningsprov och simulering</title>
     
-    <meta name="description" content="Förbered dig för bussens teoriprov med 720 aktuella frågor, verklig simulering och omedelbart resultat. Anpassad till 2026 års Trafikverket-läroplan." />
+    <meta name="description" content="Förbered dig för bussens teoriprov med 900 aktuella frågor, verklig simulering och omedelbart resultat. Anpassad till 2026 års Trafikverket-läroplan." />
     <meta name="robots" content="index, follow" />
     <link rel="canonical" href="https://teoripro.netlify.app" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -643,7 +643,7 @@
         <div id="loadingScreen">
             <i class="fa-solid fa-spinner fa-spin"></i>
             <h2>Laddar frågebank...</h2>
-            <p>720 frågor förbereds, vänligen vänta.</p>
+            <p>900 frågor förbereds, vänligen vänta.</p>
         </div>
 
         <!-- PROVYTA (dold från början) -->
@@ -772,7 +772,7 @@
             return { testId: t ? parseInt(t) : 1, mode: mode || 'normal' };
         }
 
-        // ★★★ TEST 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ★★★
+        // ★★★ TEST 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17 ★★★
         function getQuestionsForExam(testId) {
             if (allQuestionsDatabase.length === 0) return [];
             
@@ -834,6 +834,31 @@
             // Test 12: ID 661-720
             if (testId === 12) {
                 return allQuestionsDatabase.filter(q => q.id >= 661 && q.id <= 720);
+            }
+            
+            // Test 13: ID 721-780
+            if (testId === 13) {
+                return allQuestionsDatabase.filter(q => q.id >= 721 && q.id <= 780);
+            }
+            
+            // Test 14: ID 781-840
+            if (testId === 14) {
+                return allQuestionsDatabase.filter(q => q.id >= 781 && q.id <= 840);
+            }
+            
+            // Test 15: ID 841-900
+            if (testId === 15) {
+                return allQuestionsDatabase.filter(q => q.id >= 841 && q.id <= 900);
+            }
+            
+            // Test 16: ID 901-910
+            if (testId === 16) {
+                return allQuestionsDatabase.filter(q => q.id >= 901 && q.id <= 910);
+            }
+            
+            // Test 17: ID 911-924 (BK vägar)
+            if (testId === 17) {
+                return allQuestionsDatabase.filter(q => q.id >= 911 && q.id <= 924);
             }
             
             // Varsayılan: Test 1 (1-60)
@@ -1299,9 +1324,8 @@
                 title.style.color = "var(--correct-green)";
                 desc.innerText = 'Du har slutfört bussens teoriprov med ' + percentage + 
                     '% framgång. Du är redo för det riktiga provet!';
-                if (isExam51) {
-                    setTimeout(fireConfetti, 300);
-                }
+                // ★ Konfetti visas nu för ALLA godkända prov (inte bara Test 51) ★
+                setTimeout(fireConfetti, 300);
                 status = 'basarili';
             } else {
                 circle.style.borderColor = "var(--wrong-red)";
