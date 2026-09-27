@@ -7684,7 +7684,7 @@
         "Bild D"
     ],
     "dogru_index": 2,
-    "aciklama": "Bild A: Heldragen linje på påfart eller avfart, man får inte överskrida den. Bild B: Lämpligt att överskrida den på båda sidorna. Bild C: Olämpligt att överskrida den eftersom det snart kommer att bli heldragen linje. Bild D: Heldragen linje får inte överskrida den."
+    "aciklama": "Bild A: Spärrområde / hel-/streckad styrningslinje vid påfart eller avfart; man får inte överskrida den. Bild B: Vägmarkering med dubbla streckade linjer där det är tillåtet att passera. Bild C: Varningslinje (långa streck med korta mellanrum); det är olämpligt att överskrida den eftersom den varnar för att en heldragen linje snart tar vid. Bild D: Dubbel heldragen linje; den får absolut inte överskridas."
 },
 {
     "id": 620,
@@ -7768,12 +7768,12 @@
     "soru": "Vilken behörighet behöver du för att kunna köra en ledbuss?",
     "gorsel_yolu": "../images/b626.webp",
     "secenekler": [
-        "DE",
+        "BD",
         "CD",
         "D"
     ],
     "dogru_index": 0,
-    "aciklama": "För att köra en ledbuss i Sverige behöver du ha körkort för buss (DE-körkort). Detta körkort krävs för att köra tunga bussar med släp eller ledbussar, som ofta har en högre passagerarkapacitet och en annan kördynamik än en vanlig enskild buss."
+    "aciklama": "För att köra en ledbuss i Sverige behöver du ha behörighet BD (B- och D-körkort kombinerat), vilket krävs för denna typ av fordon med särskild kördynamik och kapacitet."
 },
 {
     "id": 627,
