@@ -8909,17 +8909,16 @@
 },
 {
     "id": 716,
-    "soru": "Vilken vikt avses?",
+    "soru": "Vad innebär denna kombination av vägmärken?",
     "gorsel_yolu": "../images/b716.webp",
     "secenekler": [
-        "Tjänstevikt",
-        "Lastvikt",
-        "Totalvikt",
-        "Bruttovikt",
-        "Axeltryck"
+        "Hastighetsbegränsningen gäller endast fordon med en totalvikt över 7 ton.",
+        "Hastighetsbegränsningen gäller endast fordon med en bruttovikt över 7 ton.",
+        "Hastighetsbegränsningen gäller alla fordon oavsett vikt.",
+        "Förbud mot trafik med fordon som har en bruttovikt över 7 ton."
     ],
-    "dogru_index": 2,
-    "aciklama": "Det betyder att fordonet, inklusive last, inte får överstiga en totalvikt på 7 ton när det kör på denna väg. Om ditt fordon väger mer än detta (inklusive last), får du inte köra där eller så måste du hitta en annan väg som tillåter tyngre fordon."
+    "dogru_index": 1,
+    "aciklama": "Under tilläggstavlan står det endast '7 ton' utan ordet 'totalvikt'. Enligt Transportstyrelsens regler avser detta fordonets bruttovikt (den faktiska och aktuella vikten vid tillfället, inklusive last och passagerare). Hastighetsbegränsningen på 50 km/h gäller därför endast fordon vars aktuella bruttovikt överstiger 7 ton."
 },
 {
     "id": 717,
@@ -8968,7 +8967,7 @@
         "Ca 32 m"
     ],
     "dogru_index": 1,
-    "aciklama": "För att beräkna reaktionssträckan använder vi formeln: Reaktionssträcka = hastighet × reaktionstid. Hastigheten på 50 km/h omvandlas till meter per sekund (50 × 0,2778 = 13,89 m/s). Med 1 sekunds reaktionstid blir reaktionssträckan cirka 14 meter."
+    "aciklama": "Reaktionssträckan beräknas enklast genom att omvandla hastigheten till meter per sekund (dela hastigheten med 3,6) och multiplicera med reaktionstiden. Med 50 km/h: 50 / 3,6 = ca 13,89 m/s. Med 1 sekunds reaktionstid blir reaktionssträckan ungefär 14 meter."
 },
 {
     "id": 721,
