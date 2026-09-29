@@ -10292,15 +10292,15 @@
 },
 {
     "id": 825,
-    "soru": "Du ska köra en buss som är försedd med tvillingmonterade bakhjul. Vid monteringen av dessa har du tillgång till ett däck som har mönsterdjup 1 mm och övriga tre har mönsterdjup 4 mm. Vilket påstående är riktigt?",
+    "soru": "Du ska köra en buss som är försedd med tvillingmonterade bakhjul. Vid monteringen av dessa har du tillgång till ett däck som har ett mönsterdjup på 1 mm och tre däck som har ett mönsterdjup på 4 mm. Vilket påstående är riktigt?",
     "gorsel_yolu": "../images/b825.webp",
-    "secenekler": [
+    "seçenekler": [
         "Jag får inte använda det mest slitna däcket",
         "Jag måste placera det mest slitna däcket ytterst av de tvillingmonterade",
         "Jag måste placera det mest slitna däcket innerst av de tvillingmonterade"
     ],
     "dogru_index": 2,
-    "aciklama": "När du har tvillingmonterade bakhjul ska det mest slitna däcket placeras innanför, medan det mindre slitna däcket (med mer mönsterdjup) ska placeras ytterst. Anledningen till detta är att det yttersta däcket har större belastning och behöver bättre grepp, vilket gör att ett däck med högre mönsterdjup där är mer fördelaktigt för både säkerhet och prestanda."
+    "aciklama": "Vid dubbelmonterade hjul på ett tungt fordon får det yttre däcket vara mer slitet än 1,6 mm, så länge däckets armering inte är blottlagd. Därför kan däcket med 1 mm mönsterdjup användas som det yttre däcket. Det mest slitna däcket ska alltså placeras ytterst och däcken med 4 mm mönsterdjup placeras innerst."
 },
 {
     "id": 826,
