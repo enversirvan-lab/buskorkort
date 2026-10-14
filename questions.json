@@ -8917,8 +8917,8 @@
         "Hastighetsbegränsningen gäller alla fordon oavsett vikt.",
         "Förbud mot trafik med fordon som har en bruttovikt över 7 ton."
     ],
-    "dogru_index": 1,
-    "aciklama": "Under tilläggstavlan står det endast '7 ton' utan ordet 'totalvikt'. Enligt Transportstyrelsens regler avser detta fordonets bruttovikt (den faktiska och aktuella vikten vid tillfället, inklusive last och passagerare). Hastighetsbegränsningen på 50 km/h gäller därför endast fordon vars aktuella bruttovikt överstiger 7 ton."
+    "dogru_index": 0,
+    "aciklama": "Tilläggstavlan under hastighetsskylten är T5 Totalvikt. Enligt Transportstyrelsen anger den att märket gäller fordon med en totalvikt som överstiger det angivna värdet, här 7 ton. Totalvikt är fordonets högsta tillåtna vikt enligt registreringsbeviset. Hastighetsbegränsningen på 50 km/h gäller alltså endast fordon vars totalvikt överstiger 7 ton, medan lättare fordon inte berörs. Bruttovikt anges i stället på förbudsmärkena C20 och C21, och ett förbud mot trafik med tunga fordon skulle kräva ett sådant märke, inte en tilläggstavla under en hastighetsskylt."
 },
 {
     "id": 717,
